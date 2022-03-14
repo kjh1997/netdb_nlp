@@ -65,7 +65,7 @@ def cal_feature_idf():
     idf = {}
     for k in counter:
         idf[k] = math.log(cnt / counter[k])
-    data_utils.dump_data(dict(idf), feature_dir, "feature_idf.pkl"))
+    data_utils.dump_data(dict(idf), feature_dir, "feature_idf.pkl")
 
 if __name__ == '__main__':
     """
