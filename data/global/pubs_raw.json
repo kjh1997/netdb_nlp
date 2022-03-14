@@ -1,6 +1,6 @@
 {
   "62293b7cd21827e888e2fa64": {
-    "author": [
+    "authors": [
       {
         "org": "연세대학교 전기전자공학부",
         "name": "최혁두",
@@ -34,7 +34,7 @@
     "year": "2012"
   },
   "62293b7cd21827e888e2fa65": {
-    "author": [
+    "authors": [
       {
         "org": "한국원자력연구원",
         "name": "김태원",
@@ -63,7 +63,7 @@
     "year": "2012"
   },
   "62293b7fd21827e888e2fa66": {
-    "author": [
+    "authors": [
       {
         "org": "영남대학교 전기공학과",
         "name": "박혜공",
@@ -87,7 +87,7 @@
     "year": "2012"
   },
   "62293b7fd21827e888e2fa68": {
-    "author": [
+    "authors": [
       {
         "org": "인하대학교 정보통신공학과",
         "name": "최선욱",
@@ -106,7 +106,7 @@
     "year": "2013"
   },
   "62293b80d21827e888e2fa6b": {
-    "author": [
+    "authors": [
       {
         "org": "한양대학교 자동차공학과",
         "name": "이민채",
@@ -135,7 +135,7 @@
     "year": "2013"
   },
   "62293b7fd21827e888e2fa67": {
-    "author": [
+    "authors": [
       {
         "org": "국립한경대학교 전기전자제어공학과",
         "name": "정동혁",
@@ -159,7 +159,7 @@
     "year": "2013"
   },
   "62293b7fd21827e888e2fa69": {
-    "author": [
+    "authors": [
       {
         "org": "서울대학교 기계항공공학부",
         "name": "김동욱",
@@ -183,7 +183,7 @@
     "year": "2013"
   },
   "62293b7fd21827e888e2fa6a": {
-    "author": [
+    "authors": [
       {
         "org": "Korea Institute Of Ocean Science & Technology, Maritime Security Research Center",
         "name": "고성협",
@@ -207,7 +207,7 @@
     "year": "2013"
   },
   "62293b83d21827e888e2fa6e": {
-    "author": [
+    "authors": [
       {
         "org": "자동차부품연구원 자율주행기술연구센터",
         "name": "김문식",
@@ -231,7 +231,7 @@
     "year": "2014"
   },
   "62293b80d21827e888e2fa6d": {
-    "author": [
+    "authors": [
       {
         "org": "와이즈넛 Mining tech팀",
         "name": "김문종",
@@ -260,7 +260,7 @@
     "year": "2014"
   },
   "62293b80d21827e888e2fa6c": {
-    "author": [
+    "authors": [
       {
         "org": "Maritime Safety Research Division, Korea Research Institute of Ships & Ocean Engineering",
         "name": "박슬기",
@@ -279,7 +279,7 @@
     "year": "2014"
   },
   "62293b83d21827e888e2fa72": {
-    "author": [
+    "authors": [
       {
         "org": "서울대학교 전기정보공학부 및 뉴미디어통신 공동연구소",
         "name": "이한슬",
@@ -298,7 +298,7 @@
     "year": "2015"
   },
   "62293b83d21827e888e2fa70": {
-    "author": [
+    "authors": [
       {
         "org": "한국철도기술연구원 교통환경연구팀",
         "name": "정우태",
@@ -322,7 +322,7 @@
     "year": "2015"
   },
   "62293b83d21827e888e2fa6f": {
-    "author": [
+    "authors": [
       {
         "org": "연세대학교 전기전자공학과",
         "name": "최배훈",
@@ -351,7 +351,7 @@
     "year": "2015"
   },
   "62293b83d21827e888e2fa73": {
-    "author": [
+    "authors": [
       {
         "org": "군산대학교 기계자동차공학부 스마트자율시스템연구실",
         "name": "두팔람 툽신자갈",
@@ -370,7 +370,7 @@
     "year": "2015"
   },
   "62293b83d21827e888e2fa71": {
-    "author": [
+    "authors": [
       {
         "org": "서울시립대학교 공간정보공학과",
         "name": "임륭혁",
@@ -399,7 +399,7 @@
     "year": "2015"
   },
   "62293b86d21827e888e2fa77": {
-    "author": [
+    "authors": [
       {
         "org": "Dept. of Geoinformatics, University of Seoul",
         "name": "박찬혁",
@@ -423,7 +423,7 @@
     "year": "2016"
   },
   "62293b86d21827e888e2fa76": {
-    "author": [
+    "authors": [
       {
         "org": "충남대학교 메카트로닉스공학과",
         "name": "조성택",
@@ -447,7 +447,7 @@
     "year": "2016"
   },
   "62293b89d21827e888e2fa7e": {
-    "author": [
+    "authors": [
       {
         "org": "한국건설기술연구원 도로연구소",
         "name": "양인철",
@@ -471,7 +471,7 @@
     "year": "2017"
   },
   "62293b89d21827e888e2fa7c": {
-    "author": [
+    "authors": [
       {
         "org": "서울대학교 기계항공공학부",
         "name": "임형호",
@@ -500,7 +500,7 @@
     "year": "2017"
   },
   "62293b89d21827e888e2fa80": {
-    "author": [
+    "authors": [
       {
         "org": "한국철도기술연구원 광역도시교통본부",
         "name": "김정태",
@@ -529,7 +529,7 @@
     "year": "2017"
   },
   "62293b89d21827e888e2fa7a": {
-    "author": [
+    "authors": [
       {
         "org": "서울대학교 기계항공공학부",
         "name": "채흥석",
@@ -563,7 +563,7 @@
     "year": "2017"
   },
   "62293b89d21827e888e2fa79": {
-    "author": [
+    "authors": [
       {
         "org": "충남대학교 메카트로닉스공학과",
         "name": "홍효성",
@@ -612,7 +612,7 @@
     "year": "2017"
   },
   "62293b8bd21827e888e2fa81": {
-    "author": [
+    "authors": [
       {
         "org": "한국과학기술원 조천식교통대학원",
         "name": "김은희",
@@ -631,7 +631,7 @@
     "year": "2017"
   },
   "62293b89d21827e888e2fa7d": {
-    "author": [
+    "authors": [
       {
         "org": "서울대학교 기계항공공학부",
         "name": "채흥석",
@@ -665,7 +665,7 @@
     "year": "2017"
   },
   "62293b89d21827e888e2fa7b": {
-    "author": [
+    "authors": [
       {
         "org": "국방과학연구소",
         "name": "김준",
@@ -694,7 +694,7 @@
     "year": "2017"
   },
   "62293b89d21827e888e2fa7f": {
-    "author": [
+    "authors": [
       {
         "org": "위성기술연구그룹",
         "name": "김태희",
@@ -718,7 +718,7 @@
     "year": "2017"
   },
   "62293b8bd21827e888e2fa88": {
-    "author": [
+    "authors": [
       {
         "org": "Dept. of Computer Science and Engineering, Koreatech University",
         "name": "조든솔",
@@ -752,7 +752,7 @@
     "year": "2018"
   },
   "62293b8bd21827e888e2fa8b": {
-    "author": [
+    "authors": [
       {
         "org": "Dept. of Computer Science and Engineering, Koreatech University",
         "name": "이승기",
@@ -781,7 +781,7 @@
     "year": "2018"
   },
   "62293b8bd21827e888e2fa86": {
-    "author": [
+    "authors": [
       {
         "org": "대구대학교 대학원 정보통신공학과",
         "name": "김수현",
@@ -800,7 +800,7 @@
     "year": "2018"
   },
   "62293b8bd21827e888e2fa8e": {
-    "author": [
+    "authors": [
       {
         "org": "서울시립대학교 교통공학과",
         "name": "나성용",
@@ -829,7 +829,7 @@
     "year": "2018"
   },
   "62293b8bd21827e888e2fa87": {
-    "author": [
+    "authors": [
       {
         "org": "현대자동차 ADAS성능개발팀",
         "name": "정승환",
@@ -868,7 +868,7 @@
     "year": "2018"
   },
   "62293b8bd21827e888e2fa8a": {
-    "author": [
+    "authors": [
       {
         "org": "한국교통연구원",
         "name": "채찬들",
@@ -892,7 +892,7 @@
     "year": "2018"
   },
   "62293b8bd21827e888e2fa8f": {
-    "author": [
+    "authors": [
       {
         "org": "Dept. of Electronic Engineering, Hanyang University",
         "name": "김정환",
@@ -926,7 +926,7 @@
     "year": "2018"
   },
   "62293b8bd21827e888e2fa85": {
-    "author": [
+    "authors": [
       {
         "org": "경남대학교 경영학부",
         "name": "이강문",
@@ -945,7 +945,7 @@
     "year": "2018"
   },
   "62293b8bd21827e888e2fa84": {
-    "author": [
+    "authors": [
       {
         "org": "순천향대학교 일반대학원 미래융합기술학과",
         "name": "김현석",
@@ -979,7 +979,7 @@
     "year": "2018"
   },
   "62293b8bd21827e888e2fa82": {
-    "author": [
+    "authors": [
       {
         "org": "Yeungnam University Department of Information and Communication Engineering",
         "name": "김건정",
@@ -1003,7 +1003,7 @@
     "year": "2018"
   },
   "62293b8bd21827e888e2fa8c": {
-    "author": [
+    "authors": [
       {
         "org": "한국지능형교통체계협회",
         "name": "배명환",
@@ -1032,7 +1032,7 @@
     "year": "2018"
   },
   "62293b8bd21827e888e2fa83": {
-    "author": [
+    "authors": [
       {
         "org": "한국건설기술연구원 인프라안전연구본부 도로관리통합센터",
         "name": "양인철",
@@ -1051,7 +1051,7 @@
     "year": "2018"
   },
   "62293b8bd21827e888e2fa89": {
-    "author": [
+    "authors": [
       {
         "org": "한국건설기술연구원 인프라안전연구본부 도로관리통합센터",
         "name": "양인철",
@@ -1070,7 +1070,7 @@
     "year": "2018"
   },
   "62293b8bd21827e888e2fa8d": {
-    "author": [
+    "authors": [
       {
         "org": "전자부품연구원 모빌리티플랫폼 연구센터",
         "name": "정한균",
@@ -1114,7 +1114,7 @@
     "year": "2018"
   },
   "62293b8dd21827e888e2fa92": {
-    "author": [
+    "authors": [
       {
         "org": "인하대학교 공간정보공학과",
         "name": "이은일",
@@ -1138,7 +1138,7 @@
     "year": "2019"
   },
   "62293b8dd21827e888e2fa93": {
-    "author": [
+    "authors": [
       {
         "org": "국민대학교 자동차전문대학원",
         "name": "김두용",
@@ -1177,7 +1177,7 @@
     "year": "2019"
   },
   "62293b8dd21827e888e2fa94": {
-    "author": [
+    "authors": [
       {
         "org": "연세대학교 정보대학원 UX 트랙",
         "name": "이정명",
@@ -1201,7 +1201,7 @@
     "year": "2019"
   },
   "62293b8dd21827e888e2fa95": {
-    "author": [
+    "authors": [
       {
         "org": "자동차부품연구원 스마트운전제어연구센터",
         "name": "안대룡",
@@ -1240,7 +1240,7 @@
     "year": "2019"
   },
   "62293b8dd21827e888e2fa98": {
-    "author": [
+    "authors": [
       {
         "org": "경희대학교 전자정보대학",
         "name": "김두환",
@@ -1264,7 +1264,7 @@
     "year": "2019"
   },
   "62293b8dd21827e888e2fa97": {
-    "author": [
+    "authors": [
       {
         "org": "한국지능형교통체계협회",
         "name": "박유경",
@@ -1293,7 +1293,7 @@
     "year": "2019"
   },
   "62293b8dd21827e888e2fa96": {
-    "author": [
+    "authors": [
       {
         "org": "경희대학교 전자정보대학",
         "name": "김두환",
@@ -1317,7 +1317,7 @@
     "year": "2019"
   },
   "62293b90d21827e888e2faa1": {
-    "author": [
+    "authors": [
       {
         "org": "한국자동차연구원 자율협력주행연구센터",
         "name": "백윤석",
@@ -1361,7 +1361,7 @@
     "year": "2020"
   },
   "62293b90d21827e888e2fa9c": {
-    "author": [
+    "authors": [
       {
         "org": "Dept. of Electronics Engineering, Dong-A University",
         "name": "박상욱",
@@ -1380,7 +1380,7 @@
     "year": "2020"
   },
   "62293b90d21827e888e2faa2": {
-    "author": [
+    "authors": [
       {
         "org": "Department of Software Engineering, Catholic kwandong University",
         "name": "손수락",
@@ -1409,7 +1409,7 @@
     "year": "2020"
   },
   "62293b90d21827e888e2faa0": {
-    "author": [
+    "authors": [
       {
         "org": "Dept. of Electronics Engineering, Dong-A University",
         "name": "응오닷",
@@ -1433,7 +1433,7 @@
     "year": "2020"
   },
   "62293b90d21827e888e2faa4": {
-    "author": [
+    "authors": [
       {
         "org": "Dept. of Electronics Engineering, Dong-A University",
         "name": "이승민",
@@ -1457,7 +1457,7 @@
     "year": "2020"
   },
   "62293b90d21827e888e2fa9d": {
-    "author": [
+    "authors": [
       {
         "org": "홍익대학교 산업미술대학원 산업디자인 전공",
         "name": "김수현",
@@ -1476,7 +1476,7 @@
     "year": "2020"
   },
   "62293b90d21827e888e2fa9f": {
-    "author": [
+    "authors": [
       {
         "org": "공주대학교 기계공학과",
         "name": "이사랑",
@@ -1500,7 +1500,7 @@
     "year": "2020"
   },
   "62293b90d21827e888e2faa3": {
-    "author": [
+    "authors": [
       {
         "org": "Department of Geoinformatics Engineering, University of Seoul, Spatial Information Industry Promotion Institute",
         "name": "오종민",
@@ -1534,7 +1534,7 @@
     "year": "2020"
   },
   "62293b90d21827e888e2fa9e": {
-    "author": [
+    "authors": [
       {
         "org": "Department of Software Engineering, Catholic kwandong University",
         "name": "손수락",
@@ -1558,7 +1558,7 @@
     "year": "2020"
   },
   "62293b93d21827e888e2fab8": {
-    "author": [
+    "authors": [
       {
         "org": "Department of Spatial Information Engineering, Namseoul University",
         "name": "최인하",
@@ -1577,7 +1577,7 @@
     "year": "2021"
   },
   "62293b93d21827e888e2fab5": {
-    "author": [
+    "authors": [
       {
         "org": "서울대학교 기계항공공학부",
         "name": "서다빈",
@@ -1601,7 +1601,7 @@
     "year": "2021"
   },
   "62293b93d21827e888e2fab1": {
-    "author": [
+    "authors": [
       {
         "org": "연세대학교 정보대학원 정보보호 연구실",
         "name": "김재욱",
@@ -1625,7 +1625,7 @@
     "year": "2021"
   },
   "62293b93d21827e888e2fab7": {
-    "author": [
+    "authors": [
       {
         "org": "대구대학교 ICT융합학부 인공지능전공",
         "name": "김준식",
@@ -1649,7 +1649,7 @@
     "year": "2021"
   },
   "62293b93d21827e888e2faab": {
-    "author": [
+    "authors": [
       {
         "org": "국민대학교 자동차공학전문대학원",
         "name": "손원일",
@@ -1673,7 +1673,7 @@
     "year": "2021"
   },
   "62293b93d21827e888e2faa8": {
-    "author": [
+    "authors": [
       {
         "org": "단국대학교 EduAI센터",
         "name": "양희은",
@@ -1697,7 +1697,7 @@
     "year": "2021"
   },
   "62293b93d21827e888e2faa7": {
-    "author": [
+    "authors": [
       {
         "org": "홍익대학교 일반대학원 산업디자인학부",
         "name": "이다물",
@@ -1721,7 +1721,7 @@
     "year": "2021"
   },
   "62293b93d21827e888e2fab2": {
-    "author": [
+    "authors": [
       {
         "org": "대구경북과학기술원",
         "name": "손준우",
@@ -1740,7 +1740,7 @@
     "year": "2021"
   },
   "62293b93d21827e888e2faad": {
-    "author": [
+    "authors": [
       {
         "org": "대구경북과학기술원",
         "name": "손준우",
@@ -1759,7 +1759,7 @@
     "year": "2021"
   },
   "62293b93d21827e888e2faac": {
-    "author": [
+    "authors": [
       {
         "org": "고려대학교 정보보호대학원",
         "name": "조현수",
@@ -1783,7 +1783,7 @@
     "year": "2021"
   },
   "62293b93d21827e888e2fab6": {
-    "author": [
+    "authors": [
       {
         "org": "(주)지오씨엔아이 공간정보솔루션센터",
         "name": "권용하",
@@ -1812,7 +1812,7 @@
     "year": "2021"
   },
   "62293b93d21827e888e2faa9": {
-    "author": [
+    "authors": [
       {
         "org": "서울시립대학교 공간정보공학과",
         "name": "원두견",
@@ -1841,7 +1841,7 @@
     "year": "2021"
   },
   "62293b93d21827e888e2fab3": {
-    "author": [
+    "authors": [
       {
         "org": "공간정보연구원",
         "name": "이재희",
@@ -1865,7 +1865,7 @@
     "year": "2021"
   },
   "62293b93d21827e888e2fab0": {
-    "author": [
+    "authors": [
       {
         "org": "대전대학교 컴퓨터공학과",
         "name": "이민희",
@@ -1889,7 +1889,7 @@
     "year": "2021"
   },
   "62293b93d21827e888e2faaa": {
-    "author": [
+    "authors": [
       {
         "org": "남서울대학교 전자공학과",
         "name": "김인성",
@@ -1918,7 +1918,7 @@
     "year": "2021"
   },
   "62293b93d21827e888e2fab4": {
-    "author": [
+    "authors": [
       {
         "org": "아주대학교 교통공학과",
         "name": "고우리",
@@ -1947,7 +1947,7 @@
     "year": "2021"
   },
   "62293b93d21827e888e2faaf": {
-    "author": [
+    "authors": [
       {
         "org": "아주대학교 교통공학과",
         "name": "김예진",
@@ -1986,7 +1986,7 @@
     "year": "2021"
   },
   "62293b93d21827e888e2faae": {
-    "author": [
+    "authors": [
       {
         "org": "광운대학교 플라즈마바이오디스플레이학과",
         "name": "신석용",
@@ -2010,7 +2010,7 @@
     "year": "2021"
   },
   "62293b97d21827e888e2fabd": {
-    "author": [
+    "authors": [
       {
         "org": "충남대학교 전자공학과",
         "name": "권혁준",
@@ -2029,7 +2029,7 @@
     "year": "2022"
   },
   "62293b97d21827e888e2fabe": {
-    "author": [
+    "authors": [
       {
         "org": "충남대학교 전자공학과",
         "name": "권혁준",
@@ -2048,7 +2048,7 @@
     "year": "2022"
   },
   "62293b83d21827e888e2fa74": {
-    "author": [
+    "authors": [
       {
         "org": "동국대학교 멀티미디어공학과",
         "name": "이성조",
@@ -2092,7 +2092,7 @@
     "year": "2015"
   },
   "62293b86d21827e888e2fa75": {
-    "author": [
+    "authors": [
       {
         "org": "한동대학교 기계제어공학부, 한동대학교 기계제어공학과",
         "name": "서의석",
@@ -2121,7 +2121,7 @@
     "year": "2015"
   },
   "62293b8bd21827e888e2fa90": {
-    "author": [
+    "authors": [
       {
         "org": "서울대학교 전기정보공학부",
         "name": "안재호",
@@ -2140,7 +2140,7 @@
     "year": "2018"
   },
   "62293b89d21827e888e2fa78": {
-    "author": [
+    "authors": [
       {
         "org": "국민대학교 전자공학과",
         "name": "이승현",
@@ -2169,7 +2169,7 @@
     "year": "2016"
   },
   "62293b8dd21827e888e2fa91": {
-    "author": [
+    "authors": [
       {
         "org": "만도 글로벌R&D 제동센터",
         "name": "최준열",
@@ -2193,7 +2193,7 @@
     "year": "2018"
   },
   "62293b90d21827e888e2fa9b": {
-    "author": [
+    "authors": [
       {
         "org": "숭실대학교 융합소프트웨어학부",
         "name": "최수민",
@@ -2217,7 +2217,7 @@
     "year": "2019"
   },
   "62293b8dd21827e888e2fa9a": {
-    "author": [
+    "authors": [
       {
         "org": "숭실대학교 컴퓨터학부",
         "name": "전민규",
@@ -2241,7 +2241,7 @@
     "year": "2019"
   },
   "62293b90d21827e888e2faa5": {
-    "author": [
+    "authors": [
       {
         "org": "남서울대학교 컴퓨터소프트웨어학과",
         "name": "유연승",
@@ -2275,7 +2275,7 @@
     "year": "2020"
   },
   "62293b93d21827e888e2faa6": {
-    "author": [
+    "authors": [
       {
         "org": "단국대학교 EduAI센터",
         "name": "양희은",
@@ -2294,7 +2294,7 @@
     "year": "2020"
   },
   "62293b8dd21827e888e2fa99": {
-    "author": [
+    "authors": [
       {
         "org": "전자부품연구원",
         "name": "박종빈",
@@ -2323,7 +2323,7 @@
     "year": "2019"
   },
   "62293b93d21827e888e2fab9": {
-    "author": [
+    "authors": [
       {
         "org": "경운대학교 항공소프트웨어공학과",
         "name": "김지원",
@@ -2372,7 +2372,7 @@
     "year": "2021"
   },
   "62293b93d21827e888e2fabb": {
-    "author": [
+    "authors": [
       {
         "org": "서울호서전문학교 사이버해킹보안과",
         "name": "임경욱",
@@ -2401,7 +2401,7 @@
     "year": "2021"
   },
   "62293b95d21827e888e2fabc": {
-    "author": [
+    "authors": [
       {
         "org": "건양대학교 사이버보안공학과",
         "name": "정기연",
@@ -2420,7 +2420,7 @@
     "year": "2021"
   },
   "62293b93d21827e888e2faba": {
-    "author": [
+    "authors": [
       {
         "org": "선문대학교 정보통신공학과",
         "name": "이영찬",
@@ -2474,7 +2474,7 @@
     "year": "2021"
   },
   "62293bca7b75355e87e2da7b": {
-    "author": [
+    "authors": [
       {
         "org": "School of Computer Science, Nanjing University of Posts and Telecommunications, Nanjing 210023, China",
         "name": "Li, Qi",
@@ -2503,7 +2503,7 @@
     "year": "2012"
   },
   "62293b9a7b75355e87e2da42": {
-    "author": [
+    "authors": [
       {
         "org": "Corresponding author.",
         "name": "Ma, Jie",
@@ -2527,7 +2527,7 @@
     "year": "2012"
   },
   "62293b917b75355e87e2da22": {
-    "author": [
+    "authors": [
       {
         "org": "과학기술연합대학원대학교 로보틱스 및 가상공학과",
         "name": "윤송",
@@ -2556,7 +2556,7 @@
     "year": "2013"
   },
   "62293bca7b75355e87e2da7a": {
-    "author": [
+    "authors": [
       {
         "org": "Computer Laboratory University of Cambridge Cambridge United Kingdom",
         "name": "Lathia, Neal",
@@ -2580,7 +2580,7 @@
     "year": "2013"
   },
   "62293b9d7b75355e87e2da46": {
-    "author": [
+    "authors": [
       {
         "org": "Department of Epidemiology and Biostatistics, McGill University, Montreal, Quebec, Canada",
         "name": "Buckeridge, David",
@@ -2609,7 +2609,7 @@
     "year": "2014"
   },
   "62293bd27b75355e87e2da8e": {
-    "author": [
+    "authors": [
       {
         "org": "Design of Microsystems Department of Microsystems Engineering (IMTEK) University of Freiburg Freiburg Germany",
         "name": "Woias, Peter",
@@ -2628,7 +2628,7 @@
     "year": "2014"
   },
   "62293bca7b75355e87e2da7c": {
-    "author": [
+    "authors": [
       {
         "org": "Corresponding author.",
         "name": "Hodges, Cameron",
@@ -2647,7 +2647,7 @@
     "year": "2015"
   },
   "62293bca7b75355e87e2da79": {
-    "author": [
+    "authors": [
       {
         "org": "Xi’an Jiaotong University, Xi’an, P. R. China",
         "name": "Hao, Yi",
@@ -2666,7 +2666,7 @@
     "year": "2015"
   },
   "62293bb67b75355e87e2da65": {
-    "author": [
+    "authors": [
       {
         "org": "Intelligent Biometric Group, School of Electrical and Electronic Engineering, Universiti Sains Malaysia Engineering Campus, 14300 Nibong Tebal, Penang, Malaysia",
         "name": "Ramli, Dzati Athiar",
@@ -2690,7 +2690,7 @@
     "year": "2016"
   },
   "62293bd67b75355e87e2da96": {
-    "author": [
+    "authors": [
       {
         "org": "College of Chemistry and Chemical Engineering, Xinjiang University, Urumqi 830046, PR China",
         "name": "Zhou, Sheng-Bin",
@@ -2704,7 +2704,7 @@
     "year": "2016"
   },
   "62293b9d7b75355e87e2da47": {
-    "author": [
+    "authors": [
       {
         "org": "Morpho, Osny, France",
         "name": "Bringer, J.",
@@ -2728,7 +2728,7 @@
     "year": "2016"
   },
   "62293bd77b75355e87e2da98": {
-    "author": [
+    "authors": [
       {
         "org": "창원대학교 전기공학과 대학원",
         "name": "류순필",
@@ -2747,7 +2747,7 @@
     "year": "2016"
   },
   "62293b917b75355e87e2da23": {
-    "author": [
+    "authors": [
       {
         "org": "LATIS, ENISo, National Engineering School of Sousse, University of Sousse, Sousse, Tunisia",
         "name": "Amara, Najoua Essoukri Ben",
@@ -2761,7 +2761,7 @@
     "year": "2016"
   },
   "62293bce7b75355e87e2da80": {
-    "author": [
+    "authors": [
       {
         "org": "Faculty of Information Science and Technology, Division of Media and Network Technologies, Hokkaido University, Sapporo, Japan",
         "name": "Ogawa, Takahiro",
@@ -2775,7 +2775,7 @@
     "year": "2017"
   },
   "62293bba7b75355e87e2da67": {
-    "author": [
+    "authors": [
       {
         "org": "Key Laboratory of Advanced Materials (MOE), School of Materials Science and Engineering, Tsinghua University, Beijing 100084, China",
         "name": "Shen, Wanci",
@@ -2789,7 +2789,7 @@
     "year": "2017"
   },
   "62293b927b75355e87e2da25": {
-    "author": [
+    "authors": [
       {
         "org": "State Key Laboratory of Integrated Services Networks, School of Cyber Engineering, Xidian University, Xian, China",
         "name": "Sun, Wen",
@@ -2818,7 +2818,7 @@
     "year": "2017"
   },
   "62293b8e7b75355e87e2da21": {
-    "author": [
+    "authors": [
       {
         "org": "전자부품연구원 무선플랫폼연구센터",
         "name": "김영한",
@@ -2852,7 +2852,7 @@
     "year": "2017"
   },
   "62293ba37b75355e87e2da4f": {
-    "author": [
+    "authors": [
       {
         "org": "Department of Electronic and Information Engineering, The Hong Kong Polytechnic University, hung hom, Hong Kong",
         "name": "Lin, Weiwei",
@@ -2866,7 +2866,7 @@
     "year": "2017"
   },
   "62293ba67b75355e87e2da52": {
-    "author": [
+    "authors": [
       {
         "org": "School of Computing, National college of Ireland, Dublin 1, Ireland",
         "name": "Grecos, Christos",
@@ -2885,7 +2885,7 @@
     "year": "2017"
   },
   "62293b927b75355e87e2da26": {
-    "author": [
+    "authors": [
       {
         "org": "School of Computing Informatics and Decision Systems Engineering, Arizona State University, Brickyard Engineering, 699 S Mill Ave, Tempe, Az, USA",
         "name": "Yaghoubi, Shakiba",
@@ -2899,7 +2899,7 @@
     "year": "2017"
   },
   "62293b917b75355e87e2da24": {
-    "author": [
+    "authors": [
       {
         "org": "S2E Technologies Inc., Jacobs, ON, N0B 2N0, Canada",
         "name": "Stevens, G.",
@@ -2933,7 +2933,7 @@
     "year": "2017"
   },
   "62293bc87b75355e87e2da75": {
-    "author": [
+    "authors": [
       {
         "org": "Department of Mathematics, Drexel University United States of America",
         "name": "Blasiak, Jonah",
@@ -2962,7 +2962,7 @@
     "year": "2017"
   },
   "62293ba47b75355e87e2da50": {
-    "author": [
+    "authors": [
       {
         "org": "School of Electronic Engineering, Beijing University of Posts and Telecommunications, Beijing, China",
         "name": "Liu, Haibo",
@@ -2986,7 +2986,7 @@
     "year": "2017"
   },
   "62293b8d7b75355e87e2da1c": {
-    "author": [
+    "authors": [
       {
         "org": "INSA Centre Val de Loire, Laboratoire PRISME EA 4229, Bourges F-18000, France",
         "name": "Hafiane, Adel",
@@ -3015,7 +3015,7 @@
     "year": "2017"
   },
   "62293b927b75355e87e2da27": {
-    "author": [
+    "authors": [
       {
         "org": "Department of Electrical and Computer Engineering, National University of Singapore, Singapore",
         "name": "Vishwanath, Kale Rahul",
@@ -3039,7 +3039,7 @@
     "year": "2017"
   },
   "62293b9a7b75355e87e2da43": {
-    "author": [
+    "authors": [
       {
         "org": "서울시립대학교 전자전기컴퓨터공학과",
         "name": "노은총",
@@ -3063,7 +3063,7 @@
     "year": "2018"
   },
   "62293b8d7b75355e87e2da1a": {
-    "author": [
+    "authors": [
       {
         "org": "LH 토지주택연구원",
         "name": "이성복",
@@ -3097,7 +3097,7 @@
     "year": "2018"
   },
   "62293ba97b75355e87e2da55": {
-    "author": [
+    "authors": [
       {
         "org": "Humanitarian Engineering and Social Entrepreneurship (HESE) Program, The Pennsylvania State University , University Park, Pennsylvania.",
         "name": "Warwick-Clark, Boyd",
@@ -3116,7 +3116,7 @@
     "year": "2018"
   },
   "62293bc97b75355e87e2da78": {
-    "author": [
+    "authors": [
       {
         "org": "Department of Computer Science and Technology, Ocean University of China, Qingdao, 266100, China",
         "name": "Dong, Junyu",
@@ -3145,7 +3145,7 @@
     "year": "2018"
   },
   "62293bcd7b75355e87e2da7e": {
-    "author": [
+    "authors": [
       {
         "org": "Dept. of Space, National Atmospheric Research Laboratory, Gadanki, India ii",
         "name": "Narayana Rao, Thota",
@@ -3164,7 +3164,7 @@
     "year": "2018"
   },
   "62293bbb7b75355e87e2da68": {
-    "author": [
+    "authors": [
       {
         "org": "Department of Medical Informatics, School of Public Health, Jilin University, Changchun, Jilin Province, China",
         "name": "Jia, Yuxi",
@@ -3188,7 +3188,7 @@
     "year": "2018"
   },
   "62293ba97b75355e87e2da54": {
-    "author": [
+    "authors": [
       {
         "org": "Intelligent Biometric Group, School of Electrical and Electronic Engineering, Universiti Sains Malaysia Engineering Campus, 14300 Nibong Tebal, Penang, Malaysia",
         "name": "Ramli, Dzati Athiar",
@@ -3212,7 +3212,7 @@
     "year": "2018"
   },
   "62293b9d7b75355e87e2da48": {
-    "author": [
+    "authors": [
       {
         "org": "School of Data and Computer Science, Sun Yat-sen University, China",
         "name": "Zheng, Zibin",
@@ -3226,7 +3226,7 @@
     "year": "2018"
   },
   "62293ba07b75355e87e2da4d": {
-    "author": [
+    "authors": [
       {
         "org": "Samsung SDS CSP 연구소",
         "name": "김판규",
@@ -3245,7 +3245,7 @@
     "year": "2018"
   },
   "62293ba97b75355e87e2da56": {
-    "author": [
+    "authors": [
       {
         "org": "Department of Physics and Institute for Nano Science, Korea University",
         "name": "Jeon, Gi-Wan",
@@ -3279,7 +3279,7 @@
     "year": "2018"
   },
   "62293ba97b75355e87e2da57": {
-    "author": [
+    "authors": [
       {
         "org": "Institute of Fluid Science, Tohoku University, 2-1-1 Katahira, Aoba, Sendai, 980-8577, Japan",
         "name": "Nakamura, Hisashi",
@@ -3303,7 +3303,7 @@
     "year": "2018"
   },
   "62293ba47b75355e87e2da51": {
-    "author": [
+    "authors": [
       {
         "org": "Department of Surgery, Sungkyunkwan University School of Medicine, Samsung Medical Center, Seoul, Korea",
         "name": "Han, Seung Wook",
@@ -3332,7 +3332,7 @@
     "year": "2018"
   },
   "62293bce7b75355e87e2da86": {
-    "author": [
+    "authors": [
       {
         "org": "Department of Electrical and Computer Engineering, National University of Singapore, Singapore",
         "name": "Vishwanath, Kale Rahul",
@@ -3351,7 +3351,7 @@
     "year": "2018"
   },
   "62293b997b75355e87e2da38": {
-    "author": [
+    "authors": [
       {
         "org": "Seoul National University of Science and Technology, Department of Computer Science and Engineering",
         "name": "Aziz, Arif Abdul",
@@ -3365,7 +3365,7 @@
     "year": "2018"
   },
   "62293bc57b75355e87e2da6d": {
-    "author": [
+    "authors": [
       {
         "org": "Department of Computer Science and Engineering, American University of Sharjah, Sharjah, United Arab Emirates",
         "name": "Shapsough, Salsabeel",
@@ -3409,7 +3409,7 @@
     "year": "2018"
   },
   "62293bb27b75355e87e2da62": {
-    "author": [
+    "authors": [
       {
         "org": "Department of Electrical and Computer Engineering, National University of Singapore, Singapore",
         "name": "Vishwanath, Kale Rahul",
@@ -3428,7 +3428,7 @@
     "year": "2018"
   },
   "62293bb67b75355e87e2da66": {
-    "author": [
+    "authors": [
       {
         "org": "Department of Electrical and Computer Engineering, National University of Singapore, Singapore",
         "name": "Vishwanath, Kale Rahul",
@@ -3447,7 +3447,7 @@
     "year": "2018"
   },
   "62293b8d7b75355e87e2da1e": {
-    "author": [
+    "authors": [
       {
         "org": "V. V. Voevodsky Institute of Chemical Kinetics and Combustion, Siberian Branch of the Russian Academy of Sciences Russian Federation",
         "name": "Salomatova, Victoria A.",
@@ -3486,7 +3486,7 @@
     "year": "2018"
   },
   "62293bc57b75355e87e2da70": {
-    "author": [
+    "authors": [
       {
         "org": "Department of Computer Science, University of Salerno, Fisciano, Italy",
         "name": "De Santis, Alfredo",
@@ -3520,7 +3520,7 @@
     "year": "2018"
   },
   "62293bca7b75355e87e2da7d": {
-    "author": [
+    "authors": [
       {
         "org": "cloudminds",
         "name": "Lian, Shiguo",
@@ -3549,7 +3549,7 @@
     "year": "2018"
   },
   "62293bd77b75355e87e2da9a": {
-    "author": [
+    "authors": [
       {
         "org": "명지대 기록정보과학전문대학원",
         "name": "김익한",
@@ -3573,7 +3573,7 @@
     "year": "2018"
   },
   "62293bce7b75355e87e2da7f": {
-    "author": [
+    "authors": [
       {
         "org": "정일공업",
         "name": "박형선",
@@ -3592,7 +3592,7 @@
     "year": "2019"
   },
   "62293baa7b75355e87e2da58": {
-    "author": [
+    "authors": [
       {
         "org": "Beijing SmartChip Microelectronics Technology Company Limited,Beijing,China",
         "name": "Yuan, Jianan",
@@ -3621,7 +3621,7 @@
     "year": "2019"
   },
   "62293b9d7b75355e87e2da44": {
-    "author": [
+    "authors": [
       {
         "org": "연세대학교 바른ICT연구소",
         "name": "이보성",
@@ -3660,7 +3660,7 @@
     "year": "2019"
   },
   "62293b997b75355e87e2da39": {
-    "author": [
+    "authors": [
       {
         "org": "ImViA EA 7535, University of Burgundy, Dijon, France",
         "name": "Lalande, Alain",
@@ -3684,7 +3684,7 @@
     "year": "2019"
   },
   "62293b947b75355e87e2da28": {
-    "author": [
+    "authors": [
       {
         "org": "Progressive Systems S.r.l., Rome, Italy",
         "name": "Arcorace, Mauro",
@@ -3713,7 +3713,7 @@
     "year": "2019"
   },
   "62293bc77b75355e87e2da73": {
-    "author": [
+    "authors": [
       {
         "org": "상명대학교 지식보안경영학과",
         "name": "전창욱",
@@ -3737,7 +3737,7 @@
     "year": "2019"
   },
   "62293b947b75355e87e2da29": {
-    "author": [
+    "authors": [
       {
         "org": "목포대학교 전기공학과",
         "name": "박재현",
@@ -3761,7 +3761,7 @@
     "year": "2019"
   },
   "62293bc77b75355e87e2da71": {
-    "author": [
+    "authors": [
       {
         "org": "Fudan University, Shanghai, China",
         "name": "Fu, Yanwei",
@@ -3775,7 +3775,7 @@
     "year": "2019"
   },
   "62293bc57b75355e87e2da6e": {
-    "author": [
+    "authors": [
       {
         "org": "University of Science and Technology Beijing",
         "name": "Sun, Ming",
@@ -3789,7 +3789,7 @@
     "year": "2019"
   },
   "62293b9a7b75355e87e2da3e": {
-    "author": [
+    "authors": [
       {
         "org": "LH 토지주택연구원",
         "name": "이성복",
@@ -3828,7 +3828,7 @@
     "year": "2019"
   },
   "62293ba07b75355e87e2da4e": {
-    "author": [
+    "authors": [
       {
         "org": "Center for Secure and Dependable Systems, University of Idaho, Idaho, USA",
         "name": "Haney, Michael A.",
@@ -3852,7 +3852,7 @@
     "year": "2019"
   },
   "62293bd27b75355e87e2da92": {
-    "author": [
+    "authors": [
       {
         "org": "China Institute for Radiation Protection, Taiyuan 030006, Shanxi, China",
         "name": "Liu, Wei",
@@ -3866,7 +3866,7 @@
     "year": "2019"
   },
   "62293b9d7b75355e87e2da45": {
-    "author": [
+    "authors": [
       {
         "org": "Department of Crop and Soil Sciences, College of Agricultural and Environmental Sciences, University of Georgia, Athens, GA, United States",
         "name": "Chee, Peng W.",
@@ -3885,7 +3885,7 @@
     "year": "2019"
   },
   "62293b947b75355e87e2da2a": {
-    "author": [
+    "authors": [
       {
         "org": "Key Laboratory of Ministry of Industry and Information Technology on Quantum, Sensing Technology, School of Instrument Science and Opto-Electronic Engineering, Beihang University, Beijing, China",
         "name": "Yuan, H.",
@@ -3914,7 +3914,7 @@
     "year": "2019"
   },
   "62293bd27b75355e87e2da8f": {
-    "author": [
+    "authors": [
       {
         "org": "Department of Science, Roma Tre University, Via della Vasca navale 79, 00146 Roma, Italy",
         "name": "Battocchio, Chiara",
@@ -3938,7 +3938,7 @@
     "year": "2019"
   },
   "62293b9a7b75355e87e2da3f": {
-    "author": [
+    "authors": [
       {
         "org": "School of Electronic and Information Engineering, Beijing Jiaotong University, Beijing, China",
         "name": "Zhao, Pengfei",
@@ -3987,7 +3987,7 @@
     "year": "2019"
   },
   "62293bce7b75355e87e2da81": {
-    "author": [
+    "authors": [
       {
         "org": "Division of Pulmonary and Critical Care Medicine, Virginia Commonwealth University, Richmond, VA, USA",
         "name": "Khemasuwan, Danai",
@@ -4021,7 +4021,7 @@
     "year": "2019"
   },
   "62293bd57b75355e87e2da95": {
-    "author": [
+    "authors": [
       {
         "org": "School of Library and Information Science, University of South Carolina, USA",
         "name": "Karami, Amir",
@@ -4040,7 +4040,7 @@
     "year": "2019"
   },
   "62293bce7b75355e87e2da82": {
-    "author": [
+    "authors": [
       {
         "org": "Department of Chemistry",
         "name": "Panneerselvam, Perumal",
@@ -4054,7 +4054,7 @@
     "year": "2019"
   },
   "62293b947b75355e87e2da2b": {
-    "author": [
+    "authors": [
       {
         "org": "서울대학교 전기.컴퓨터공학부",
         "name": "남상욱",
@@ -4068,7 +4068,7 @@
     "year": "2019"
   },
   "62293bc77b75355e87e2da74": {
-    "author": [
+    "authors": [
       {
         "org": "Center of Research Excellence in Renewable Energy and Power Systems, King Abdulaziz University, Jeddah, Saudi Arabia",
         "name": "Abusorrah, Abdullah",
@@ -4092,7 +4092,7 @@
     "year": "2019"
   },
   "62293bb27b75355e87e2da5f": {
-    "author": [
+    "authors": [
       {
         "org": "Nano Fusion Technology Research Lab, Division of Frontier Fibers, Institute for Fiber Engineering (IFES), Interdisciplinary Cluster for Cutting Edge Research (ICCER), Shinshu University, 3-15-1, Tokida, Ueda, Nagano 386-8567, Japan",
         "name": "Khatri, Muzamil",
@@ -4106,7 +4106,7 @@
     "year": "2019"
   },
   "62293b8d7b75355e87e2da1f": {
-    "author": [
+    "authors": [
       {
         "org": "Department of Computer Science and Technology, Tsinghua University, Beijing, China",
         "name": "Pang, Haitian",
@@ -4135,7 +4135,7 @@
     "year": "2020"
   },
   "62293b8d7b75355e87e2da20": {
-    "author": [
+    "authors": [
       {
         "org": "School of Computer Science and Engineering, Northwestern Polytechnical University, Xi’an, China",
         "name": "Zhou, Xingshe",
@@ -4164,7 +4164,7 @@
     "year": "2020"
   },
   "62293bbf7b75355e87e2da69": {
-    "author": [
+    "authors": [
       {
         "org": "Department of Electrical Engineering, Shanghai Key Laboratory of Multidimensional Information Processing, East China Normal University, Shanghai 200241, People’s Republic of China",
         "name": "Ren, Jiaqi",
@@ -4183,7 +4183,7 @@
     "year": "2020"
   },
   "62293b947b75355e87e2da2c": {
-    "author": [
+    "authors": [
       {
         "org": "숭실대학교 정보통신 전자공학부 통신망 설계 및 분석 연구실",
         "name": "부이?옌",
@@ -4202,7 +4202,7 @@
     "year": "2020"
   },
   "62293bbf7b75355e87e2da6a": {
-    "author": [
+    "authors": [
       {
         "org": "Centre of Excellence in Solid State Physics, University of the Punjab, Lahore 54590, Pakistan",
         "name": "Tahir, M.",
@@ -4231,7 +4231,7 @@
     "year": "2020"
   },
   "62293bd27b75355e87e2da90": {
-    "author": [
+    "authors": [
       {
         "org": "Digital Management Department, Korea University Sejong Campus",
         "name": "민대환",
@@ -4250,7 +4250,7 @@
     "year": "2020"
   },
   "62293bd27b75355e87e2da89": {
-    "author": [
+    "authors": [
       {
         "org": "School of Law, Aras na Laoi, University College Cork, Cork, Ireland",
         "name": "O'Callaghan, Patrick",
@@ -4274,7 +4274,7 @@
     "year": "2020"
   },
   "62293bce7b75355e87e2da83": {
-    "author": [
+    "authors": [
       {
         "org": "남서울대학교 산업보안학과",
         "name": "김성준",
@@ -4298,7 +4298,7 @@
     "year": "2020"
   },
   "62293ba07b75355e87e2da4c": {
-    "author": [
+    "authors": [
       {
         "org": "Health Information Management Department, Tehran University of Medical Sciences",
         "name": "Safdari, Reza",
@@ -4332,7 +4332,7 @@
     "year": "2020"
   },
   "62293bd67b75355e87e2da97": {
-    "author": [
+    "authors": [
       {
         "org": "Department of Hospitality Tourism and Sport Management, Griffith Business School, Griffith University",
         "name": "Chen, Jinyan",
@@ -4371,7 +4371,7 @@
     "year": "2020"
   },
   "62293bd57b75355e87e2da93": {
-    "author": [
+    "authors": [
       {
         "org": "Department of Organic Materials and Fiber Engineering, Chonbuk National University",
         "name": "Kim, Byoung-Suhk",
@@ -4400,7 +4400,7 @@
     "year": "2020"
   },
   "62293b977b75355e87e2da2e": {
-    "author": [
+    "authors": [
       {
         "org": "Department of Electrical and Electronic Engineering Xi'an Jiaotong-Liverpool University",
         "name": "Lee, Sanghyuk",
@@ -4419,7 +4419,7 @@
     "year": "2020"
   },
   "62293b947b75355e87e2da2d": {
-    "author": [
+    "authors": [
       {
         "org": "Process solutions, Merck Ltd., DiverCity Tokyo Office Tower 15F, 1-1-20 Aomi , Koto-ku, Tokyo, Japan  Japan",
         "name": "Kurisu, Yasuhiko",
@@ -4438,7 +4438,7 @@
     "year": "2020"
   },
   "62293bae7b75355e87e2da59": {
-    "author": [
+    "authors": [
       {
         "org": "sen University, Kaohsiung, Taiwan",
         "name": "Kuang",
@@ -4472,7 +4472,7 @@
     "year": "2020"
   },
   "62293bd27b75355e87e2da8c": {
-    "author": [
+    "authors": [
       {
         "org": "Department of Electrical Engineering, Shanghai Key Laboratory of Multidimensional Information Processing, East China Normal University, Shanghai 200241, People’s Republic of China",
         "name": "Ren, Jiaqi",
@@ -4491,7 +4491,7 @@
     "year": "2020"
   },
   "62293b977b75355e87e2da2f": {
-    "author": [
+    "authors": [
       {
         "org": "National Chiao Tung University",
         "name": "Sun, Wen-Lin",
@@ -4550,7 +4550,7 @@
     "year": "2020"
   },
   "62293b9d7b75355e87e2da4a": {
-    "author": [
+    "authors": [
       {
         "org": "School of Electrical Engineering, State Key Laboratory for Alternate Electrical Power System With Renewable Energy Sources, North China Electric Power University, Beijing, China",
         "name": "Sun, Haonan",
@@ -4594,7 +4594,7 @@
     "year": "2020"
   },
   "62293b977b75355e87e2da30": {
-    "author": [
+    "authors": [
       {
         "org": "Key Laboratory of Ministry of Industry and Information Technology on Quantum, Sensing Technology, School of Instrument Science and Opto-Electronic Engineering, Beihang University, Beijing, China",
         "name": "Yuan, H.",
@@ -4623,7 +4623,7 @@
     "year": "2020"
   },
   "62293b977b75355e87e2da31": {
-    "author": [
+    "authors": [
       {
         "org": "Dept. of Electrical Engineering, Chosun University",
         "name": "정인성",
@@ -4662,7 +4662,7 @@
     "year": "2021"
   },
   "62293bd27b75355e87e2da91": {
-    "author": [
+    "authors": [
       {
         "org": "Department of Mechanical and Aerospace Engineering, The George Washington University, 800 22nd Street, NW, Washington, DC, 20052, USA",
         "name": "Plesniak, Michael W",
@@ -4686,7 +4686,7 @@
     "year": "2021"
   },
   "62293b8d7b75355e87e2da1b": {
-    "author": [
+    "authors": [
       {
         "org": "Key Laboratory of Fuel Cell Materials and Devices, Jingdezhen Ceramic Institute, Jingdezhen 333403, China",
         "name": "Liu, Liangguang",
@@ -4710,7 +4710,7 @@
     "year": "2021"
   },
   "62293bb27b75355e87e2da5e": {
-    "author": [
+    "authors": [
       {
         "org": "Department of Physics and Institute for Nano Science, Korea University",
         "name": "Lee, Cheol-Eui",
@@ -4734,7 +4734,7 @@
     "year": "2021"
   },
   "62293bd27b75355e87e2da8b": {
-    "author": [
+    "authors": [
       {
         "org": "Dept. of Electronics and Computer Engineering, Korea University, Dept. of Electrical and Computer Engineering, Johns Hopkins University",
         "name": "Ko, Han-Seok",
@@ -4748,7 +4748,7 @@
     "year": "2021"
   },
   "62293bc97b75355e87e2da77": {
-    "author": [
+    "authors": [
       {
         "org": "Tianjin Key Laboratory of Intelligent Robotics (TJKLIR), Institute of Robotics and Automatic Information System (IRAIS), Nankai University, Tianjin, China",
         "name": "Zhang, Xuebo",
@@ -4772,7 +4772,7 @@
     "year": "2021"
   },
   "62293b997b75355e87e2da3a": {
-    "author": [
+    "authors": [
       {
         "org": "Department of Computer Software Engineering, MCS, National University of Sciences and Technology, Islamabad, Pakistan",
         "name": "Mahmood, Khawir",
@@ -4791,7 +4791,7 @@
     "year": "2021"
   },
   "62293b997b75355e87e2da3b": {
-    "author": [
+    "authors": [
       {
         "org": "Department of Computer Software Engineering, MCS, National University of Sciences and Technology, Islamabad, Pakistan",
         "name": "Mahmood, Khawir",
@@ -4810,7 +4810,7 @@
     "year": "2021"
   },
   "62293b977b75355e87e2da32": {
-    "author": [
+    "authors": [
       {
         "org": "Qazvin Islamic Azad University, Iran",
         "name": "Bassiri, Amin",
@@ -4834,7 +4834,7 @@
     "year": "2021"
   },
   "62293bb27b75355e87e2da60": {
-    "author": [
+    "authors": [
       {
         "org": "Department of Electrical and Computer Engineering, National University of Singapore, Singapore",
         "name": "Vishwanath, Kale Rahul",
@@ -4853,7 +4853,7 @@
     "year": "2021"
   },
   "62293bce7b75355e87e2da84": {
-    "author": [
+    "authors": [
       {
         "org": "부경대학교",
         "name": "박영호",
@@ -4872,7 +4872,7 @@
     "year": "2021"
   },
   "62293bc77b75355e87e2da72": {
-    "author": [
+    "authors": [
       {
         "org": "Weill Cornell Medical College, New York, NY",
         "name": "Cesarman, Ethel",
@@ -4896,7 +4896,7 @@
     "year": "2021"
   },
   "62293bd97b75355e87e2da9b": {
-    "author": [
+    "authors": [
       {
         "org": "Department of Computing, Imperial College London, London, U.K.",
         "name": "Leutenegger, Stefan",
@@ -4925,7 +4925,7 @@
     "year": "2021"
   },
   "62293bb67b75355e87e2da63": {
-    "author": [
+    "authors": [
       {
         "org": "Department of Virology, Faculty of Medicine, Kyushu University, Fukuoka, Japan",
         "name": "Fukuda, Yoshinari",
@@ -4954,7 +4954,7 @@
     "year": "2021"
   },
   "62293b9d7b75355e87e2da49": {
-    "author": [
+    "authors": [
       {
         "org": "MIT, Computer Science and Artificial Intelligence Laboratory, Cambridge, MA, 02139, USA",
         "name": "Teixeira, Pedro",
@@ -4978,7 +4978,7 @@
     "year": "2021"
   },
   "62293bd27b75355e87e2da8a": {
-    "author": [
+    "authors": [
       {
         "org": "School of Mechanical Engineering, Shaanxi University of Technology, Hanzhong, China",
         "name": "Wang, Yan",
@@ -5002,7 +5002,7 @@
     "year": "2021"
   },
   "62293b9a7b75355e87e2da41": {
-    "author": [
+    "authors": [
       {
         "org": "동아대학교화학공학과",
         "name": "임라나",
@@ -5026,7 +5026,7 @@
     "year": "2021"
   },
   "62293b9a7b75355e87e2da40": {
-    "author": [
+    "authors": [
       {
         "org": "Kyushu University, Japan",
         "name": "Uchiyama, Hideaki",
@@ -5055,7 +5055,7 @@
     "year": "2021"
   },
   "62293b9a7b75355e87e2da3c": {
-    "author": [
+    "authors": [
       {
         "org": "Department of Information and Communication Engineering, Beijing University of Post and Telecommunications, Beijing, China 100088",
         "name": "Liu, Yong",
@@ -5094,7 +5094,7 @@
     "year": "2021"
   },
   "62293bd27b75355e87e2da8d": {
-    "author": [
+    "authors": [
       {
         "org": "Fert Beijing Research Institute, Beihang University, Beijing, 100191, China",
         "name": "Zhao, Weisheng",
@@ -5123,7 +5123,7 @@
     "year": "2021"
   },
   "62293bce7b75355e87e2da85": {
-    "author": [
+    "authors": [
       {
         "org": "School of Geography and Planning, Guangdong Provincial Key Laboratory of Urbanization and Geo-simulation, Sun Yat-sen Universi",
         "name": "Wei, Chunzhu",
@@ -5147,7 +5147,7 @@
     "year": "2021"
   },
   "62293b977b75355e87e2da34": {
-    "author": [
+    "authors": [
       {
         "org": "College of Information and Engineering, Zhejiang University of Technology, Hangzhou, China",
         "name": "Liang, Ronghua",
@@ -5171,7 +5171,7 @@
     "year": "2021"
   },
   "62293b8d7b75355e87e2da1d": {
-    "author": [
+    "authors": [
       {
         "org": "National Laboratory of Pattern Recognition, Institute of Automation, Chinese Academy of Sciences, Beijing, China",
         "name": "Zhang, Xiaopeng",
@@ -5185,7 +5185,7 @@
     "year": "2021"
   },
   "62293b977b75355e87e2da35": {
-    "author": [
+    "authors": [
       {
         "org": "Uppsala University,Department of Information Technology,Uppsala,Sweden",
         "name": "Risch, Tore",
@@ -5199,7 +5199,7 @@
     "year": "2021"
   },
   "62293ba97b75355e87e2da53": {
-    "author": [
+    "authors": [
       {
         "org": "Department of Radiology and Biomedical Imaging, University of California San Francisco, 1700 4th Street, Box 2532. Byers Hall 3rd Floor, Suite, San Francisco, CA 94143 USA",
         "name": "Viswanath, Pavithra",
@@ -5213,7 +5213,7 @@
     "year": "2021"
   },
   "62293bd57b75355e87e2da94": {
-    "author": [
+    "authors": [
       {
         "org": "Department of Control and Computer Engineering, Faculty of Electrical Engineering and Computing, University of Zagreb, Zagreb, Croatia",
         "name": "Maurovic, Ivan",
@@ -5237,7 +5237,7 @@
     "year": "2021"
   },
   "62293bd97b75355e87e2da9c": {
-    "author": [
+    "authors": [
       {
         "org": "Institut Mutualiste Montsouris, Pharmacy, Paris, France",
         "name": "Renault-Mahieux, M",
@@ -5256,7 +5256,7 @@
     "year": "2021"
   },
   "62293b977b75355e87e2da33": {
-    "author": [
+    "authors": [
       {
         "org": "University College London, UK",
         "name": "Basiri, Anahid",
@@ -5275,7 +5275,7 @@
     "year": "2021"
   },
   "62293b987b75355e87e2da36": {
-    "author": [
+    "authors": [
       {
         "org": "sen University, Kaohsiung, Taiwan",
         "name": "Kuang",
@@ -5309,7 +5309,7 @@
     "year": "2021"
   },
   "62293b9a7b75355e87e2da3d": {
-    "author": [
+    "authors": [
       {
         "org": "Faculty of Mechanical Engineering, Koszalin University of Technology , Koszalin , Poland",
         "name": "Tandecka, Katarzyna",
@@ -5333,7 +5333,7 @@
     "year": "2021"
   },
   "62293bae7b75355e87e2da5c": {
-    "author": [
+    "authors": [
       {
         "org": "Institute of Cyber-Systems and Control, Zhejiang University, Zhejiang, 310027, China",
         "name": "Zuo, Xingxing",
@@ -5352,7 +5352,7 @@
     "year": "2021"
   },
   "62293bc57b75355e87e2da6f": {
-    "author": [
+    "authors": [
       {
         "org": "Mobile Robotics and Intelligence Laboratory, Department of Mechanical Engineering, Korea Advanced Institute of Science and Technology, Daejeon, South Korea",
         "name": "Kim, Jinwhan",
@@ -5376,7 +5376,7 @@
     "year": "2021"
   },
   "62293bae7b75355e87e2da5b": {
-    "author": [
+    "authors": [
       {
         "org": "Department of Biosystems & Biomaterials Science and Engineering",
         "name": "Kim, Hong Bae",
@@ -5395,7 +5395,7 @@
     "year": "2021"
   },
   "62293b987b75355e87e2da37": {
-    "author": [
+    "authors": [
       {
         "org": "Pidstryhach Institute of Applied Problems of Mechanics and Mathematics(IAPMM)",
         "name": "Mykhas'kiv, Victor V.",
@@ -5424,7 +5424,7 @@
     "year": "2021"
   },
   "62293b9d7b75355e87e2da4b": {
-    "author": [
+    "authors": [
       {
         "org": "School of Electrical Engineering, State Key Laboratory for Alternate Electrical Power System With Renewable Energy Sources, North China Electric Power University, Beijing, China",
         "name": "Sun, Haonan",
@@ -5468,7 +5468,7 @@
     "year": "2021"
   },
   "62293bb67b75355e87e2da64": {
-    "author": [
+    "authors": [
       {
         "org": "College of Computer Science and Technology, Huaqiao University, Xiamen, China",
         "name": "Luo, Hao",
@@ -5497,7 +5497,7 @@
     "year": "2021"
   },
   "62293bae7b75355e87e2da5a": {
-    "author": [
+    "authors": [
       {
         "org": "Early Psychosis: Interventions and Clinical-detection (EPIC) Lab, Department of Psychosis Studies, Institute of Psychiatry, Psychology and Neuroscience, King's College London",
         "name": "Fusar-Poli, Paolo",
@@ -5521,7 +5521,7 @@
     "year": "2021"
   },
   "62293bd27b75355e87e2da88": {
-    "author": [
+    "authors": [
       {
         "org": "연세대학교",
         "name": "안은빈",
@@ -5540,7 +5540,7 @@
     "year": "2021"
   },
   "62293bce7b75355e87e2da87": {
-    "author": [
+    "authors": [
       {
         "org": "School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University, Shanghai, China",
         "name": "Qian, Jiuchao",
@@ -5564,7 +5564,7 @@
     "year": "2021"
   },
   "62293bd77b75355e87e2da99": {
-    "author": [
+    "authors": [
       {
         "org": "Australian Centre for Robotic Vision, Brisbane, QLD, Australia",
         "name": "Marmol, Andres",
@@ -5583,7 +5583,7 @@
     "year": "2022"
   },
   "62293bc87b75355e87e2da76": {
-    "author": [
+    "authors": [
       {
         "org": "Department of Information and Communication Engineering, Beijing University of Post and Telecommunications, Beijing, China 100088",
         "name": "Liu, Yong",
@@ -5617,7 +5617,7 @@
     "year": "2022"
   },
   "62293bc57b75355e87e2da6c": {
-    "author": [
+    "authors": [
       {
         "org": "Optical Bio Microsystems Laboratory, Department of Mechanical, Industrial and Aerospace Engineering, Concordia University, Montreal, Quebec, Canada",
         "name": "Packirisamy, M.",
@@ -5646,7 +5646,7 @@
     "year": "2022"
   },
   "62293bb27b75355e87e2da61": {
-    "author": [
+    "authors": [
       {
         "org": "Early Psychosis: Interventions and Clinical-detection (EPIC) Lab, Department of Psychosis Studies, Institute of Psychiatry, Psychology and Neuroscience, King's College London",
         "name": "Baldwin, Helen",
@@ -5685,7 +5685,7 @@
     "year": "2022"
   },
   "62293bbf7b75355e87e2da6b": {
-    "author": [
+    "authors": [
       {
         "org": "GIST 융합기술학제학부",
         "name": "박준형",
@@ -5709,7 +5709,7 @@
     "year": "2022"
   },
   "62293bb17b75355e87e2da5d": {
-    "author": [
+    "authors": [
       {
         "org": "Early Psychosis: Interventions and Clinical-detection (EPIC) Lab, Department of Psychosis Studies, Institute of Psychiatry, Psychology and Neuroscience, King's College London",
         "name": "De Micheli, Andrea",

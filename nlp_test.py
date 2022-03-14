@@ -32,26 +32,3 @@ for i in x:
     data.append(i)
 print(data)
 
-
-# for i in x:
-#     if len(i)==1: continue
-#     data.append(i)
-# print(data)
-
-# x = Hannanum.nouns(text)
-# print("Hannanum")
-# data= []
-
-# for i in x:
-#     if len(i)==1: continue
-#     data.append(i)
-# print(data)
-
-# x = Kkma.nouns(text)
-# print("Kkma")
-# data= []
-
-# for i in x:
-#     if len(i)==1: continue
-#     data.append(i)
-# print(data)
