@@ -85,6 +85,7 @@ def dump_author_embs():
     cnt = 0
     with lc_feature.db.begin() as txn:
         for k in txn.cursor():
+            print("test", k)
             if cnt % 1000 == 0:
                 print('cnt', cnt, datetime.now()-start_time)
             cnt += 1
