@@ -47,7 +47,7 @@ class TripletsGenerator:
         self.n_pubs_train = len(self.pids_train)
         print('pubs2train', self.n_pubs_train)
 
-        for name in self.names_test:
+        for name in self.names_train:
             name_pubs_dict = self.name2pubs_test[name]
             for aid in name_pubs_dict:
                 self.pids_test += name_pubs_dict[aid]
