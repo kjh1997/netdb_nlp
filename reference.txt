@@ -1,0 +1,7 @@
+
+sudo apt-get install openjdk-8-jdk
+
+vi /etc/profile
+export JAVA_HOMW=/usr/lib/jvm/java-8-openjdk-amd64
+export PATH=$JAVA_HOME/bin/:$PATH
+export CLASS_PATH=$JAVA_HOME/LIB:$CLASS_PATH
