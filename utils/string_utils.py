@@ -1,3 +1,4 @@
+
 from konlpy.tag import Okt 
 from time import sleep
 punct = set(u''':!),.:;?.]}¢'"、。〉》」』〕〗〞︰︱︳﹐､﹒

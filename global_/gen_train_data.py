@@ -39,9 +39,6 @@ class TripletsGenerator:
         self.name2pubs_train = data_utils.load_json(settings.GLOBAL_DATA_DIR, 'name_to_pubs.json')  # for test
         self.names_train = self.name2pubs_train.keys()
         print('names train', len(self.names_train))
-        self.names_test = self.name2pubs_test.keys()
-        print('names test', len(self.names_test))
-        assert not set(self.names_train).intersection(set(self.names_test))
         for name in self.names_train:
             name_pubs_dict = self.name2pubs_train[name]
             for aid in name_pubs_dict:
@@ -184,4 +181,3 @@ class TripletsGenerator:
 if __name__ == '__main__':
     data_gen = TripletsGenerator(train_scale=1000000)
     data_gen.dump_triplets(role='train')
-    data_gen.dump_triplets(role='test')
