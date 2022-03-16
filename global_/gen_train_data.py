@@ -47,14 +47,6 @@ class TripletsGenerator:
         self.n_pubs_train = len(self.pids_train)
         print('pubs2train', self.n_pubs_train)
 
-        for name in self.names_train:
-            name_pubs_dict = self.name2pubs_test[name]
-            for aid in name_pubs_dict:
-                self.pids_test += name_pubs_dict[aid]
-        random.shuffle(self.pids_test)
-        self.n_pubs_test = len(self.pids_test)
-        print('pubs2test', self.n_pubs_test)
-
     def gen_neg_pid(self, not_in_pids, role='train'):
         if role == 'train':
             sample_from_pids = self.pids_train
