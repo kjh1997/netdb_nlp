@@ -1,7 +1,7 @@
 import pymongo
 import time, json
 import pprint
-keyid= 737
+keyid= 741~
 client = pymongo.MongoClient('203.255.92.141:27017', connect=False)
 SCI = client['SCIENCEON']
 KCI = client['KCI']
@@ -14,7 +14,7 @@ name_to_pubs = {}
 main_data = {}
 def get_item(mongo_cur):
     for doc in mongo_cur:
-        print(doc)
+
         p_id = str(doc['_id'])
         a_id = doc['author_id'].split(";")
         main_data[p_id] = {}
