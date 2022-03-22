@@ -1,6 +1,8 @@
 from os.path import join
 import os
 import numpy as np
+import sys
+sys.path.append("/home/kjh/netdb_nlp")
 from numpy.random import shuffle
 from global_.global_model import GlobalTripletModel
 from utils.eval_utils import get_hidden_output

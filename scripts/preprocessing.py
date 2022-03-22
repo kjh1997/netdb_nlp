@@ -89,6 +89,8 @@ def dump_author_embs():
             features = data_utils.deserialize_embedding(k[1])
             cur_emb = emb_model.project_embedding(features, idf)
             if cur_emb is not None:
+                print(pid_order, cur_emb)
+                sleep(10)
                 lc_emb.set(pid_order, cur_emb)
 
 
