@@ -24,7 +24,7 @@ def dump_inter_emb():
     lc_inter = LMDBClient(INTER_LMDB_NAME)
     global_model = GlobalTripletModel(data_scale=1000000)
     trained_global_model = global_model.load_triplets_model()
-    name_to_pubs_test = data_utils.load_json(settings.GLOBAL_DATA_DIR, 'name_to_pubs_test_100.json')
+    name_to_pubs_test = data_utils.load_json(settings.GLOBAL_DATA_DIR, 'name_to_pubs.json')
     for name in name_to_pubs_test:
         print('name', name)
         name_data = name_to_pubs_test[name]
@@ -50,7 +50,7 @@ def gen_local_data(idf_threshold=10):
     generate local data (including paper features and paper network) for each associated name
     :param idf_threshold: threshold for determining whether there exists an edge between two papers (for this demo we set 29)
     """
-    name_to_pubs_test = data_utils.load_json(settings.GLOBAL_DATA_DIR, 'name_to_pubs_test_100.json')
+    name_to_pubs_test = data_utils.load_json(settings.GLOBAL_DATA_DIR, 'name_to_pubs.json')
     idf = data_utils.load_data(settings.GLOBAL_DATA_DIR, 'feature_idf.pkl')
     INTER_LMDB_NAME = 'author_triplets.emb'
     lc_inter = LMDBClient(INTER_LMDB_NAME)
