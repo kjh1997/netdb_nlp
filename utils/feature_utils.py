@@ -35,14 +35,14 @@ def extract_author_features(item, order=None):
         name_feature = []
         org_features = []
         org_name = string_utils.clean_name(author.get("org", ""))
-        if len(org_name) > 2:
+        if len(org_name) > 1:
             org_features.extend(transform_feature(org_name, "org"))
         for j, coauthor in enumerate(item["authors"]):
             if i == j:
                 continue
             coauthor_name = coauthor.get("name", "")
             coauthor_org = string_utils.clean_name(coauthor.get("org", ""))# 특수문자, \t 제거 
-            if len(coauthor_name) > 2:
+            if len(coauthor_name) > :
                 name_feature.extend(
                     transform_feature([string_utils.clean_name(coauthor_name)], "name") # 특수문자, \t 제거 
                 )

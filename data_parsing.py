@@ -1,5 +1,6 @@
 from json.tool import main
 import pymongo
+from konlpy.tag import Okt
 import time, json
 import pprint
 from multiprocessing import Process     
@@ -16,32 +17,48 @@ Data2 = KCI['Rawdata'].find({"keyId":keyid})
 Data3 = NTIS['Rawdata'].find({"keyId":keyid})
 name_to_pubs = {}
 main_data = {}
+stemmer = Okt()
+def stem(word):
+    return stemmer.nouns(word)
+
 def get_item(mongo_cur, site):
     
     cnt =0
     cnt2 = 0
     # a123 = data.pop()
     for doc in mongo_cur:
+        idx = []
         cnt +=1
         if site=='NTIS':
+            abs=stem(doc['goalAbs'])
+
+            for i in abs: 
+                if len(i)==1: idx.append(abs.index(i))
+            for i in idx[::-1]:
+                abs.pop(i)
             p_id =str(doc['_id'])
             a_id = [doc['mngId']]
             main_data[p_id] = {}
             main_data[p_id]["authors"] = []
             main_data[p_id]["title"] = doc["koTitle"]
             main_data[p_id]["abstract"] = doc['goalAbs']
-            main_data[p_id]["keyword"] = doc['koKeyword']
-            main_data[p_id]["odAgency"] = doc['odAgency']
-            main_data[p_id]["year"] = doc['prdEnd']
+            main_data[p_id]["keywords"] = list(set(abs))
+            main_data[p_id]["venue"] = doc['odAgency']
+            main_data[p_id]["year"] = doc['prdEnd'][:4]
 
         else:
+            abs=stem(doc['abstract'])
+            for i in abs[::-1]: 
+                if len(i)==1: abs.pop(abs.index(i))
+            for i in abs: 
+                if len(i)==1: abs.pop(abs.index(i))
             p_id = str(doc['_id'])
             a_id = doc['author_id'].split(";")
             main_data[p_id] = {}
             main_data[p_id]["authors"] = []
             main_data[p_id]["title"] = doc["title"]
             main_data[p_id]["abstract"] = doc['abstract']
-            main_data[p_id]["keyword"] = doc['paper_keyword']
+            main_data[p_id]["keywords"] = list(set(abs))
             main_data[p_id]["venue"] = doc['journal']
             main_data[p_id]["year"] = doc['issue_year']
 
