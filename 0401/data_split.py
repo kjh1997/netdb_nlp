@@ -6,15 +6,7 @@ def load_json(rfname):
 data = load_json("name_to_pubs.json")
 a=[]
 for i in data:
-    b = []
-    for j in data[i]:
-        if len(data[i][j]) <=1:
-            b.append(j)
-    for j in b:
-        del data[i][j]
-
-for i in data:
-    if len(data[i]) <= 1:
+    if len(data[i]) == 1:
         a.append(i)    
 for i in a:
     del data[i]
