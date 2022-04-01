@@ -1,35 +1,42 @@
-import sys
-sys.path.append('C:/Users/sudo/Desktop/git/netdb_nlp')
-sys.path.append('/home/kjh/netdb_nlp')
-import json, math, codecs, datetime
 from os.path import join
+import sys
+sys.path.append("/home/kjh/disambiguation")
+import codecs
+import math
 from collections import defaultdict as dd
-from utils.cache import LMDBClient
 from global_.embedding import EmbeddingModel
-import pprint
-from utils import data_utils, settings, feature_utils
 from datetime import datetime
-from time import sleep
+from utils.cache import LMDBClient
+from utils import data_utils
+from utils import feature_utils
+from utils import settings
 
 start_time = datetime.now()
-pubs_base = 'pubs_raw.json'
+
+
 def dump_author_features_to_file():
-    pubs_dict = data_utils.load_json(settings.GLOBAL_DATA_DIR, pubs_base )
-    print('n_paper'), len(pubs_dict)
-    wf = codecs.open(join(settings.GLOBAL_DATA_DIR, 'author_features.txt'),'w', encoding='utf-8')
-    for paper_id in pubs_dict:
-       # pprint.pprint(pubs_dict[paper_id])
-        paper = pubs_dict[paper_id]
-        if "title" not in paper or "authors" not in paper:
-            continue
+    """
+    generate author features by raw publication data and dump to files
+    author features are defined by his/her paper attributes excluding the author's name
+    """
+    pubs_dict = data_utils.load_json(settings.GLOBAL_DATA_DIR, 'pubs_raw.json')
+    print('n_papers', len(pubs_dict))
+    wf = codecs.open(join(settings.GLOBAL_DATA_DIR, 'author_features.txt'), 'w', encoding='utf-8')
+    for i, pid in enumerate(pubs_dict):
+        if i % 1000 == 0:
+            print(i, datetime.now()-start_time)
+        paper = pubs_dict[pid]
+        if len(paper["authors"]) > 30:
+            print(i, pid, len(paper["authors"]))
         if len(paper["authors"]) > 100:
             continue
         n_authors = len(paper.get('authors', []))
-        #print("??")
         for j in range(n_authors):
             author_feature = feature_utils.extract_author_features(paper, j)
-            aid = '{}-{}'.format(paper_id, j)
+            aid = '{}'.format(pid)
             wf.write(aid + '\t' + ' '.join(author_feature) + '\n')
+    wf.close()
+
 
 def dump_author_features_to_cache():
     """
@@ -45,6 +52,8 @@ def dump_author_features_to_cache():
             pid_order = items[0]
             author_features = items[1].split()
             lc.set(pid_order, author_features)
+
+
 def cal_feature_idf():
     """
     calculate word IDF (Inverse document frequency) using publication data
@@ -58,6 +67,9 @@ def cal_feature_idf():
     with lc.db.begin() as txn:
         for k in txn.cursor():
             features = data_utils.deserialize_embedding(k[1])
+            if author_cnt % 10000 == 0:
+                print(author_cnt, features[0], counter.get(features[0]))
+            author_cnt += 1
             for f in features:
                 cnt += 1
                 counter[f] += 1
@@ -89,11 +101,7 @@ def dump_author_embs():
             features = data_utils.deserialize_embedding(k[1])
             cur_emb = emb_model.project_embedding(features, idf)
             if cur_emb is not None:
-                print(pid_order, cur_emb)
-                sleep(10)
                 lc_emb.set(pid_order, cur_emb)
-
-
 
 
 if __name__ == '__main__':
@@ -107,7 +115,3 @@ if __name__ == '__main__':
     cal_feature_idf()
     dump_author_embs()
     print('done', datetime.now()-start_time)
-
-
-
-

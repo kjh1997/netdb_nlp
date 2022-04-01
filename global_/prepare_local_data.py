@@ -1,8 +1,8 @@
 from os.path import join
+import sys
+sys.path.append("/home/kjh/disambiguation")
 import os
 import numpy as np
-import sys
-sys.path.append("/home/kjh/netdb_nlp")
 from numpy.random import shuffle
 from global_.global_model import GlobalTripletModel
 from utils.eval_utils import get_hidden_output
@@ -10,7 +10,7 @@ from utils.cache import LMDBClient
 from utils import data_utils
 from utils import settings
 
-IDF_THRESHOLD = 32  # small data
+IDF_THRESHOLD = 1  # small data
 # IDF_THRESHOLD = 10
 
 
@@ -24,14 +24,14 @@ def dump_inter_emb():
     lc_inter = LMDBClient(INTER_LMDB_NAME)
     global_model = GlobalTripletModel(data_scale=1000000)
     trained_global_model = global_model.load_triplets_model()
-    name_to_pubs_test = data_utils.load_json(settings.GLOBAL_DATA_DIR, 'name_to_pubs.json')
+    name_to_pubs_test = data_utils.load_json(settings.GLOBAL_DATA_DIR, 'name_to_pubs_test_100.json')
     for name in name_to_pubs_test:
         print('name', name)
         name_data = name_to_pubs_test[name]
         embs_input = []
         pids = []
         for i, aid in enumerate(name_data.keys()):
-            if len(name_data[aid]) < 3:  # n_pubs of current author is too small
+            if len(name_data[aid]) < 2:  # n_pubs of current author is too small
                 continue
             for pid in name_data[aid]:
                 cur_emb = lc_input.get(pid)
@@ -50,7 +50,7 @@ def gen_local_data(idf_threshold=10):
     generate local data (including paper features and paper network) for each associated name
     :param idf_threshold: threshold for determining whether there exists an edge between two papers (for this demo we set 29)
     """
-    name_to_pubs_test = data_utils.load_json(settings.GLOBAL_DATA_DIR, 'name_to_pubs.json')
+    name_to_pubs_test = data_utils.load_json(settings.GLOBAL_DATA_DIR, 'name_to_pubs_test_100.json')
     idf = data_utils.load_data(settings.GLOBAL_DATA_DIR, 'feature_idf.pkl')
     INTER_LMDB_NAME = 'author_triplets.emb'
     lc_inter = LMDBClient(INTER_LMDB_NAME)
@@ -69,7 +69,7 @@ def gen_local_data(idf_threshold=10):
         wf_content = open(join(graph_dir, '{}_pubs_content.txt'.format(name)), 'w')
         for i, aid in enumerate(cur_person_dict):
             items = cur_person_dict[aid]
-            if len(items) < 3:
+            if len(items) < 5:
                 continue
             for pid in items:
                 pids2label[pid] = aid
@@ -110,3 +110,4 @@ if __name__ == '__main__':
     dump_inter_emb()
     gen_local_data(idf_threshold=IDF_THRESHOLD)
     print('done')
+

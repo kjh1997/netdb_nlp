@@ -1,6 +1,6 @@
-import sys
-sys.path.append("/home/kjh/netdb_nlp")
 from os.path import join
+import sys
+sys.path.append("/home/kjh/disambiguation")
 import os
 import multiprocessing as mp
 import random
@@ -36,9 +36,12 @@ class TripletsGenerator:
         self.idf = data_utils.load_data(settings.GLOBAL_DATA_DIR, 'feature_idf.pkl')
 
     def prepare_data(self):
-        self.name2pubs_train = data_utils.load_json(settings.GLOBAL_DATA_DIR, 'name_to_pubs.json')  # for test
+        self.name2pubs_train = data_utils.load_json(settings.GLOBAL_DATA_DIR, 'name_to_pubs_train_500.json')  # for test
+        self.name2pubs_test = data_utils.load_json(settings.GLOBAL_DATA_DIR, 'name_to_pubs_test_100.json')
         self.names_train = self.name2pubs_train.keys()
         print('names train', len(self.names_train))
+        self.names_test = self.name2pubs_test.keys()
+        print('names test', len(self.names_test))
         for name in self.names_train:
             name_pubs_dict = self.name2pubs_train[name]
             for aid in name_pubs_dict:
@@ -46,6 +49,14 @@ class TripletsGenerator:
         random.shuffle(self.pids_train)
         self.n_pubs_train = len(self.pids_train)
         print('pubs2train', self.n_pubs_train)
+
+        for name in self.names_test:
+            name_pubs_dict = self.name2pubs_test[name]
+            for aid in name_pubs_dict:
+                self.pids_test += name_pubs_dict[aid]
+        random.shuffle(self.pids_test)
+        self.n_pubs_test = len(self.pids_test)
+        print('pubs2test', self.n_pubs_test)
 
     def gen_neg_pid(self, not_in_pids, role='train'):
         if role == 'train':
@@ -84,14 +95,10 @@ class TripletsGenerator:
                     idx_pos = random.sample(range(cur_n_pubs), n_samples_anchor)
                     for ii, i_pos in enumerate(idx_pos):
                         if i_pos != i:
-                            if n_sample_triplets % 100 == 0:
-                                # print('sampled triplet ids', n_sample_triplets)
-                                pass
                             pid_pos = pids[i_pos]
                             pid_neg = self.gen_neg_pid(pids, role)
                             n_sample_triplets += 1
                             task_q.put((pid1, pid_pos, pid_neg))
-
                             if n_sample_triplets >= self.save_size:
                                 for j in range(N_PROC):
                                     task_q.put((None, None, None))
@@ -173,3 +180,4 @@ class TripletsGenerator:
 if __name__ == '__main__':
     data_gen = TripletsGenerator(train_scale=1000000)
     data_gen.dump_triplets(role='train')
+    data_gen.dump_triplets(role='test')

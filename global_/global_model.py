@@ -1,6 +1,6 @@
 from os.path import join
 import sys
-sys.path.append("/home/kjh/netdb_nlp")
+sys.path.append("/home/kjh/disambiguation")
 import os
 import numpy as np
 from keras import backend as K
@@ -61,7 +61,7 @@ class GlobalTripletModel:
             x1_batch = np.array(x1_batch)[p]
             x2_batch = np.array(x2_batch)[p]
             x3_batch = np.array(x3_batch)[p]
-            X1 = np.concatenate((X1, x1_batch)) 
+            X1 = np.concatenate((X1, x1_batch))
             X2 = np.concatenate((X2, x2_batch))
             X3 = np.concatenate((X3, x3_batch))
         return X1, X2, X3
@@ -121,9 +121,7 @@ class GlobalTripletModel:
 
         X_anchor, X_pos, X_neg = X1, X2, X3
         X = {'anchor_input': X_anchor, 'pos_input': X_pos, 'neg_input': X_neg}
-        print(X)
-        print(np.ones((n_triplets,2)))
-        model.fit(X, np.ones((n_triplets, 2)), batch_size=2, epochs=5, shuffle=True, validation_split=0.1)
+        model.fit(X, np.ones((n_triplets, 2)), batch_size=64, epochs=5, shuffle=True, validation_split=0.2)
 
         model_json = model.to_json()
         model_dir = join(settings.OUT_DIR, 'model')
@@ -134,7 +132,11 @@ class GlobalTripletModel:
 
         test_triplets = self.load_triplets_data(role='test')
         auc_score = eval_utils.full_auc(model, test_triplets)
-       
+        # print('AUC', auc_score)
+
+        loaded_model = self.load_triplets_model()
+        print('triplets model loaded')
+        auc_score = eval_utils.full_auc(loaded_model, test_triplets)
 
     def evaluate_triplet_model(self):
         test_triplets = self.load_triplets_data(role='test')
