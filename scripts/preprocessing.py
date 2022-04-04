@@ -1,6 +1,6 @@
 from os.path import join
 import sys
-sys.path.append("/home/kjh/disambiguation")
+sys.path.append("/home/kjh/netdb_nlp")
 import codecs
 import math
 from collections import defaultdict as dd

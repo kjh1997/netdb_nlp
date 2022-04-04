@@ -1,7 +1,7 @@
 from __future__ import division
 from __future__ import print_function
 import sys
-sys.path.append("/home/kjh/disambiguation")
+sys.path.append("/home/kjh/netdb_nlp")
 import os
 import time
 from os.path import join
