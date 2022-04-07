@@ -19,9 +19,9 @@ def dump_author_features_to_file():
     generate author features by raw publication data and dump to files
     author features are defined by his/her paper attributes excluding the author's name
     """
-    pubs_dict = data_utils.load_json(settings.GLOBAL_DATA_DIR, 'pubs_raw.json')
+    pubs_dict = data_utils.load_json(settings.GLOBAL_DATA_DIR, 'pubs_raw.json') # 논문의 rawdata를 가지고 옴
     print('n_papers', len(pubs_dict))
-    wf = codecs.open(join(settings.GLOBAL_DATA_DIR, 'author_features.txt'), 'w', encoding='utf-8')
+    wf = codecs.open(join(settings.GLOBAL_DATA_DIR, 'author_features.txt'), 'w', encoding='utf-8') # author_features.txt 파일에 각 논문의 feature를 줄단위로 토큰화 시킴.
     for i, pid in enumerate(pubs_dict):
         if i % 1000 == 0:
             print(i, datetime.now()-start_time)
@@ -32,7 +32,7 @@ def dump_author_features_to_file():
             continue
         n_authors = len(paper.get('authors', []))
         for j in range(n_authors):
-            author_feature = feature_utils.extract_author_features(paper, j)
+            author_feature = feature_utils.extract_author_features(paper, j) # 논문의 공동저자의 수 만큼 뽑아옴.
             aid = '{}'.format(pid)
             wf.write(aid + '\t' + ' '.join(author_feature) + '\n')
     wf.close()
@@ -51,7 +51,7 @@ def dump_author_features_to_cache():
             items = line.rstrip().split('\t')
             pid_order = items[0]
             author_features = items[1].split()
-            lc.set(pid_order, author_features)
+            lc.set(pid_order, author_features) # lmdb에 pid 별로 author의 feature를 저장함.
 
 
 def cal_feature_idf():
@@ -64,7 +64,7 @@ def cal_feature_idf():
     LMDB_NAME = 'pub_authors.feature'
     lc = LMDBClient(LMDB_NAME)
     author_cnt = 0
-    with lc.db.begin() as txn:
+    with lc.db.begin() as txn: # lmdb의 커서인데 몽고디비의 커서랑 비슷함.
         for k in txn.cursor():
             features = data_utils.deserialize_embedding(k[1])
             if author_cnt % 10000 == 0:
@@ -98,20 +98,20 @@ def dump_author_embs():
                 print('cnt', cnt, datetime.now()-start_time)
             cnt += 1
             pid_order = k[0].decode('utf-8')
-            features = data_utils.deserialize_embedding(k[1])
+            features = data_utils.deserialize_embedding(k[1]) # 각 논문의 feature embedding
             cur_emb = emb_model.project_embedding(features, idf)
             if cur_emb is not None:
-                lc_emb.set(pid_order, cur_emb)
+                lc_emb.set(pid_order, cur_emb) #lmdb set
 
 
 if __name__ == '__main__':
     """
     some pre-processing
     """
-    dump_author_features_to_file()
-    dump_author_features_to_cache()
-    emb_model = EmbeddingModel.Instance()
+    dump_author_features_to_file() # rawdata에서 data parsing
+    dump_author_features_to_cache() # data cache
+    emb_model = EmbeddingModel.Instance() 
     emb_model.train('aminer')  # training word embedding model
-    cal_feature_idf()
-    dump_author_embs()
+    cal_feature_idf() # idf값 계산(?)
+    dump_author_embs() # paper data embedding
     print('done', datetime.now()-start_time)

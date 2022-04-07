@@ -19,17 +19,14 @@ Please download data [here](https://static.aminer.cn/misc/na-data-kdd18.zip) (or
 ```bash
 cd $project_path
 export PYTHONPATH="$project_path:$PYTHONPATH"
-python3 scripts/preprocessing.py
+python3 scripts/preprocessing.py # 논문의 rawdata를 parsing해서 w2v기반 embedding
 
 # global model
-python3 global_/gen_train_data.py
-python3 global_/global_model.py
-python3 global_/prepare_local_data.py
+python3 global_/gen_train_data.py # triplet model을 학습시키기 위한 파일
+python3 global_/global_model.py # triplet model 학습
+python3 global_/prepare_local_data.py # vgae를 학습 시키기 위한 data 준비
 
 # local model
-python3 local/gae/train.py
+python3 local/gae/train.py # vgae로 생성한 데이터로 hac클러스터링 진행
 
-# estimate cluster size
-python3 cluster_size/count.py
-```
 Note: Training data in this demo are smaller than what we used in the paper, so the performance (F1-score) will be a little bit lower than reported scores.
