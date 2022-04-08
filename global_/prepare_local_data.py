@@ -31,18 +31,18 @@ def dump_inter_emb():
         embs_input = []
         pids = []
         for i, aid in enumerate(name_data.keys()):
-            if len(name_data[aid]) < 2:  # n_pubs of current author is too small
+            if len(name_data[aid]) < 2:  # 각 저자의 논문 수가 2미만이면 거름.
                 continue
-            for pid in name_data[aid]:
+            for pid in name_data[aid]: # 각 저자의 paper_id 를 가지고옴.
                 cur_emb = lc_input.get(pid)
                 if cur_emb is None:
                     continue
                 embs_input.append(cur_emb)
                 pids.append(pid)
         embs_input = np.stack(embs_input)
-        inter_embs = get_hidden_output(trained_global_model, embs_input)
+        inter_embs = get_hidden_output(trained_global_model, embs_input) # 앞에 학습된 triplet 모델에 넣음으로써 data에 대한 전처리가 이루어짐.
         for i, pid_ in enumerate(pids):
-            lc_inter.set(pid_, inter_embs[i])
+            lc_inter.set(pid_, inter_embs[i]) 
 
 
 def gen_local_data(idf_threshold=10):
@@ -58,7 +58,7 @@ def gen_local_data(idf_threshold=10):
     lc_feature = LMDBClient(LMDB_AUTHOR_FEATURE)
     graph_dir = join(settings.DATA_DIR, 'local', 'graph-{}'.format(idf_threshold))
     os.makedirs(graph_dir, exist_ok=True)
-    for i, name in enumerate(name_to_pubs_test):
+    for i, name in enumerate(name_to_pubs_test): # test데이터셋에 대한 동명이인을 하나씩 꺼냄
         print(i, name)
         cur_person_dict = name_to_pubs_test[name]
         pids_set = set()
@@ -66,8 +66,8 @@ def gen_local_data(idf_threshold=10):
         pids2label = {}
 
         # generate content
-        wf_content = open(join(graph_dir, '{}_pubs_content.txt'.format(name)), 'w')
-        for i, aid in enumerate(cur_person_dict):
+        wf_content = open(join(graph_dir, '{}_pubs_content.txt'.format(name)), 'w') # 동명이인별로 저장.
+        for i, aid in enumerate(cur_person_dict): # 동명이인의 id를 꺼내서 
             items = cur_person_dict[aid]
             if len(items) < 5:
                 continue
@@ -76,20 +76,20 @@ def gen_local_data(idf_threshold=10):
                 pids.append(pid)
         shuffle(pids)
         for pid in pids:
-            cur_pub_emb = lc_inter.get(pid)
+            cur_pub_emb = lc_inter.get(pid) # 해당 paper id 에 해당하는것을 lmdb에서 꺼냄.
             if cur_pub_emb is not None:
                 cur_pub_emb = list(map(str, cur_pub_emb))
                 pids_set.add(pid)
                 wf_content.write('{}\t'.format(pid))
                 wf_content.write('\t'.join(cur_pub_emb))
-                wf_content.write('\t{}\n'.format(pids2label[pid]))
+                wf_content.write('\t{}\n'.format(pids2label[pid])) # txt파일로 저장.
         wf_content.close()
 
         # generate network
         pids_filter = list(pids_set)
         n_pubs = len(pids_filter)
         print('n_pubs', n_pubs)
-        wf_network = open(join(graph_dir, '{}_pubs_network.txt'.format(name)), 'w')
+        wf_network = open(join(graph_dir, '{}_pubs_network.txt'.format(name)), 'w') # 각 paper에 대항 edge를 생성
         for i in range(n_pubs-1):
             if i % 10 == 0:
                 print(i)

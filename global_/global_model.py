@@ -20,7 +20,7 @@ global metric learning model
 
 class GlobalTripletModel:
 
-    def __init__(self, data_scale):
+    def __init__(self, data_scale): 
         self.data_scale = data_scale
         self.train_triplets_dir = join(settings.OUT_DIR, 'triplets-{}'.format(self.data_scale))
         self.test_triplets_dir = join(settings.OUT_DIR, 'test-triplets')
@@ -46,7 +46,7 @@ class GlobalTripletModel:
         X3 = data_utils.load_data(cur_dir, 'neg_embs_{}_{}.pkl'.format(role, f_idx))
         return X1, X2, X3
 
-    def load_triplets_data(self, role='train'):
+    def load_triplets_data(self, role='train'): # 
         X1 = np.empty([0, EMB_DIM])
         X2 = np.empty([0, EMB_DIM])
         X3 = np.empty([0, EMB_DIM])
@@ -67,7 +67,7 @@ class GlobalTripletModel:
         return X1, X2, X3
 
     @staticmethod
-    def create_triplet_model():
+    def create_triplet_model():  # 모델 레이어 생성.
         emb_anchor = Input(shape=(EMB_DIM, ), name='anchor_input')
         emb_pos = Input(shape=(EMB_DIM, ), name='pos_input')
         emb_neg = Input(shape=(EMB_DIM, ), name='neg_input')
@@ -146,7 +146,7 @@ class GlobalTripletModel:
 
 
 if __name__ == '__main__':
-    global_model = GlobalTripletModel(data_scale=1000000)
-    global_model.train_triplets_model()
+    global_model = GlobalTripletModel(data_scale=1000000)   # triplet model 객체 생성.
+    global_model.train_triplets_model() # 모델 학습
     print('done')
     

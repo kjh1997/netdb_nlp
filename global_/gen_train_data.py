@@ -108,7 +108,7 @@ class TripletsGenerator:
         for j in range(N_PROC):
             task_q.put((None, None, None))
 
-    def gen_emb_mp(self, task_q, emb_q):
+    def gen_emb_mp(self, task_q, emb_q): # taskq에서 하나씩 꺼내서 각 pid에 해당하는 embedding 한 값을 emb_q에 넣어줌
         while True:
             pid1, pid_pos, pid_neg = task_q.get()
             if pid1 is None:
@@ -136,7 +136,7 @@ class TripletsGenerator:
         while True:
             if cnt % 1000 == 0:
                 print('get', cnt, datetime.now()-start_time)
-            emb1, emb_pos, emb_neg = emb_q.get()
+            emb1, emb_pos, emb_neg = emb_q.get() # embq에서 계속 꺼내서 제너레이터으로 하나씩 반환함. 
             if emb1 is False:
                 producer_p.terminate()
                 producer_p.join()
@@ -160,12 +160,12 @@ class TripletsGenerator:
         for i, t in enumerate(triplets):
             if i % 100 == 0:
                 print(i, datetime.now()-start_time)
-            emb_anc, emb_pos, emb_neg = t[0], t[1], t[2]
+            emb_anc, emb_pos, emb_neg = t[0], t[1], t[2] # 여긴 임베딩한 값이 들어가있음.
             anchor_embs.append(emb_anc)
             pos_embs.append(emb_pos)
             neg_embs.append(emb_neg)
             if len(anchor_embs) == self.batch_size:
-                data_utils.dump_data(anchor_embs, out_dir, 'anchor_embs_{}_{}.pkl'.format(role, f_idx))
+                data_utils.dump_data(anchor_embs, out_dir, 'anchor_embs_{}_{}.pkl'.format(role, f_idx)) # 배치사이즈별로 데이터를 나눠서 저장함.
                 data_utils.dump_data(pos_embs, out_dir, 'pos_embs_{}_{}.pkl'.format(role, f_idx))
                 data_utils.dump_data(neg_embs, out_dir, 'neg_embs_{}_{}.pkl'.format(role, f_idx))
                 f_idx += 1
