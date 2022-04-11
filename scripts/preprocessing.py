@@ -115,3 +115,4 @@ if __name__ == '__main__':
     cal_feature_idf() # idf값 계산(?)
     dump_author_embs() # paper data embedding
     print('done', datetime.now()-start_time)
+ 

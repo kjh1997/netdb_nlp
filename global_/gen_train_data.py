@@ -22,7 +22,7 @@ class TripletsGenerator:
     name2pubs_train = {}
     name2pubs_test = {}
     names_train = None
-    names_test = None
+    names_test = None 
     n_pubs_train = None
     n_pubs_test = None
     pids_train = []
@@ -33,7 +33,7 @@ class TripletsGenerator:
     def __init__(self, train_scale=10000):
         self.prepare_data()
         self.save_size = train_scale
-        self.idf = data_utils.load_data(settings.GLOBAL_DATA_DIR, 'feature_idf.pkl')
+        self.idf = data_utils.load_data(settings.GLOBAL_DATA_DIR, 'feature_idf .pkl')
 
     def prepare_data(self):
         self.name2pubs_train = data_utils.load_json(settings.GLOBAL_DATA_DIR, 'name_to_pubs_train_500.json')  # 각 동명이인의 논문이 뭐가 있는지 가지고 옴.
