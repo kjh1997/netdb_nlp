@@ -15,10 +15,16 @@ for line in rdr:
         data[name[0]]['weight'] = []
         data[name[0]]['n_cluster'] = []
     data[name[0]]['weight'].append(float(line[5]))
-    data[name[0]]['weight'].append(float(line[7]))
     data[name[0]]['n_cluster'].append(name[1])
-
-for i in data:
-    list_df = pd.DataFrame([1,2],[3,4],[5,6])
-    print(clustering(list_df,len(data[i]['n_cluster'])))
+# 데이터 구조 : dict
+# {
+#   동명이인 이름 : {
+#           동명이인들의 weight : [],
+        #   동명이인이 몇 명이나 있는가? : []   < len(set(list))으로 길이를 측정.
+#   }
+# }
+# 
+# 
+list_df = pd.DataFrame([[1,2],[3,4],[5,6]])
+print(clustering(list_df,2))
 
