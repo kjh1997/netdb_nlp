@@ -1,0 +1,4570 @@
+{
+  "김윤희_1": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "김윤희",
+    "inst": "숙명여자대학교",
+    "SCIENCEON": {
+      "inst": "Department of Computer Science, Sookmyung Women's University",
+      "A_id": [
+        "s259841"
+      ],
+      "papers": [
+        "624febd48189b538c6219d73"
+      ],
+      "oriInst": "숙명여자대학교"
+    }
+  },
+  "김윤희_0": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "김윤희",
+    "inst": "DEPT. OF COMPUTER SCIENCE, SOOKMYUNG WOMEN'S UNIV.",
+    "SCIENCEON": {
+      "inst": "Dept. of Computer Science, Sookmyung Women's Univ.",
+      "A_id": [
+        "s257954"
+      ],
+      "papers": [
+        "624febca8189b538c6219d38"
+      ],
+      "oriInst": "DEPT. OF COMPUTER SCIENCE, SOOKMYUNG WOMEN'S UNIV."
+    }
+  },
+  "정윤혁_1": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "정윤혁",
+    "inst": "울산과학기술원",
+    "SCIENCEON": {
+      "inst": "울산과학기술원(UNIST) 경영학부",
+      "A_id": [
+        "s260578"
+      ],
+      "papers": [
+        "624febdb8189b538c6219d88"
+      ],
+      "oriInst": "울산과학기술원"
+    }
+  },
+  "정윤혁_0": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "정윤혁",
+    "inst": "울산과학기술원",
+    "SCIENCEON": {
+      "inst": "울산과학기술원 융합경영대학원",
+      "A_id": [
+        "s260113"
+      ],
+      "papers": [
+        "624febdb8189b538c6219d7e"
+      ],
+      "oriInst": "울산과학기술원"
+    }
+  },
+  "박도형_1": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "박도형",
+    "inst": "국민대학교",
+    "SCIENCEON": {
+      "inst": "국민대학교 경영대학/비즈니스 IT 전문대학원",
+      "A_id": [
+        "s261014"
+      ],
+      "papers": [
+        "624febde8189b538c6219d99"
+      ],
+      "oriInst": "국민대학교"
+    }
+  },
+  "박도형_0": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "박도형",
+    "inst": "국민대학교",
+    "SCIENCEON": {
+      "inst": "국민대학교 경영대학/비즈니스IT전문대학원",
+      "A_id": [
+        "s260307"
+      ],
+      "papers": [
+        "624febdb8189b538c6219d85"
+      ],
+      "oriInst": "국민대학교"
+    }
+  },
+  "유재수_1": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "유재수",
+    "inst": "충북대학교",
+    "SCIENCEON": {
+      "inst": "충북대학교 정보통신학과",
+      "A_id": [
+        "s260968"
+      ],
+      "papers": [
+        "624febde8189b538c6219d98"
+      ],
+      "oriInst": "충북대학교"
+    }
+  },
+  "유재수_0": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "유재수",
+    "inst": "충북대학교",
+    "SCIENCEON": {
+      "inst": "충북대학교 정보통신공학과",
+      "A_id": [
+        "s258057",
+        "s101957"
+      ],
+      "papers": [
+        "624febd48189b538c6219d6f",
+        "624febdb8189b538c6219d8b",
+        "624febdb8189b538c6219d80",
+        "624febdb8189b538c6219d7d",
+        "624febde8189b538c6219d9e",
+        "624febde8189b538c6219d9f",
+        "624febde8189b538c6219da1",
+        "624febde8189b538c6219d97",
+        "624febe38189b538c6219dad",
+        "624febed8189b538c6219dcd",
+        "624febed8189b538c6219dce",
+        "624febdf8189b538c6219da8",
+        "624febde8189b538c6219da5",
+        "624febdb8189b538c6219d8d",
+        "624febdb8189b538c6219d95",
+        "624febdb8189b538c6219d90",
+        "624febdb8189b538c6219d8e",
+        "624febd48189b538c6219d7a",
+        "624febdf8189b538c6219da9"
+      ],
+      "oriInst": "충북대학교"
+    },
+    "NTIS": {
+      "inst": "충북대학교",
+      "A_id": [
+        "857111516498"
+      ],
+      "papers": [
+        "624febd7e5081f1a8c21a48b",
+        "624febd7e5081f1a8c21a474",
+        "624febd5e5081f1a8c21a43b",
+        "624febd5e5081f1a8c21a422",
+        "624febd5e5081f1a8c21a448",
+        "624febd5e5081f1a8c21a426",
+        "624febd3e5081f1a8c21a3d1",
+        "624febd1e5081f1a8c21a375",
+        "624febcfe5081f1a8c21a344",
+        "624febcde5081f1a8c21a324",
+        "624febd7e5081f1a8c21a47f"
+      ],
+      "oriInst": "충북대학교"
+    },
+    "DBPIA": {
+      "inst": "충북대학교 정보통신공학부",
+      "A_id": [
+        "4629563"
+      ],
+      "papers": [
+        "624febf1e90d43f80121c13b"
+      ],
+      "oriInst": "충북대학교"
+    }
+  },
+  "유재수_2": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "유재수",
+    "inst": "충북대학교",
+    "SCIENCEON": {
+      "inst": "충북대학교 정보통신공학부",
+      "A_id": [
+        "s259873"
+      ],
+      "papers": [
+        "624febe88189b538c6219dc8",
+        "624febdb8189b538c6219d7b",
+        "624febd48189b538c6219d76"
+      ],
+      "oriInst": "충북대학교"
+    }
+  },
+  "김한준_1": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "김한준",
+    "inst": "서울시립대학교",
+    "SCIENCEON": {
+      "inst": "서울시립대학교 전자전기컴퓨터공학부",
+      "A_id": [
+        "s259956"
+      ],
+      "papers": [
+        "624febd48189b538c6219d77"
+      ],
+      "oriInst": "서울시립대학교"
+    },
+    "DBPIA": {
+      "inst": "서울시립대학교 전자전기컴퓨터공학부",
+      "A_id": [
+        "264256"
+      ],
+      "papers": [
+        "624fec02e90d43f80121c2a7"
+      ],
+      "oriInst": "서울시립대학교"
+    }
+  },
+  "김한준_0": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "김한준",
+    "inst": "서울시립대학교",
+    "SCIENCEON": {
+      "inst": "서울시립대학교 전자전기컴퓨터공학과",
+      "A_id": [
+        "s260138"
+      ],
+      "papers": [
+        "624febdb8189b538c6219d7f"
+      ],
+      "oriInst": "서울시립대학교"
+    }
+  },
+  "김윤희_2": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "김윤희",
+    "inst": "숙명여자대학교",
+    "SCIENCEON": {
+      "inst": "숙명여자대학교 컴퓨터과학부",
+      "A_id": [
+        "s258845"
+      ],
+      "papers": [
+        "624febcd8189b538c6219d54"
+      ],
+      "oriInst": "숙명여자대학교"
+    },
+    "DBPIA": {
+      "inst": "숙명여자대학교 컴퓨터과학부",
+      "A_id": [
+        "422876"
+      ],
+      "papers": [
+        "624fec05e90d43f80121c302"
+      ],
+      "oriInst": "숙명여자대학교"
+    }
+  },
+  "진찬용_1": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "진찬용",
+    "inst": "원광대학교",
+    "SCIENCEON": {
+      "inst": "원광대학교(융복합창의연구소)",
+      "A_id": [
+        "s260801"
+      ],
+      "papers": [
+        "624febdb8189b538c6219d93",
+        "624febde8189b538c6219d96",
+        "624febdb8189b538c6219d92"
+      ],
+      "oriInst": "원광대학교"
+    }
+  },
+  "진찬용_0": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "진찬용",
+    "inst": "원광대학교",
+    "SCIENCEON": {
+      "inst": "Wonkwang University (Institute of Convergence and Creativity)",
+      "A_id": [
+        "s260761",
+        "s143722"
+      ],
+      "papers": [
+        "624febde8189b538c6219da4",
+        "624febdb8189b538c6219d91",
+        "624febdb8189b538c6219d8f",
+        "624febe58189b538c6219db9"
+      ],
+      "oriInst": "원광대학교"
+    }
+  },
+  "황병연_1": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "황병연",
+    "inst": "가톨릭대학교",
+    "SCIENCEON": {
+      "inst": "가톨릭대학교 컴퓨터공학과",
+      "A_id": [
+        "s257890"
+      ],
+      "papers": [
+        "624febca8189b538c6219d36"
+      ],
+      "oriInst": "가톨릭대학교"
+    }
+  },
+  "황병연_0": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "황병연",
+    "inst": "가톨릭대학교",
+    "SCIENCEON": {
+      "inst": "Department of Computer Science and Engineering, The Catholic University of Korea",
+      "A_id": [
+        "s259609"
+      ],
+      "papers": [
+        "624febd48189b538c6219d69"
+      ],
+      "oriInst": "가톨릭대학교"
+    }
+  },
+  "정교민_1": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "정교민",
+    "inst": "한국과학기술원",
+    "NTIS": {
+      "inst": "한국과학기술원",
+      "A_id": [
+        "s250040"
+      ],
+      "papers": [
+        "624febd7e5081f1a8c21a48c"
+      ],
+      "oriInst": "한국과학기술원"
+    }
+  },
+  "정교민_0": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "정교민",
+    "inst": "서울대학교",
+    "SCIENCEON": {
+      "inst": "서울대학교",
+      "A_id": [
+        "s258565"
+      ],
+      "papers": [
+        "624febcd8189b538c6219d4f",
+        "624febcd8189b538c6219d52"
+      ],
+      "oriInst": "서울대학교"
+    },
+    "NTIS": {
+      "inst": "서울대학교",
+      "A_id": [
+        "430242767171"
+      ],
+      "papers": [
+        "624febd7e5081f1a8c21a473",
+        "624febd5e5081f1a8c21a44d"
+      ],
+      "oriInst": "서울대학교"
+    }
+  },
+  "김응모_1": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "김응모",
+    "inst": "성균관대학교(자연과학캠퍼스)",
+    "NTIS": {
+      "inst": "성균관대학교(자연과학캠퍼스)",
+      "A_id": [
+        "425902655179"
+      ],
+      "papers": [
+        "624febd7e5081f1a8c21a483",
+        "624febd5e5081f1a8c21a43c",
+        "624febd5e5081f1a8c21a414",
+        "624febd5e5081f1a8c21a411",
+        "624febd3e5081f1a8c21a3c0",
+        "624febd1e5081f1a8c21a392"
+      ],
+      "oriInst": "성균관대학교(자연과학캠퍼스)"
+    }
+  },
+  "김응모_0": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "김응모",
+    "inst": "성균관대학교",
+    "SCIENCEON": {
+      "inst": "성균관대학교 사회과학대학 소비자가족학과 / 소프트웨어대학",
+      "A_id": [
+        "s262794"
+      ],
+      "papers": [
+        "624febe88189b538c6219dc5"
+      ],
+      "oriInst": "성균관대학교"
+    }
+  },
+  "최재영_1": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "최재영",
+    "inst": "한국외국어대학교",
+    "NTIS": {
+      "inst": "한국외국어대학교(글로벌캠퍼스)",
+      "A_id": [
+        "810157318880",
+        "407126316794"
+      ],
+      "papers": [
+        "624febd3e5081f1a8c21a3c1",
+        "624febd1e5081f1a8c21a3b5",
+        "624febcfe5081f1a8c21a35d",
+        "624febcde5081f1a8c21a2f4",
+        "624febcbe5081f1a8c21a2c4",
+        "624febcde5081f1a8c21a317"
+      ],
+      "oriInst": "한국외국어대학교"
+    }
+  },
+  "최재영_0": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "최재영",
+    "inst": "중원대학교",
+    "NTIS": {
+      "inst": "중원대학교",
+      "A_id": [
+        "s249433"
+      ],
+      "papers": [
+        "624febd5e5081f1a8c21a413"
+      ],
+      "oriInst": "중원대학교"
+    }
+  },
+  "이종국_1": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "이종국",
+    "inst": "계명대학교",
+    "NTIS": {
+      "inst": "계명대학교",
+      "A_id": [
+        "839604275194"
+      ],
+      "papers": [
+        "624febd1e5081f1a8c21a386",
+        "624febcfe5081f1a8c21a35b",
+        "624febcde5081f1a8c21a31c",
+        "624febcde5081f1a8c21a2ef"
+      ],
+      "oriInst": "계명대학교"
+    }
+  },
+  "이종국_0": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "이종국",
+    "inst": "국립재난안전연구원 재난정보분석센터",
+    "SCIENCEON": {
+      "inst": "국립재난안전연구원 재난정보분석센터",
+      "A_id": [
+        "s258277"
+      ],
+      "papers": [
+        "624febca8189b538c6219d45"
+      ],
+      "oriInst": "국립재난안전연구원 재난정보분석센터"
+    }
+  },
+  "신원용_1": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "신원용",
+    "inst": "연세대학교",
+    "NTIS": {
+      "inst": "연세대학교",
+      "A_id": [
+        "428905687193"
+      ],
+      "papers": [
+        "624febcde5081f1a8c21a318",
+        "624febcde5081f1a8c21a2f3",
+        "624febcbe5081f1a8c21a2d4",
+        "624febcbe5081f1a8c21a2b3"
+      ],
+      "oriInst": "연세대학교"
+    }
+  },
+  "신원용_0": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "신원용",
+    "inst": "단국대학교",
+    "NTIS": {
+      "inst": "단국대학교",
+      "A_id": [
+        "s249842"
+      ],
+      "papers": [
+        "624febd5e5081f1a8c21a43f",
+        "624febd5e5081f1a8c21a40e",
+        "624febd3e5081f1a8c21a3c3",
+        "624febd1e5081f1a8c21a38e",
+        "624febcfe5081f1a8c21a34a",
+        "624febd5e5081f1a8c21a423",
+        "624febd3e5081f1a8c21a3d7"
+      ],
+      "oriInst": "단국대학교"
+    }
+  },
+  "노승민_1": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "노승민",
+    "inst": "세종대학교",
+    "NTIS": {
+      "inst": "세종대학교",
+      "A_id": [
+        "bnRpczpCNTUxMTg2LUI1NTExODY+SE1PLjUxMDQwMTAxNzEyOQ=="
+      ],
+      "papers": [
+        "624febcde5081f1a8c21a31b"
+      ],
+      "oriInst": "세종대학교"
+    }
+  },
+  "노승민_0": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "노승민",
+    "inst": "성결대학교",
+    "NTIS": {
+      "inst": "성결대학교",
+      "A_id": [
+        "510401017129"
+      ],
+      "papers": [
+        "624febcfe5081f1a8c21a352"
+      ],
+      "oriInst": "성결대학교"
+    },
+    "KCI": {
+      "inst": "성결대학교",
+      "A_id": [
+        "s15284"
+      ],
+      "papers": [
+        "624febfb90646854a0219b4e"
+      ],
+      "oriInst": "성결대학교"
+    },
+    "DBPIA": {
+      "inst": "성결대학교 미디어소프트웨어학부",
+      "A_id": [
+        "262778"
+      ],
+      "papers": [
+        "624fec20e90d43f80121c50a"
+      ],
+      "oriInst": "성결대학교"
+    }
+  },
+  "한진영_1": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "한진영",
+    "inst": "성균관대학교",
+    "NTIS": {
+      "inst": "성균관대학교",
+      "A_id": [
+        "bnRpczpCNTUxMTg2LUI1NTExODY+SE1PLjQwMjExODYzODIwMw=="
+      ],
+      "papers": [
+        "624febcde5081f1a8c21a30e",
+        "624febcde5081f1a8c21a2e7"
+      ],
+      "oriInst": "성균관대학교"
+    }
+  },
+  "한진영_0": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "한진영",
+    "inst": "한양대학교(ERICA캠퍼스)",
+    "NTIS": {
+      "inst": "한양대학교(ERICA캠퍼스)",
+      "A_id": [
+        "402118638203"
+      ],
+      "papers": [
+        "624febcfe5081f1a8c21a359",
+        "624febd1e5081f1a8c21a37b"
+      ],
+      "oriInst": "한양대학교(ERICA캠퍼스)"
+    }
+  },
+  "PIAO GENSONG_1": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "PIAO GENSONG",
+    "inst": "창원대학교",
+    "NTIS": {
+      "inst": "창원대학교",
+      "A_id": [
+        "s243080"
+      ],
+      "papers": [
+        "624febcde5081f1a8c21a2e8"
+      ],
+      "oriInst": "창원대학교"
+    }
+  },
+  "PIAO GENSONG_0": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "PIAO GENSONG",
+    "inst": "한양대학교(ERICA캠퍼스)",
+    "NTIS": {
+      "inst": "한양대학교(ERICA캠퍼스)",
+      "A_id": [
+        "875586378502"
+      ],
+      "papers": [
+        "624febcfe5081f1a8c21a358",
+        "624febcde5081f1a8c21a316"
+      ],
+      "oriInst": "한양대학교(ERICA캠퍼스)"
+    }
+  },
+  "정경용_1": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "정경용",
+    "inst": "경기대학교",
+    "NTIS": {
+      "inst": "경기대학교산학협력단",
+      "A_id": [
+        "bnRpczpCNTUxMTg2LUI1NTExODY+SE1PLjgyNTMwOTQyNzE3Nw=="
+      ],
+      "papers": [
+        "624febcde5081f1a8c21a2ed",
+        "624febcbe5081f1a8c21a2ba"
+      ],
+      "oriInst": "경기대학교"
+    }
+  },
+  "정경용_0": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "정경용",
+    "inst": "상지대학교",
+    "NTIS": {
+      "inst": "상지대학교 산학협력단",
+      "A_id": [
+        "s249988"
+      ],
+      "papers": [
+        "624febd7e5081f1a8c21a459"
+      ],
+      "oriInst": "상지대학교"
+    }
+  },
+  "김민수_1": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "김민수",
+    "inst": "대구경북과학기술원",
+    "NTIS": {
+      "inst": "대구경북과학기술원",
+      "A_id": [
+        "126107267154"
+      ],
+      "papers": [
+        "624febd5e5081f1a8c21a44a",
+        "624febd5e5081f1a8c21a420",
+        "624febd3e5081f1a8c21a3cc"
+      ],
+      "oriInst": "대구경북과학기술원"
+    }
+  },
+  "김민수_0": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "김민수",
+    "inst": "전남대학교",
+    "NTIS": {
+      "inst": "전남대학교",
+      "A_id": [
+        "459115816127"
+      ],
+      "papers": [
+        "624febcfe5081f1a8c21a354",
+        "624febcde5081f1a8c21a311",
+        "624febcde5081f1a8c21a2f0",
+        "624febcbe5081f1a8c21a2c0"
+      ],
+      "oriInst": "전남대학교"
+    }
+  },
+  "이한구_1": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "이한구",
+    "inst": "건국대학교",
+    "NTIS": {
+      "inst": "건국대학교 산학협력단",
+      "A_id": [
+        "s244514"
+      ],
+      "papers": [
+        "624febd7e5081f1a8c21a460",
+        "624febd5e5081f1a8c21a431"
+      ],
+      "oriInst": "건국대학교"
+    }
+  },
+  "이한구_0": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "이한구",
+    "inst": "건국대학교",
+    "NTIS": {
+      "inst": "건국대학교산학협력단",
+      "A_id": [
+        "bnRpczpCNTUxMTg2LUI1NTExODY+SE1PLjEwOTExNTQxNjAxNg=="
+      ],
+      "papers": [
+        "624febd7e5081f1a8c21a494"
+      ],
+      "oriInst": "건국대학교"
+    }
+  },
+  "유성준_1": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "유성준",
+    "inst": "세종대학교",
+    "NTIS": {
+      "inst": "세종대학교 산학협력단",
+      "A_id": [
+        "518909005196"
+      ],
+      "papers": [
+        "624febd3e5081f1a8c21a406"
+      ],
+      "oriInst": "세종대학교"
+    }
+  },
+  "유성준_0": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "유성준",
+    "inst": "세종대학교",
+    "NTIS": {
+      "inst": "세종대학교산학협력단",
+      "A_id": [
+        "s249937"
+      ],
+      "papers": [
+        "624febd7e5081f1a8c21a467",
+        "624febd3e5081f1a8c21a400"
+      ],
+      "oriInst": "세종대학교"
+    }
+  },
+  "조기환_1": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "조기환",
+    "inst": "전북대학교",
+    "NTIS": {
+      "inst": "전북대학교산학협력단",
+      "A_id": [
+        "410064355184"
+      ],
+      "papers": [
+        "624febd1e5081f1a8c21a3a9"
+      ],
+      "oriInst": "전북대학교"
+    }
+  },
+  "조기환_0": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "조기환",
+    "inst": "전북대학교",
+    "NTIS": {
+      "inst": "전북대학교 산학협력단",
+      "A_id": [
+        "bnRpczpCNTUxMTg2LUI1NTExODY+SE1PLjQxMDA2NDM1NTE4NA=="
+      ],
+      "papers": [
+        "624febd5e5081f1a8c21a430",
+        "624febd3e5081f1a8c21a401"
+      ],
+      "oriInst": "전북대학교"
+    }
+  },
+  "황민철_1": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "황민철",
+    "inst": "상명대학교",
+    "NTIS": {
+      "inst": "상명대학교산학협력단",
+      "A_id": [
+        "519007167156"
+      ],
+      "papers": [
+        "624febcfe5081f1a8c21a36b"
+      ],
+      "oriInst": "상명대학교"
+    }
+  },
+  "황민철_0": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "황민철",
+    "inst": "상명대학교",
+    "NTIS": {
+      "inst": "상명대학교 서울산학협력단",
+      "A_id": [
+        "s249435"
+      ],
+      "papers": [
+        "624febd3e5081f1a8c21a404"
+      ],
+      "oriInst": "상명대학교"
+    }
+  },
+  "강장묵_1": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "강장묵",
+    "inst": "남서울대학교",
+    "NTIS": {
+      "inst": "남서울대학교 산학협력단",
+      "A_id": [
+        "bnRpczpCNTUxMTg2LUI1NTExODY+SE1PLjcxMDYxMTMyNzEyMA=="
+      ],
+      "papers": [
+        "624febcfe5081f1a8c21a368"
+      ],
+      "oriInst": "남서울대학교"
+    }
+  },
+  "강장묵_0": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "강장묵",
+    "inst": "고려대학교",
+    "SCIENCEON": {
+      "inst": "고려대학교 정보대학 컴퓨터학과",
+      "A_id": [
+        "s259112"
+      ],
+      "papers": [
+        "624febcf8189b538c6219d5f"
+      ],
+      "oriInst": "고려대학교"
+    },
+    "NTIS": {
+      "inst": "고려대학교",
+      "A_id": [
+        "s55197"
+      ],
+      "papers": [
+        "624febd1e5081f1a8c21a3b8",
+        "624febd1e5081f1a8c21a37f"
+      ],
+      "oriInst": "고려대학교"
+    }
+  },
+  "황지영_1": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "황지영",
+    "inst": "한국과학기술원",
+    "NTIS": {
+      "inst": "한국과학기술원",
+      "A_id": [
+        "s243079"
+      ],
+      "papers": [
+        "624febcde5081f1a8c21a303",
+        "624febcbe5081f1a8c21a2d1"
+      ],
+      "oriInst": "한국과학기술원"
+    }
+  },
+  "황지영_0": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "황지영",
+    "inst": "성균관대학교(자연과학캠퍼스)",
+    "NTIS": {
+      "inst": "성균관대학교(자연과학캠퍼스)",
+      "A_id": [
+        "11560377"
+      ],
+      "papers": [
+        "624febd1e5081f1a8c21a3bd",
+        "624febd1e5081f1a8c21a38a",
+        "624febcfe5081f1a8c21a34d",
+        "624febcde5081f1a8c21a30f",
+        "624febcde5081f1a8c21a320"
+      ],
+      "oriInst": "성균관대학교(자연과학캠퍼스)"
+    }
+  },
+  "조윤식_1": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "조윤식",
+    "inst": "중앙대학교",
+    "NTIS": {
+      "inst": "중앙대학교",
+      "A_id": [
+        "bnRpczpCNTUxMTg2LUI1NTExODY+SE1PLjgyMDkzMTU1NzE5MQ=="
+      ],
+      "papers": [
+        "624febcde5081f1a8c21a2fd"
+      ],
+      "oriInst": "중앙대학교"
+    }
+  },
+  "조윤식_0": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "조윤식",
+    "inst": "세종대학교",
+    "NTIS": {
+      "inst": "세종대학교",
+      "A_id": [
+        "820931557191"
+      ],
+      "papers": [
+        "624febcfe5081f1a8c21a347",
+        "624febcfe5081f1a8c21a32d"
+      ],
+      "oriInst": "세종대학교"
+    }
+  },
+  "이미경_1": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "이미경",
+    "inst": "영남대학교",
+    "KCI": {
+      "inst": "영남대학교",
+      "A_id": [
+        "s47653"
+      ],
+      "papers": [
+        "624febe190646854a0219b27"
+      ],
+      "oriInst": "영남대학교"
+    }
+  },
+  "이미경_0": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "이미경",
+    "inst": "계명대학교",
+    "NTIS": {
+      "inst": "계명대학교",
+      "A_id": [
+        "s55229"
+      ],
+      "papers": [
+        "624febd1e5081f1a8c21a3a2"
+      ],
+      "oriInst": "계명대학교"
+    }
+  },
+  "이정희_1": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "이정희",
+    "inst": "국립산림과학원 산림정책연구부 산림복지연구과",
+    "KCI": {
+      "inst": "국립산림과학원 산림정책연구부 산림복지연구과",
+      "A_id": [
+        "s50161"
+      ],
+      "papers": [
+        "624febf590646854a0219b47"
+      ],
+      "oriInst": "국립산림과학원 산림정책연구부 산림복지연구과"
+    }
+  },
+  "이정희_0": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "이정희",
+    "inst": "국립산림과학원 산림복지연구과",
+    "SCIENCEON": {
+      "inst": "국립산림과학원 산림복지연구과",
+      "A_id": [
+        "s261933"
+      ],
+      "papers": [
+        "624febe38189b538c6219db4"
+      ],
+      "oriInst": "국립산림과학원 산림복지연구과"
+    }
+  },
+  "이정민_1": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "이정민",
+    "inst": "한국해양수산개발원 산업과학기술연구소",
+    "DBPIA": {
+      "inst": "한국해양수산개발원 산업과학기술연구소",
+      "A_id": [
+        "1035726"
+      ],
+      "papers": [
+        "624fec07e90d43f80121c340"
+      ],
+      "oriInst": "한국해양수산개발원 산업과학기술연구소"
+    }
+  },
+  "이정민_0": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "이정민",
+    "inst": "이화여자대학교",
+    "NTIS": {
+      "inst": "이화여자대학교",
+      "A_id": [
+        "400263238208"
+      ],
+      "papers": [
+        "624febd7e5081f1a8c21a468",
+        "624febd7e5081f1a8c21a462",
+        "624febd5e5081f1a8c21a434"
+      ],
+      "oriInst": "이화여자대학교"
+    }
+  },
+  "김연종_1": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "김연종",
+    "inst": "경남과학기술대학교",
+    "DBPIA": {
+      "inst": "경남과학기술대학교 창업대학원 창업학과",
+      "A_id": [
+        "1039023"
+      ],
+      "papers": [
+        "624febffe90d43f80121c212"
+      ],
+      "oriInst": "경남과학기술대학교"
+    }
+  },
+  "김연종_0": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "김연종",
+    "inst": "경상대학교",
+    "NTIS": {
+      "inst": "경상대학교",
+      "A_id": [
+        "s55264"
+      ],
+      "papers": [
+        "624febd3e5081f1a8c21a3e6"
+      ],
+      "oriInst": "경상대학교"
+    }
+  },
+  "이태원_1": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "이태원",
+    "inst": "부산대학교",
+    "DBPIA": {
+      "inst": "부산대학교 중국연구소",
+      "A_id": [
+        "1108204"
+      ],
+      "papers": [
+        "624fec01e90d43f80121c270"
+      ],
+      "oriInst": "부산대학교"
+    }
+  },
+  "이태원_0": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "이태원",
+    "inst": "경남과학기술대학교",
+    "NTIS": {
+      "inst": "경남과학기술대학교",
+      "A_id": [
+        "s55242"
+      ],
+      "papers": [
+        "624febd1e5081f1a8c21a39a"
+      ],
+      "oriInst": "경남과학기술대학교"
+    }
+  },
+  "최상현_1": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "최상현",
+    "inst": "Chungbuk National University 산업시스템공학부",
+    "DBPIA": {
+      "inst": "Chungbuk National University 산업시스템공학부",
+      "A_id": [
+        "1129621"
+      ],
+      "papers": [
+        "624fec0fe90d43f80121c3a5"
+      ],
+      "oriInst": "Chungbuk National University 산업시스템공학부"
+    }
+  },
+  "최상현_0": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "최상현",
+    "inst": "충북대학교",
+    "NTIS": {
+      "inst": "충북대학교",
+      "A_id": [
+        "817126916978"
+      ],
+      "papers": [
+        "624febd7e5081f1a8c21a46d",
+        "624febd7e5081f1a8c21a461",
+        "624febd5e5081f1a8c21a432"
+      ],
+      "oriInst": "충북대학교"
+    }
+  },
+  "이희정_1": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "이희정",
+    "inst": "한양대학교",
+    "DBPIA": {
+      "inst": "한양대학교 응용시스템학과",
+      "A_id": [
+        "1133112"
+      ],
+      "papers": [
+        "624febd5e90d43f80121bf72"
+      ],
+      "oriInst": "한양대학교"
+    }
+  },
+  "이희정_0": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "이희정",
+    "inst": "대한건축학회",
+    "DBPIA": {
+      "inst": "대한건축학회",
+      "A_id": [
+        "106833"
+      ],
+      "papers": [
+        "624fec05e90d43f80121c2dd"
+      ],
+      "oriInst": "대한건축학회"
+    }
+  },
+  "서주환_1": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "서주환",
+    "inst": "한국과학기술정보연구원",
+    "DBPIA": {
+      "inst": "한국과학기술정보연구원",
+      "A_id": [
+        "1159007"
+      ],
+      "papers": [
+        "624febcde90d43f80121bef9"
+      ],
+      "oriInst": "한국과학기술정보연구원"
+    }
+  },
+  "서주환_0": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "서주환",
+    "inst": "경희대학교",
+    "SCIENCEON": {
+      "inst": "경희대학교 예술.디자인대학 환경조경디자인학과",
+      "A_id": [
+        "s152628"
+      ],
+      "papers": [
+        "624febe68189b538c6219dc3",
+        "624febe58189b538c6219dba"
+      ],
+      "oriInst": "경희대학교"
+    }
+  },
+  "김지은_1": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "김지은",
+    "inst": "YONSEI UNIVERSITY CENTER FOR DIGITAL SOCIETY",
+    "DBPIA": {
+      "inst": "Yonsei University Center for Digital Society",
+      "A_id": [
+        "1160644"
+      ],
+      "papers": [
+        "624fec20e90d43f80121c51b"
+      ],
+      "oriInst": "YONSEI UNIVERSITY CENTER FOR DIGITAL SOCIETY"
+    }
+  },
+  "김지은_0": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "김지은",
+    "inst": "국민대학교",
+    "NTIS": {
+      "inst": "국민대학교 산학협력단",
+      "A_id": [
+        "601211518791"
+      ],
+      "papers": [
+        "624febd1e5081f1a8c21a394",
+        "624febcfe5081f1a8c21a367"
+      ],
+      "oriInst": "국민대학교"
+    },
+    "KCI": {
+      "inst": "국민대학교",
+      "A_id": [
+        "s30416"
+      ],
+      "papers": [
+        "624febf690646854a0219b49"
+      ],
+      "oriInst": "국민대학교"
+    }
+  },
+  "황지영_2": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "황지영",
+    "inst": "동덕여자대학교",
+    "DBPIA": {
+      "inst": "동덕여자대학교 문화관광이벤트전략연구소",
+      "A_id": [
+        "1173511"
+      ],
+      "papers": [
+        "624fec01e90d43f80121c232"
+      ],
+      "oriInst": "동덕여자대학교"
+    }
+  },
+  "송은지_1": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "송은지",
+    "inst": "남서울대학교",
+    "DBPIA": {
+      "inst": "남서울대학교 컴퓨터소프트웨어학과",
+      "A_id": [
+        "1256175"
+      ],
+      "papers": [
+        "624fec22e90d43f80121c53d"
+      ],
+      "oriInst": "남서울대학교"
+    }
+  },
+  "송은지_0": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "송은지",
+    "inst": "남서울대학교",
+    "SCIENCEON": {
+      "inst": "남서울대학교 컴퓨터학과",
+      "A_id": [
+        "s257951"
+      ],
+      "papers": [
+        "624febcd8189b538c6219d4c"
+      ],
+      "oriInst": "남서울대학교"
+    }
+  },
+  "이동호_1": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "이동호",
+    "inst": "한양대학교",
+    "DBPIA": {
+      "inst": "한양대학교 컴퓨터공학과",
+      "A_id": [
+        "131485"
+      ],
+      "papers": [
+        "624fec0fe90d43f80121c3bb"
+      ],
+      "oriInst": "한양대학교"
+    }
+  },
+  "이동호_0": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "이동호",
+    "inst": "한양대학교(ERICA캠퍼스)",
+    "NTIS": {
+      "inst": "한양대학교(ERICA캠퍼스)",
+      "A_id": [
+        "s244362"
+      ],
+      "papers": [
+        "624febd7e5081f1a8c21a47d",
+        "624febd5e5081f1a8c21a43e",
+        "624febd5e5081f1a8c21a412"
+      ],
+      "oriInst": "한양대학교(ERICA캠퍼스)"
+    }
+  },
+  "김지은_2": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "김지은",
+    "inst": "동양미래대학교",
+    "DBPIA": {
+      "inst": "동양미래대학교 실내환경디자인과",
+      "A_id": [
+        "1352179"
+      ],
+      "papers": [
+        "624febd8e90d43f80121bf92"
+      ],
+      "oriInst": "동양미래대학교"
+    }
+  },
+  "이상훈_1": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "이상훈",
+    "inst": "LH토지주택연구원",
+    "DBPIA": {
+      "inst": "LH토지주택연구원",
+      "A_id": [
+        "1412717"
+      ],
+      "papers": [
+        "624fec05e90d43f80121c2fc"
+      ],
+      "oriInst": "LH토지주택연구원"
+    }
+  },
+  "이상훈_0": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "이상훈",
+    "inst": "국방대학교",
+    "DBPIA": {
+      "inst": "국방대학교 컴퓨터공학과",
+      "A_id": [
+        "132956"
+      ],
+      "papers": [
+        "624febefe90d43f80121c10d"
+      ],
+      "oriInst": "국방대학교"
+    }
+  },
+  "김민정_1": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "김민정",
+    "inst": "한국외국어대학교",
+    "DBPIA": {
+      "inst": "한국외국어대학교 미디어커뮤니케이션학부",
+      "A_id": [
+        "1464719"
+      ],
+      "papers": [
+        "624fec01e90d43f80121c27e"
+      ],
+      "oriInst": "한국외국어대학교"
+    }
+  },
+  "김민정_0": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "김민정",
+    "inst": "동의대학교",
+    "DBPIA": {
+      "inst": "동의대학교 미디어·광고학부",
+      "A_id": [
+        "1432759"
+      ],
+      "papers": [
+        "624fec17e90d43f80121c47e"
+      ],
+      "oriInst": "동의대학교"
+    }
+  },
+  "이상원_1": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "이상원",
+    "inst": "경희대학교",
+    "DBPIA": {
+      "inst": "경희대학교 국토측량과",
+      "A_id": [
+        "1498613"
+      ],
+      "papers": [
+        "624febeae90d43f80121c0cf"
+      ],
+      "oriInst": "경희대학교"
+    }
+  },
+  "이상원_0": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "이상원",
+    "inst": "원광대학교",
+    "SCIENCEON": {
+      "inst": "원광대학교 컴퓨터소프트웨어공학과",
+      "A_id": [
+        "s270434"
+      ],
+      "papers": [
+        "624febdb8189b538c6219d89"
+      ],
+      "oriInst": "원광대학교"
+    },
+    "KCI": {
+      "inst": "원광대학교",
+      "A_id": [
+        "s13079"
+      ],
+      "papers": [
+        "624febf290646854a0219b3d"
+      ],
+      "oriInst": "원광대학교"
+    }
+  },
+  "김민수_2": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "김민수",
+    "inst": "서울시립대학교",
+    "DBPIA": {
+      "inst": "서울시립대학교 도시사회학과",
+      "A_id": [
+        "1510824"
+      ],
+      "papers": [
+        "624febe8e90d43f80121c09c"
+      ],
+      "oriInst": "서울시립대학교"
+    }
+  },
+  "이정민_2": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "이정민",
+    "inst": "부경대학교",
+    "DBPIA": {
+      "inst": "부경대학교 대학원 신문방송학과",
+      "A_id": [
+        "1572011"
+      ],
+      "papers": [
+        "624febffe90d43f80121c221"
+      ],
+      "oriInst": "부경대학교"
+    }
+  },
+  "김윤희_3": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "김윤희",
+    "inst": "충북대학교",
+    "DBPIA": {
+      "inst": "충북대학교 대학원 산림치유학과",
+      "A_id": [
+        "1587743"
+      ],
+      "papers": [
+        "624fec13e90d43f80121c419"
+      ],
+      "oriInst": "충북대학교"
+    }
+  },
+  "정우성_1": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "정우성",
+    "inst": "국토연구원 국토계획·지역연구본부",
+    "DBPIA": {
+      "inst": "국토연구원 국토계획·지역연구본부",
+      "A_id": [
+        "1601376"
+      ],
+      "papers": [
+        "624febc9e90d43f80121be65"
+      ],
+      "oriInst": "국토연구원 국토계획·지역연구본부"
+    }
+  },
+  "정우성_0": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "정우성",
+    "inst": "포항공과대학교",
+    "NTIS": {
+      "inst": "포항공과대학교",
+      "A_id": [
+        "111480047178"
+      ],
+      "papers": [
+        "624febd1e5081f1a8c21a3be",
+        "624febd1e5081f1a8c21a391",
+        "624febcfe5081f1a8c21a353",
+        "624febcde5081f1a8c21a30d"
+      ],
+      "oriInst": "포항공과대학교"
+    }
+  },
+  "김민정_2": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "김민정",
+    "inst": "법학평론 사회과학대학 미디어커뮤니케이션 학부",
+    "DBPIA": {
+      "inst": "법학평론 사회과학대학 미디어커뮤니케이션 학부",
+      "A_id": [
+        "1627388"
+      ],
+      "papers": [
+        "624fec07e90d43f80121c342"
+      ],
+      "oriInst": "법학평론 사회과학대학 미디어커뮤니케이션 학부"
+    }
+  },
+  "이상원_2": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "이상원",
+    "inst": "성균관대학교",
+    "DBPIA": {
+      "inst": "성균관대학교 인터랙션사이언스학과",
+      "A_id": [
+        "1696888"
+      ],
+      "papers": [
+        "624fec01e90d43f80121c267"
+      ],
+      "oriInst": "성균관대학교"
+    }
+  },
+  "이상훈_2": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "이상훈",
+    "inst": "과학기술정책연구원",
+    "DBPIA": {
+      "inst": "과학기술정책연구원",
+      "A_id": [
+        "1703242"
+      ],
+      "papers": [
+        "624febf1e90d43f80121c144"
+      ],
+      "oriInst": "과학기술정책연구원"
+    }
+  },
+  "김미정_1": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "김미정",
+    "inst": "제주한라대학교",
+    "DBPIA": {
+      "inst": "제주한라대학교 보건행정과",
+      "A_id": [
+        "1809813"
+      ],
+      "papers": [
+        "624febd8e90d43f80121bfaa"
+      ],
+      "oriInst": "제주한라대학교"
+    }
+  },
+  "김미정_0": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "김미정",
+    "inst": "한국교통연구원 국정교통연구본부",
+    "DBPIA": {
+      "inst": "한국교통연구원 국정교통연구본부",
+      "A_id": [
+        "1712655"
+      ],
+      "papers": [
+        "624fec11e90d43f80121c3c7"
+      ],
+      "oriInst": "한국교통연구원 국정교통연구본부"
+    }
+  },
+  "김민정_3": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "김민정",
+    "inst": "한양사이버대학교",
+    "DBPIA": {
+      "inst": "한양사이버대학교 디자인학부",
+      "A_id": [
+        "1831689"
+      ],
+      "papers": [
+        "624febc9e90d43f80121be84"
+      ],
+      "oriInst": "한양사이버대학교"
+    }
+  },
+  "김은미_1": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "김은미",
+    "inst": "충남대학교",
+    "DBPIA": {
+      "inst": "충남대학교 국가정책연구소",
+      "A_id": [
+        "1840498"
+      ],
+      "papers": [
+        "624febfae90d43f80121c1ad"
+      ],
+      "oriInst": "충남대학교"
+    }
+  },
+  "김은미_0": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "김은미",
+    "inst": "부산대학교",
+    "NTIS": {
+      "inst": "부산대학교",
+      "A_id": [
+        "s55248"
+      ],
+      "papers": [
+        "624febd1e5081f1a8c21a39d"
+      ],
+      "oriInst": "부산대학교"
+    }
+  },
+  "김용희_1": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "김용희",
+    "inst": "아이엠씨 국정관리대학원",
+    "DBPIA": {
+      "inst": "아이엠씨 국정관리대학원",
+      "A_id": [
+        "1854239"
+      ],
+      "papers": [
+        "624febcfe90d43f80121bf08"
+      ],
+      "oriInst": "아이엠씨 국정관리대학원"
+    }
+  },
+  "김용희_0": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "김용희",
+    "inst": "숭실대학교",
+    "DBPIA": {
+      "inst": "숭실대학교 대학원 경영학과",
+      "A_id": [
+        "1796242"
+      ],
+      "papers": [
+        "624fec02e90d43f80121c2ac"
+      ],
+      "oriInst": "숭실대학교"
+    }
+  },
+  "박도현_1": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "박도현",
+    "inst": "가천대학교",
+    "DBPIA": {
+      "inst": "가천대학교 금융수학과",
+      "A_id": [
+        "1856536"
+      ],
+      "papers": [
+        "624fec01e90d43f80121c25d"
+      ],
+      "oriInst": "가천대학교"
+    }
+  },
+  "박도현_0": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "박도현",
+    "inst": "서울대학교",
+    "DBPIA": {
+      "inst": "서울대학교 법과대학",
+      "A_id": [
+        "1532339"
+      ],
+      "papers": [
+        "624febcde90d43f80121beb7"
+      ],
+      "oriInst": "서울대학교"
+    }
+  },
+  "김지영_1": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "김지영",
+    "inst": "서울대학교",
+    "DBPIA": {
+      "inst": "서울대학교 국제문제연구소",
+      "A_id": [
+        "1924517"
+      ],
+      "papers": [
+        "624fec13e90d43f80121c406"
+      ],
+      "oriInst": "서울대학교"
+    }
+  },
+  "김지영_0": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "김지영",
+    "inst": "한국디자인문화학회",
+    "DBPIA": {
+      "inst": "한국디자인문화학회",
+      "A_id": [
+        "1831751"
+      ],
+      "papers": [
+        "624febd2e90d43f80121bf3e"
+      ],
+      "oriInst": "한국디자인문화학회"
+    }
+  },
+  "이지현_1": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "이지현",
+    "inst": "건국대학교",
+    "DBPIA": {
+      "inst": "건국대학교 사범대학 교직과",
+      "A_id": [
+        "1950744"
+      ],
+      "papers": [
+        "624febe1e90d43f80121bff8"
+      ],
+      "oriInst": "건국대학교"
+    }
+  },
+  "이지현_0": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "이지현",
+    "inst": "한국과학기술원",
+    "NTIS": {
+      "inst": "한국과학기술원",
+      "A_id": [
+        "809210816201"
+      ],
+      "papers": [
+        "624febcde5081f1a8c21a329",
+        "624febcde5081f1a8c21a2fc",
+        "624febcbe5081f1a8c21a2ce"
+      ],
+      "oriInst": "한국과학기술원"
+    }
+  },
+  "오상진_1": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "오상진",
+    "inst": "서울과학종합대학원",
+    "DBPIA": {
+      "inst": "서울과학종합대학원",
+      "A_id": [
+        "1952744"
+      ],
+      "papers": [
+        "624febe8e90d43f80121c05a"
+      ],
+      "oriInst": "서울과학종합대학원"
+    }
+  },
+  "오상진_0": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "오상진",
+    "inst": "충북연구원 공간창조연구부",
+    "DBPIA": {
+      "inst": "충북연구원 공간창조연구부",
+      "A_id": [
+        "1149177"
+      ],
+      "papers": [
+        "624fec1de90d43f80121c4e0"
+      ],
+      "oriInst": "충북연구원 공간창조연구부"
+    }
+  },
+  "오경화_1": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "오경화",
+    "inst": "중앙대학교",
+    "DBPIA": {
+      "inst": "중앙대학교 예술대학 패션디자인",
+      "A_id": [
+        "2004676"
+      ],
+      "papers": [
+        "624fec13e90d43f80121c41a"
+      ],
+      "oriInst": "중앙대학교"
+    }
+  },
+  "오경화_0": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "오경화",
+    "inst": "중앙대학교",
+    "SCIENCEON": {
+      "inst": "중앙대학교 패션디자인전공",
+      "A_id": [
+        "s259516"
+      ],
+      "papers": [
+        "624febd48189b538c6219d65"
+      ],
+      "oriInst": "중앙대학교"
+    },
+    "KCI": {
+      "inst": "중앙대학교",
+      "A_id": [
+        "s47564"
+      ],
+      "papers": [
+        "624febf490646854a0219b42"
+      ],
+      "oriInst": "중앙대학교"
+    },
+    "DBPIA": {
+      "inst": "중앙대학교 예술대학 디자인학부",
+      "A_id": [
+        "352158"
+      ],
+      "papers": [
+        "624fec0ae90d43f80121c360"
+      ],
+      "oriInst": "중앙대학교"
+    }
+  },
+  "이민호_1": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "이민호",
+    "inst": "한국교통연구원",
+    "DBPIA": {
+      "inst": "한국교통연구원",
+      "A_id": [
+        "2014760"
+      ],
+      "papers": [
+        "624fec02e90d43f80121c285"
+      ],
+      "oriInst": "한국교통연구원"
+    }
+  },
+  "이민호_0": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "이민호",
+    "inst": "한국과학기술정보연구원",
+    "SCIENCEON": {
+      "inst": "한국과학기술정보연구원",
+      "A_id": [
+        "s258364"
+      ],
+      "papers": [
+        "624febd48189b538c6219d79"
+      ],
+      "oriInst": "한국과학기술정보연구원"
+    }
+  },
+  "강상훈_1": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "강상훈",
+    "inst": "경기대학교",
+    "DBPIA": {
+      "inst": "경기대학교 관광종합연구소",
+      "A_id": [
+        "2018742"
+      ],
+      "papers": [
+        "624febece90d43f80121c0eb"
+      ],
+      "oriInst": "경기대학교"
+    }
+  },
+  "강상훈_0": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "강상훈",
+    "inst": "부산대학교",
+    "NTIS": {
+      "inst": "부산대학교",
+      "A_id": [
+        "s55375"
+      ],
+      "papers": [
+        "624febd5e5081f1a8c21a439"
+      ],
+      "oriInst": "부산대학교"
+    }
+  },
+  "황지영_3": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "황지영",
+    "inst": "성균관대학교",
+    "DBPIA": {
+      "inst": "성균관대학교 컴퓨터학부",
+      "A_id": [
+        "2030321"
+      ],
+      "papers": [
+        "624febeae90d43f80121c0c4"
+      ],
+      "oriInst": "성균관대학교"
+    }
+  },
+  "이지연_1": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "이지연",
+    "inst": "서울연구원 시민경제연구실",
+    "DBPIA": {
+      "inst": "서울연구원 시민경제연구실",
+      "A_id": [
+        "2037757"
+      ],
+      "papers": [
+        "624febcde90d43f80121bea6"
+      ],
+      "oriInst": "서울연구원 시민경제연구실"
+    }
+  },
+  "이지연_0": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "이지연",
+    "inst": "한국복식학회",
+    "DBPIA": {
+      "inst": "한국복식학회",
+      "A_id": [
+        "1673545"
+      ],
+      "papers": [
+        "624febefe90d43f80121c112"
+      ],
+      "oriInst": "한국복식학회"
+    }
+  },
+  "이승훈_1": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "이승훈",
+    "inst": "경기연구원",
+    "DBPIA": {
+      "inst": "경기연구원",
+      "A_id": [
+        "2055502"
+      ],
+      "papers": [
+        "624fec05e90d43f80121c2d5"
+      ],
+      "oriInst": "경기연구원"
+    }
+  },
+  "이승훈_0": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "이승훈",
+    "inst": "대검찰청 디지털수사과",
+    "SCIENCEON": {
+      "inst": "대검찰청 디지털수사과",
+      "A_id": [
+        "s1087988"
+      ],
+      "papers": [
+        "624febe88189b538c6219dc9"
+      ],
+      "oriInst": "대검찰청 디지털수사과"
+    },
+    "KCI": {
+      "inst": "대검찰청 디지털수사과",
+      "A_id": [
+        "s538683"
+      ],
+      "papers": [
+        "624febea90646854a0219b2e"
+      ],
+      "oriInst": "대검찰청 디지털수사과"
+    }
+  },
+  "김민수_3": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "김민수",
+    "inst": "한국스포츠정책과학원",
+    "DBPIA": {
+      "inst": "한국스포츠정책과학원",
+      "A_id": [
+        "2074027"
+      ],
+      "papers": [
+        "624fec02e90d43f80121c28a"
+      ],
+      "oriInst": "한국스포츠정책과학원"
+    }
+  },
+  "신동희_1": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "신동희",
+    "inst": "한국교통대학교",
+    "DBPIA": {
+      "inst": "한국교통대학교 교통정책시스템공학과",
+      "A_id": [
+        "2098014"
+      ],
+      "papers": [
+        "624fec0ae90d43f80121c358"
+      ],
+      "oriInst": "한국교통대학교"
+    }
+  },
+  "신동희_0": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "신동희",
+    "inst": "중앙대학교",
+    "NTIS": {
+      "inst": "중앙대학교",
+      "A_id": [
+        "s55340"
+      ],
+      "papers": [
+        "624febd3e5081f1a8c21a3e4"
+      ],
+      "oriInst": "중앙대학교"
+    }
+  },
+  "김현주_1": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "김현주",
+    "inst": "부산발전연구원",
+    "DBPIA": {
+      "inst": "부산발전연구원",
+      "A_id": [
+        "2138622"
+      ],
+      "papers": [
+        "624febe0e90d43f80121bff2"
+      ],
+      "oriInst": "부산발전연구원"
+    }
+  },
+  "김현주_0": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "김현주",
+    "inst": "충북대학교",
+    "DBPIA": {
+      "inst": "충북대학교",
+      "A_id": [
+        "1974057"
+      ],
+      "papers": [
+        "624febffe90d43f80121c21e"
+      ],
+      "oriInst": "충북대학교"
+    }
+  },
+  "구자원_1": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "구자원",
+    "inst": "성신여자대학교",
+    "DBPIA": {
+      "inst": "성신여자대학교 글로벌비즈니스학과",
+      "A_id": [
+        "2149689"
+      ],
+      "papers": [
+        "624febdee90d43f80121bfd4"
+      ],
+      "oriInst": "성신여자대학교"
+    }
+  },
+  "구자원_0": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "구자원",
+    "inst": "백석문화대학교",
+    "NTIS": {
+      "inst": "백석문화대학교 산학협력단",
+      "A_id": [
+        "11387310"
+      ],
+      "papers": [
+        "624febd7e5081f1a8c21a457"
+      ],
+      "oriInst": "백석문화대학교"
+    }
+  },
+  "김장현_1": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "김장현",
+    "inst": "SUNGKYUNKWAN UNIVERSITY DEPARTMENT OF INTERACTION SCIENCE",
+    "DBPIA": {
+      "inst": "Sungkyunkwan University Department of Interaction Science",
+      "A_id": [
+        "2151798"
+      ],
+      "papers": [
+        "624febc9e90d43f80121be6c"
+      ],
+      "oriInst": "SUNGKYUNKWAN UNIVERSITY DEPARTMENT OF INTERACTION SCIENCE"
+    }
+  },
+  "김장현_0": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "김장현",
+    "inst": "성균관대학교",
+    "NTIS": {
+      "inst": "성균관대학교",
+      "A_id": [
+        "10032172"
+      ],
+      "papers": [
+        "624febd1e5081f1a8c21a372",
+        "624febcfe5081f1a8c21a341"
+      ],
+      "oriInst": "성균관대학교"
+    }
+  },
+  "김민경_1": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "김민경",
+    "inst": "홍익대학교",
+    "DBPIA": {
+      "inst": "홍익대학교(세종캠퍼스) 상경대학 상경학부",
+      "A_id": [
+        "2152197"
+      ],
+      "papers": [
+        "624fec17e90d43f80121c486"
+      ],
+      "oriInst": "홍익대학교"
+    }
+  },
+  "김민경_0": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "김민경",
+    "inst": "선문대학교",
+    "NTIS": {
+      "inst": "선문대학교",
+      "A_id": [
+        "11533281"
+      ],
+      "papers": [
+        "624febcde5081f1a8c21a2fe",
+        "624febcbe5081f1a8c21a2cc"
+      ],
+      "oriInst": "선문대학교"
+    }
+  },
+  "이원규_1": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "이원규",
+    "inst": "고려대학교",
+    "DBPIA": {
+      "inst": "고려대학교 정보대학 컴퓨터학과",
+      "A_id": [
+        "2167660"
+      ],
+      "papers": [
+        "624febf3e90d43f80121c157"
+      ],
+      "oriInst": "고려대학교"
+    }
+  },
+  "이원규_0": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "이원규",
+    "inst": "강원대학교",
+    "DBPIA": {
+      "inst": "강원대학교",
+      "A_id": [
+        "1714595"
+      ],
+      "papers": [
+        "624fec0fe90d43f80121c3a7"
+      ],
+      "oriInst": "강원대학교"
+    }
+  },
+  "김은희_1": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "김은희",
+    "inst": "충북대학교",
+    "DBPIA": {
+      "inst": "충북대학교 창의융합교육본부 스마트교육센터",
+      "A_id": [
+        "2167673"
+      ],
+      "papers": [
+        "624febcde90d43f80121befc"
+      ],
+      "oriInst": "충북대학교"
+    }
+  },
+  "김은희_0": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "김은희",
+    "inst": "전남대학교",
+    "DBPIA": {
+      "inst": "전남대학교",
+      "A_id": [
+        "1917517"
+      ],
+      "papers": [
+        "624fec15e90d43f80121c424"
+      ],
+      "oriInst": "전남대학교"
+    }
+  },
+  "구철모_1": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "구철모",
+    "inst": "경희대학교",
+    "DBPIA": {
+      "inst": "경희대학교 스마트관광원",
+      "A_id": [
+        "2186718"
+      ],
+      "papers": [
+        "624fec13e90d43f80121c40a"
+      ],
+      "oriInst": "경희대학교"
+    }
+  },
+  "구철모_0": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "구철모",
+    "inst": "경희대학교",
+    "DBPIA": {
+      "inst": "경희대학교 컨벤션경영학과",
+      "A_id": [
+        "1117281"
+      ],
+      "papers": [
+        "624febc9e90d43f80121be69"
+      ],
+      "oriInst": "경희대학교"
+    }
+  },
+  "김태경_1": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "김태경",
+    "inst": "공감도시 연구실",
+    "DBPIA": {
+      "inst": "공감도시 연구실",
+      "A_id": [
+        "2217538"
+      ],
+      "papers": [
+        "624fec0ae90d43f80121c36a"
+      ],
+      "oriInst": "공감도시 연구실"
+    }
+  },
+  "김태경_0": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "김태경",
+    "inst": "수원대학교",
+    "NTIS": {
+      "inst": "수원대학교",
+      "A_id": [
+        "s55316"
+      ],
+      "papers": [
+        "624febd3e5081f1a8c21a3e7"
+      ],
+      "oriInst": "수원대학교"
+    }
+  },
+  "최재영_2": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "최재영",
+    "inst": "한양대학교",
+    "DBPIA": {
+      "inst": "한양대학교 기술경영전문대학원",
+      "A_id": [
+        "2244053"
+      ],
+      "papers": [
+        "624febe1e90d43f80121bffb"
+      ],
+      "oriInst": "한양대학교"
+    }
+  },
+  "김태현_1": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "김태현",
+    "inst": "서울기술연구원",
+    "DBPIA": {
+      "inst": "서울기술연구원",
+      "A_id": [
+        "2248279",
+        "4039879"
+      ],
+      "papers": [
+        "624febefe90d43f80121c11e",
+        "624febeae90d43f80121c0b7"
+      ],
+      "oriInst": "서울기술연구원"
+    }
+  },
+  "김태현_0": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "김태현",
+    "inst": "한국경제신문 영남취재본부",
+    "DBPIA": {
+      "inst": "한국경제신문 영남취재본부",
+      "A_id": [
+        "1288237"
+      ],
+      "papers": [
+        "624febebe90d43f80121c0d3"
+      ],
+      "oriInst": "한국경제신문 영남취재본부"
+    }
+  },
+  "이상훈_3": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "이상훈",
+    "inst": "과학기술정통부",
+    "DBPIA": {
+      "inst": "과학기술정통부",
+      "A_id": [
+        "2248679"
+      ],
+      "papers": [
+        "624fec20e90d43f80121c4fd"
+      ],
+      "oriInst": "과학기술정통부"
+    }
+  },
+  "이현정_1": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "이현정",
+    "inst": "부경대학교",
+    "DBPIA": {
+      "inst": "부경대",
+      "A_id": [
+        "2255726"
+      ],
+      "papers": [
+        "624febefe90d43f80121c111"
+      ],
+      "oriInst": "부경대학교"
+    }
+  },
+  "이현정_0": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "이현정",
+    "inst": "서울시립대학교",
+    "NTIS": {
+      "inst": "서울시립대학교",
+      "A_id": [
+        "s3917"
+      ],
+      "papers": [
+        "624febd5e5081f1a8c21a437"
+      ],
+      "oriInst": "서울시립대학교"
+    }
+  },
+  "김지은_3": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "김지은",
+    "inst": "과학기술정책연구원 글로벌혁신전략연구본부",
+    "DBPIA": {
+      "inst": "과학기술정책연구원 글로벌혁신전략연구본부",
+      "A_id": [
+        "2272828"
+      ],
+      "papers": [
+        "624fec13e90d43f80121c407"
+      ],
+      "oriInst": "과학기술정책연구원 글로벌혁신전략연구본부"
+    }
+  },
+  "이승룡_1": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "이승룡",
+    "inst": "경희대학교",
+    "DBPIA": {
+      "inst": "경희대학교 컴퓨터공학과",
+      "A_id": [
+        "229447",
+        "4367051"
+      ],
+      "papers": [
+        "624fec05e90d43f80121c303",
+        "624febede90d43f80121c0f5"
+      ],
+      "oriInst": "경희대학교"
+    }
+  },
+  "이승룡_0": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "이승룡",
+    "inst": "경희대학교",
+    "NTIS": {
+      "inst": "경희대학교산학협력단",
+      "A_id": [
+        "211009867105"
+      ],
+      "papers": [
+        "624febd5e5081f1a8c21a454",
+        "624febd3e5081f1a8c21a3d9",
+        "624febd1e5081f1a8c21a3b1"
+      ],
+      "oriInst": "경희대학교"
+    }
+  },
+  "김형근_1": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "김형근",
+    "inst": "국민체육진흥공단체육과학연구원",
+    "DBPIA": {
+      "inst": "국민체육진흥공단체육과학연구원",
+      "A_id": [
+        "2303441"
+      ],
+      "papers": [
+        "624fec1de90d43f80121c4ef"
+      ],
+      "oriInst": "국민체육진흥공단체육과학연구원"
+    }
+  },
+  "김형근_0": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "김형근",
+    "inst": "경상국립대학교",
+    "DBPIA": {
+      "inst": "",
+      "A_id": [
+        "2074523"
+      ],
+      "papers": [
+        "624fec07e90d43f80121c327"
+      ],
+      "oriInst": "경상국립대학교"
+    }
+  },
+  "김형주_1": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "김형주",
+    "inst": "서울대학교",
+    "DBPIA": {
+      "inst": "서울대학교 컴퓨터공학과",
+      "A_id": [
+        "230663"
+      ],
+      "papers": [
+        "624fec11e90d43f80121c3ed"
+      ],
+      "oriInst": "서울대학교"
+    }
+  },
+  "김형주_0": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "김형주",
+    "inst": "한양대학교",
+    "DBPIA": {
+      "inst": "한양대학교 디자인대학 서피스 · 인테리어디자인학과",
+      "A_id": [
+        "1832231"
+      ],
+      "papers": [
+        "624febffe90d43f80121c223"
+      ],
+      "oriInst": "한양대학교"
+    }
+  },
+  "유성준_2": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "유성준",
+    "inst": "세종대학교",
+    "DBPIA": {
+      "inst": "세종대학교 컴퓨터공학과",
+      "A_id": [
+        "230875"
+      ],
+      "papers": [
+        "624fec20e90d43f80121c520"
+      ],
+      "oriInst": "세종대학교"
+    }
+  },
+  "이상원_3": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "이상원",
+    "inst": "성균관대학교",
+    "DBPIA": {
+      "inst": "성균관대학교 전자전기컴퓨터공학과",
+      "A_id": [
+        "231717"
+      ],
+      "papers": [
+        "624fec0fe90d43f80121c3b2"
+      ],
+      "oriInst": "성균관대학교"
+    }
+  },
+  "김흥남_1": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "김흥남",
+    "inst": "대한전자공학회",
+    "DBPIA": {
+      "inst": "대한전자공학회",
+      "A_id": [
+        "243818"
+      ],
+      "papers": [
+        "624febfae90d43f80121c197"
+      ],
+      "oriInst": "대한전자공학회"
+    }
+  },
+  "김흥남_0": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "김흥남",
+    "inst": "한국과학기술원",
+    "KCI": {
+      "inst": "한국과학기술원 K-Industry4.0 추진본부",
+      "A_id": [
+        "s538678"
+      ],
+      "papers": [
+        "624febde90646854a0219b21"
+      ],
+      "oriInst": "한국과학기술원"
+    }
+  },
+  "이재길_1": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "이재길",
+    "inst": "한국과학기술원",
+    "DBPIA": {
+      "inst": "카이스트 지식서비스공학대학원",
+      "A_id": [
+        "253124"
+      ],
+      "papers": [
+        "624fec02e90d43f80121c2a6"
+      ],
+      "oriInst": "한국과학기술원"
+    }
+  },
+  "이재길_0": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "이재길",
+    "inst": "한국과학기술원",
+    "NTIS": {
+      "inst": "한국과학기술원",
+      "A_id": [
+        "212349877150"
+      ],
+      "papers": [
+        "624febd7e5081f1a8c21a493",
+        "624febd3e5081f1a8c21a407",
+        "624febd5e5081f1a8c21a44f",
+        "624febd5e5081f1a8c21a418",
+        "624febd3e5081f1a8c21a3d3",
+        "624febd1e5081f1a8c21a377",
+        "624febd7e5081f1a8c21a47b"
+      ],
+      "oriInst": "한국과학기술원"
+    }
+  },
+  "윤용익_1": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "윤용익",
+    "inst": "숙명여자대학교",
+    "DBPIA": {
+      "inst": "숙명여자대학교 IT공학과",
+      "A_id": [
+        "253893"
+      ],
+      "papers": [
+        "624fec0fe90d43f80121c3b8"
+      ],
+      "oriInst": "숙명여자대학교"
+    }
+  },
+  "윤용익_0": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "윤용익",
+    "inst": "한국컴퓨터정보학회",
+    "DBPIA": {
+      "inst": "한국컴퓨터정보학회",
+      "A_id": [
+        "1824141"
+      ],
+      "papers": [
+        "624fec05e90d43f80121c304"
+      ],
+      "oriInst": "한국컴퓨터정보학회"
+    }
+  },
+  "문수복_1": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "문수복",
+    "inst": "한국과학기술원",
+    "DBPIA": {
+      "inst": "카이스트",
+      "A_id": [
+        "254353"
+      ],
+      "papers": [
+        "624fec0fe90d43f80121c39a"
+      ],
+      "oriInst": "한국과학기술원"
+    }
+  },
+  "문수복_0": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "문수복",
+    "inst": "한국과학기술원",
+    "NTIS": {
+      "inst": "한국과학기술원",
+      "A_id": [
+        "405286036983"
+      ],
+      "papers": [
+        "624febd7e5081f1a8c21a479"
+      ],
+      "oriInst": "한국과학기술원"
+    }
+  },
+  "민준기_1": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "민준기",
+    "inst": "한국기술교육대학교",
+    "DBPIA": {
+      "inst": "한국기술교육대학교 컴퓨터공학과",
+      "A_id": [
+        "257496"
+      ],
+      "papers": [
+        "624fec02e90d43f80121c2bc"
+      ],
+      "oriInst": "한국기술교육대학교"
+    }
+  },
+  "민준기_0": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "민준기",
+    "inst": "한국기술교육대학교",
+    "SCIENCEON": {
+      "inst": "한국기술교육대학교 컴퓨터공학부",
+      "A_id": [
+        "s258161"
+      ],
+      "papers": [
+        "624febca8189b538c6219d3d"
+      ],
+      "oriInst": "한국기술교육대학교"
+    },
+    "NTIS": {
+      "inst": "한국기술교육대학교",
+      "A_id": [
+        "215901257128"
+      ],
+      "papers": [
+        "624febd5e5081f1a8c21a40d",
+        "624febd1e5081f1a8c21a3bf",
+        "624febd1e5081f1a8c21a388",
+        "624febcde5081f1a8c21a328",
+        "624febcde5081f1a8c21a305",
+        "624febcbe5081f1a8c21a2d6"
+      ],
+      "oriInst": "한국기술교육대학교"
+    }
+  },
+  "김수경_1": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "김수경",
+    "inst": "한밭대학교",
+    "DBPIA": {
+      "inst": "한밭대학교 컴퓨터공학과",
+      "A_id": [
+        "266923"
+      ],
+      "papers": [
+        "624fec20e90d43f80121c501"
+      ],
+      "oriInst": "한밭대학교"
+    }
+  },
+  "김수경_0": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "김수경",
+    "inst": "公州大學校 漢文敎育科",
+    "DBPIA": {
+      "inst": "公州大學校 漢文敎育科",
+      "A_id": [
+        "1038498"
+      ],
+      "papers": [
+        "624febc9e90d43f80121be5a"
+      ],
+      "oriInst": "公州大學校 漢文敎育科"
+    }
+  },
+  "김경백_1": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "김경백",
+    "inst": "전남대학과 전자컴퓨터공학대학원",
+    "DBPIA": {
+      "inst": "전남대학과 전자컴퓨터공학대학원",
+      "A_id": [
+        "269438"
+      ],
+      "papers": [
+        "624febe8e90d43f80121c076"
+      ],
+      "oriInst": "전남대학과 전자컴퓨터공학대학원"
+    }
+  },
+  "김경백_0": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "김경백",
+    "inst": "전남대학교",
+    "NTIS": {
+      "inst": "전남대학교",
+      "A_id": [
+        "815957567160"
+      ],
+      "papers": [
+        "624febd5e5081f1a8c21a44c",
+        "624febd5e5081f1a8c21a419",
+        "624febd3e5081f1a8c21a3d5",
+        "624febd1e5081f1a8c21a3b2",
+        "624febcfe5081f1a8c21a348",
+        "624febcde5081f1a8c21a321",
+        "624febcde5081f1a8c21a2fb"
+      ],
+      "oriInst": "전남대학교"
+    }
+  },
+  "윤영진_1": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "윤영진",
+    "inst": "특허청 심사품질담당관실",
+    "DBPIA": {
+      "inst": "특허청 심사품질담당관실",
+      "A_id": [
+        "2725548"
+      ],
+      "papers": [
+        "624febf1e90d43f80121c139"
+      ],
+      "oriInst": "특허청 심사품질담당관실"
+    }
+  },
+  "윤영진_0": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "윤영진",
+    "inst": "상명대학교",
+    "DBPIA": {
+      "inst": "상명대학교 경영학부",
+      "A_id": [
+        "1805922"
+      ],
+      "papers": [
+        "624febd2e90d43f80121bf5b"
+      ],
+      "oriInst": "상명대학교"
+    }
+  },
+  "조재희_1": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "조재희",
+    "inst": "서강대학교",
+    "DBPIA": {
+      "inst": "서강대학교 커뮤니케이션학부",
+      "A_id": [
+        "3467952"
+      ],
+      "papers": [
+        "624fec11e90d43f80121c3ca"
+      ],
+      "oriInst": "서강대학교"
+    }
+  },
+  "조재희_0": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "조재희",
+    "inst": "광운대학교",
+    "SCIENCEON": {
+      "inst": "광운대학교",
+      "A_id": [
+        "s262518"
+      ],
+      "papers": [
+        "624febe68189b538c6219dbe"
+      ],
+      "oriInst": "광운대학교"
+    },
+    "DBPIA": {
+      "inst": "광운대학교 경영대학",
+      "A_id": [
+        "824654"
+      ],
+      "papers": [
+        "624fec17e90d43f80121c47b"
+      ],
+      "oriInst": "광운대학교"
+    }
+  },
+  "김윤희_4": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "김윤희",
+    "inst": "숙명여자대학교",
+    "DBPIA": {
+      "inst": "숙명여자대학교 소프트웨어학부",
+      "A_id": [
+        "3490831"
+      ],
+      "papers": [
+        "624febcde90d43f80121bee3"
+      ],
+      "oriInst": "숙명여자대학교"
+    }
+  },
+  "김근형_1": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "김근형",
+    "inst": "경상대학교",
+    "DBPIA": {
+      "inst": "제주대학교 경상대학 경영정보학과",
+      "A_id": [
+        "379914"
+      ],
+      "papers": [
+        "624fec11e90d43f80121c3d2"
+      ],
+      "oriInst": "경상대학교"
+    }
+  },
+  "김근형_0": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "김근형",
+    "inst": "동의대학교",
+    "NTIS": {
+      "inst": "동의대학교",
+      "A_id": [
+        "824113726312"
+      ],
+      "papers": [
+        "624febcbe5081f1a8c21a2d0"
+      ],
+      "oriInst": "동의대학교"
+    }
+  },
+  "이한구_2": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "이한구",
+    "inst": "건국대학교",
+    "DBPIA": {
+      "inst": "건국대학교 소프트웨어학과",
+      "A_id": [
+        "381580"
+      ],
+      "papers": [
+        "624febece90d43f80121c0e8"
+      ],
+      "oriInst": "건국대학교"
+    }
+  },
+  "최철재_1": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "최철재",
+    "inst": "한국전자통신학회",
+    "DBPIA": {
+      "inst": "한국전자통신학회",
+      "A_id": [
+        "3876793"
+      ],
+      "papers": [
+        "624febebe90d43f80121c0d4"
+      ],
+      "oriInst": "한국전자통신학회"
+    }
+  },
+  "최철재_0": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "최철재",
+    "inst": "경동대학교",
+    "SCIENCEON": {
+      "inst": "경동대학교 정보보안학과",
+      "A_id": [
+        "s260351"
+      ],
+      "papers": [
+        "624febdb8189b538c6219d86"
+      ],
+      "oriInst": "경동대학교"
+    },
+    "KCI": {
+      "inst": "경동대학교",
+      "A_id": [
+        "s357"
+      ],
+      "papers": [
+        "624febe690646854a0219b2c"
+      ],
+      "oriInst": "경동대학교"
+    }
+  },
+  "김태경_2": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "김태경",
+    "inst": "공감도시연구실 연구위원",
+    "DBPIA": {
+      "inst": "공감도시연구실 연구위원",
+      "A_id": [
+        "393148"
+      ],
+      "papers": [
+        "624fec02e90d43f80121c2a3"
+      ],
+      "oriInst": "공감도시연구실 연구위원"
+    }
+  },
+  "이혜미_1": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "이혜미",
+    "inst": "이화여자대학교",
+    "DBPIA": {
+      "inst": "이화여자대학교 소비자학과",
+      "A_id": [
+        "3946380"
+      ],
+      "papers": [
+        "624febe8e90d43f80121c051"
+      ],
+      "oriInst": "이화여자대학교"
+    }
+  },
+  "이혜미_0": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "이혜미",
+    "inst": "경희대학교",
+    "KCI": {
+      "inst": "경희대학교",
+      "A_id": [
+        "s38758"
+      ],
+      "papers": [
+        "624febea90646854a0219b34"
+      ],
+      "oriInst": "경희대학교"
+    },
+    "DBPIA": {
+      "inst": "경희대학교 호텔관광대학",
+      "A_id": [
+        "1393699"
+      ],
+      "papers": [
+        "624fec13e90d43f80121c41e"
+      ],
+      "oriInst": "경희대학교"
+    }
+  },
+  "김동현_1": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "김동현",
+    "inst": "동서대학교",
+    "DBPIA": {
+      "inst": "동서대학교 소프트웨어학과",
+      "A_id": [
+        "4010375"
+      ],
+      "papers": [
+        "624fec11e90d43f80121c3cd"
+      ],
+      "oriInst": "동서대학교"
+    }
+  },
+  "김동현_0": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "김동현",
+    "inst": "동서대학교",
+    "SCIENCEON": {
+      "inst": "Dept of Software, Dongseo University",
+      "A_id": [
+        "s1087975"
+      ],
+      "papers": [
+        "624febe68189b538c6219dc1"
+      ],
+      "oriInst": "동서대학교"
+    }
+  },
+  "김종엽_1": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "김종엽",
+    "inst": "한국보건산업진흥원",
+    "DBPIA": {
+      "inst": "한국보건산업진흥원",
+      "A_id": [
+        "4033265"
+      ],
+      "papers": [
+        "624febcfe90d43f80121bf2b"
+      ],
+      "oriInst": "한국보건산업진흥원"
+    }
+  },
+  "김종엽_0": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "김종엽",
+    "inst": "대구경북과학기술원",
+    "DBPIA": {
+      "inst": "대구경북과학기술원 정보통신융합공학",
+      "A_id": [
+        "1529430"
+      ],
+      "papers": [
+        "624febe8e90d43f80121c06e"
+      ],
+      "oriInst": "대구경북과학기술원"
+    }
+  },
+  "노희경_1": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "노희경",
+    "inst": "공주대학교",
+    "DBPIA": {
+      "inst": "공주대학교 관광경영학과",
+      "A_id": [
+        "4036678"
+      ],
+      "papers": [
+        "624fec0fe90d43f80121c382"
+      ],
+      "oriInst": "공주대학교"
+    }
+  },
+  "노희경_0": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "노희경",
+    "inst": "한국관광레저학회",
+    "DBPIA": {
+      "inst": "한국관광레저학회",
+      "A_id": [
+        "3478514"
+      ],
+      "papers": [
+        "624fec11e90d43f80121c3cc"
+      ],
+      "oriInst": "한국관광레저학회"
+    }
+  },
+  "김우진_1": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "김우진",
+    "inst": "원광대학교",
+    "DBPIA": {
+      "inst": "원광대학교 대학원",
+      "A_id": [
+        "4038651"
+      ],
+      "papers": [
+        "624febffe90d43f80121c1eb"
+      ],
+      "oriInst": "원광대학교"
+    }
+  },
+  "김우진_0": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "김우진",
+    "inst": "텍사스 주립대학교 체육학",
+    "DBPIA": {
+      "inst": "텍사스 주립대학교 체육학",
+      "A_id": [
+        "2072665"
+      ],
+      "papers": [
+        "624fec13e90d43f80121c3ff"
+      ],
+      "oriInst": "텍사스 주립대학교 체육학"
+    }
+  },
+  "조기환_2": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "조기환",
+    "inst": "CHONBUK NATIONAL UNIVERSITY DIVISION OF COMPUTER SCIENCE AND ENGINEERING",
+    "DBPIA": {
+      "inst": "Chonbuk National University Division of Computer Science and Engineering",
+      "A_id": [
+        "421855"
+      ],
+      "papers": [
+        "624fec22e90d43f80121c528"
+      ],
+      "oriInst": "CHONBUK NATIONAL UNIVERSITY DIVISION OF COMPUTER SCIENCE AND ENGINEERING"
+    }
+  },
+  "박형준_1": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "박형준",
+    "inst": "성균관대학교",
+    "DBPIA": {
+      "inst": "성균관대학교 행정학과 및 국정전문대학",
+      "A_id": [
+        "4219783"
+      ],
+      "papers": [
+        "624febe8e90d43f80121c063"
+      ],
+      "oriInst": "성균관대학교"
+    }
+  },
+  "박형준_0": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "박형준",
+    "inst": "성균관대학교",
+    "DBPIA": {
+      "inst": "성균관대 행정학과 & 국정전문대학원",
+      "A_id": [
+        "1918405"
+      ],
+      "papers": [
+        "624febe0e90d43f80121bfef"
+      ],
+      "oriInst": "성균관대학교"
+    }
+  },
+  "김철민_1": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "김철민",
+    "inst": "강원대학교",
+    "DBPIA": {
+      "inst": "강원대학교 컴퓨터학부",
+      "A_id": [
+        "432009"
+      ],
+      "papers": [
+        "624febd2e90d43f80121bf4c"
+      ],
+      "oriInst": "강원대학교"
+    }
+  },
+  "김철민_0": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "김철민",
+    "inst": "부산대학교",
+    "NTIS": {
+      "inst": "부산대학교",
+      "A_id": [
+        "bnRpczpCNTUxMTg2LUI1NTExODY+SE1PLjQxNDE5MTQxNjI3OA=="
+      ],
+      "papers": [
+        "624febd1e5081f1a8c21a3a5"
+      ],
+      "oriInst": "부산대학교"
+    }
+  },
+  "김성희_1": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "김성희",
+    "inst": "서울주택도시공사 SH도시연구원",
+    "DBPIA": {
+      "inst": "서울주택도시공사 SH도시연구원",
+      "A_id": [
+        "4587757"
+      ],
+      "papers": [
+        "624fec1de90d43f80121c4ea"
+      ],
+      "oriInst": "서울주택도시공사 SH도시연구원"
+    }
+  },
+  "김성희_0": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "김성희",
+    "inst": "동의대학교",
+    "DBPIA": {
+      "inst": "동의대학교 Industrial of ICT Engineering",
+      "A_id": [
+        "2150738"
+      ],
+      "papers": [
+        "624febfae90d43f80121c1a8"
+      ],
+      "oriInst": "동의대학교"
+    }
+  },
+  "김민정_4": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "김민정",
+    "inst": "숙명여자대학교",
+    "DBPIA": {
+      "inst": "숙명여자대학교 소비자경제학과",
+      "A_id": [
+        "4588028"
+      ],
+      "papers": [
+        "624febece90d43f80121c0dd"
+      ],
+      "oriInst": "숙명여자대학교"
+    }
+  },
+  "김은미_2": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "김은미",
+    "inst": "KYUNG HEE UNIVERSITY SMART TOURISM RESEARCH CENTER",
+    "DBPIA": {
+      "inst": "Kyung Hee University Smart Tourism Research Center",
+      "A_id": [
+        "4599515"
+      ],
+      "papers": [
+        "624fec02e90d43f80121c2b7"
+      ],
+      "oriInst": "KYUNG HEE UNIVERSITY SMART TOURISM RESEARCH CENTER"
+    }
+  },
+  "허정_1": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "허정",
+    "inst": "한경대학교",
+    "DBPIA": {
+      "inst": "한경대학교 법경영학부 경영학",
+      "A_id": [
+        "4609554"
+      ],
+      "papers": [
+        "624febe8e90d43f80121c094"
+      ],
+      "oriInst": "한경대학교"
+    }
+  },
+  "허정_0": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "허정",
+    "inst": "소프트웨어정책연구소",
+    "DBPIA": {
+      "inst": "소프트웨어정책연구소",
+      "A_id": [
+        "2163853"
+      ],
+      "papers": [
+        "624febdee90d43f80121bfdf"
+      ],
+      "oriInst": "소프트웨어정책연구소"
+    }
+  },
+  "오형근_1": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "오형근",
+    "inst": "우석대학교",
+    "DBPIA": {
+      "inst": "우석대학교",
+      "A_id": [
+        "4626585"
+      ],
+      "papers": [
+        "624fec01e90d43f80121c248"
+      ],
+      "oriInst": "우석대학교"
+    }
+  },
+  "오형근_0": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "오형근",
+    "inst": "한국콘텐츠학회",
+    "DBPIA": {
+      "inst": "한국콘텐츠학회",
+      "A_id": [
+        "253829"
+      ],
+      "papers": [
+        "624fec17e90d43f80121c46a"
+      ],
+      "oriInst": "한국콘텐츠학회"
+    }
+  },
+  "김성돈_1": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "김성돈",
+    "inst": "성균관대학교",
+    "DBPIA": {
+      "inst": "성균관대학교 법학전문대학원",
+      "A_id": [
+        "51178"
+      ],
+      "papers": [
+        "624febfae90d43f80121c1ab"
+      ],
+      "oriInst": "성균관대학교"
+    }
+  },
+  "김성돈_0": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "김성돈",
+    "inst": "한국형사정책연구원",
+    "DBPIA": {
+      "inst": "한국형사정책연구원",
+      "A_id": [
+        "2264533"
+      ],
+      "papers": [
+        "624fec11e90d43f80121c3e8"
+      ],
+      "oriInst": "한국형사정책연구원"
+    }
+  },
+  "송민정_1": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "송민정",
+    "inst": "한세대학교",
+    "DBPIA": {
+      "inst": "한세대학교 미디어영상학부",
+      "A_id": [
+        "527876"
+      ],
+      "papers": [
+        "624fec07e90d43f80121c326"
+      ],
+      "oriInst": "한세대학교"
+    }
+  },
+  "송민정_0": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "송민정",
+    "inst": "KT경제경영연구소",
+    "DBPIA": {
+      "inst": "KT경제경영연구소",
+      "A_id": [
+        "1003451"
+      ],
+      "papers": [
+        "624fec05e90d43f80121c317"
+      ],
+      "oriInst": "KT경제경영연구소"
+    }
+  },
+  "최윤정_1": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "최윤정",
+    "inst": "이화여자대학교",
+    "DBPIA": {
+      "inst": "이화여자대학교 커뮤니케이션·미디어 학부",
+      "A_id": [
+        "565890"
+      ],
+      "papers": [
+        "624fec11e90d43f80121c3d1"
+      ],
+      "oriInst": "이화여자대학교"
+    }
+  },
+  "최윤정_0": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "최윤정",
+    "inst": "한국과학기술정보연구원 기술사업화센터",
+    "DBPIA": {
+      "inst": "한국과학기술정보연구원 기술사업화센터",
+      "A_id": [
+        "1418536"
+      ],
+      "papers": [
+        "624febffe90d43f80121c1e9"
+      ],
+      "oriInst": "한국과학기술정보연구원 기술사업화센터"
+    }
+  },
+  "이수범_1": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "이수범",
+    "inst": "인천대학교",
+    "DBPIA": {
+      "inst": "인천대학교 신문방송학과",
+      "A_id": [
+        "597819"
+      ],
+      "papers": [
+        "624fec01e90d43f80121c247"
+      ],
+      "oriInst": "인천대학교"
+    }
+  },
+  "이수범_0": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "이수범",
+    "inst": "경희대학교",
+    "DBPIA": {
+      "inst": "경희대학교 조리외식경영학과",
+      "A_id": [
+        "495124"
+      ],
+      "papers": [
+        "624febefe90d43f80121c113"
+      ],
+      "oriInst": "경희대학교"
+    }
+  },
+  "박한우_1": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "박한우",
+    "inst": "YEUNGNAM UNIVERSITY DEPT, OF MEDIA & COMMUNICATION",
+    "DBPIA": {
+      "inst": "YeungNam University Dept. of Media & Communication",
+      "A_id": [
+        "627323"
+      ],
+      "papers": [
+        "624fec05e90d43f80121c2f6"
+      ],
+      "oriInst": "YEUNGNAM UNIVERSITY DEPT, OF MEDIA & COMMUNICATION"
+    }
+  },
+  "박한우_0": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "박한우",
+    "inst": "영남대학교",
+    "KCI": {
+      "inst": "영남대학교",
+      "A_id": [
+        "s47277"
+      ],
+      "papers": [
+        "624febe390646854a0219b29"
+      ],
+      "oriInst": "영남대학교"
+    }
+  },
+  "이경순_1": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "이경순",
+    "inst": "경기대학교",
+    "DBPIA": {
+      "inst": "경기대학교 교육대학원",
+      "A_id": [
+        "642723"
+      ],
+      "papers": [
+        "624fec13e90d43f80121c416"
+      ],
+      "oriInst": "경기대학교"
+    }
+  },
+  "이경순_0": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "이경순",
+    "inst": "전북대학교",
+    "SCIENCEON": {
+      "inst": "전북대학교",
+      "A_id": [
+        "s260187"
+      ],
+      "papers": [
+        "624febdb8189b538c6219d81"
+      ],
+      "oriInst": "전북대학교"
+    }
+  },
+  "이승재_1": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "이승재",
+    "inst": "한경대학교",
+    "DBPIA": {
+      "inst": "한경대학교 기계공학과",
+      "A_id": [
+        "65578"
+      ],
+      "papers": [
+        "624febe3e90d43f80121c016"
+      ],
+      "oriInst": "한경대학교"
+    }
+  },
+  "이승재_0": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "이승재",
+    "inst": "서울시립대학교",
+    "SCIENCEON": {
+      "inst": "서울시립대학교 교통공학과",
+      "A_id": [
+        "s259838"
+      ],
+      "papers": [
+        "624febd48189b538c6219d71"
+      ],
+      "oriInst": "서울시립대학교"
+    },
+    "KCI": {
+      "inst": "서울시립대학교",
+      "A_id": [
+        "s5869"
+      ],
+      "papers": [
+        "624febe090646854a0219b22"
+      ],
+      "oriInst": "서울시립대학교"
+    }
+  },
+  "김경민_1": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "김경민",
+    "inst": "서울대학교",
+    "DBPIA": {
+      "inst": "서울대 환경대학원",
+      "A_id": [
+        "681522"
+      ],
+      "papers": [
+        "624fec19e90d43f80121c48f"
+      ],
+      "oriInst": "서울대학교"
+    }
+  },
+  "김경민_0": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "김경민",
+    "inst": "한양대학교",
+    "NTIS": {
+      "inst": "한양대학교",
+      "A_id": [
+        "449001615147"
+      ],
+      "papers": [
+        "624febd3e5081f1a8c21a3f6"
+      ],
+      "oriInst": "한양대학교"
+    }
+  },
+  "이상원_4": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "이상원",
+    "inst": "Wonkwang University 일반대학원 비즈니스 인포메틱스학과",
+    "DBPIA": {
+      "inst": "Wonkwang University 일반대학원 비즈니스 인포메틱스학과",
+      "A_id": [
+        "709555"
+      ],
+      "papers": [
+        "624fec07e90d43f80121c329"
+      ],
+      "oriInst": "Wonkwang University 일반대학원 비즈니스 인포메틱스학과"
+    }
+  },
+  "조대연_1": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "조대연",
+    "inst": "국토교통과학기술진흥원 스마트시티 국가 R&D",
+    "DBPIA": {
+      "inst": "국토교통과학기술진흥원 스마트시티 국가 R&D",
+      "A_id": [
+        "714699"
+      ],
+      "papers": [
+        "624febeae90d43f80121c0cd"
+      ],
+      "oriInst": "국토교통과학기술진흥원 스마트시티 국가 R&D"
+    }
+  },
+  "조대연_0": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "조대연",
+    "inst": "한동대학교",
+    "DBPIA": {
+      "inst": "한동대학교 경영경제학부",
+      "A_id": [
+        "354470"
+      ],
+      "papers": [
+        "624fec20e90d43f80121c514"
+      ],
+      "oriInst": "한동대학교"
+    }
+  },
+  "김학준_1": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "김학준",
+    "inst": "경희사이버대학교",
+    "DBPIA": {
+      "inst": "경희사이버대학교 스포츠경영학과",
+      "A_id": [
+        "722042"
+      ],
+      "papers": [
+        "624fec01e90d43f80121c26f"
+      ],
+      "oriInst": "경희사이버대학교"
+    }
+  },
+  "김학준_0": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "김학준",
+    "inst": "아르스프락시아 미디어분석팀",
+    "DBPIA": {
+      "inst": "아르스프락시아 미디어분석팀",
+      "A_id": [
+        "1015155"
+      ],
+      "papers": [
+        "624fec0fe90d43f80121c3bc"
+      ],
+      "oriInst": "아르스프락시아 미디어분석팀"
+    }
+  },
+  "서호준_1": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "서호준",
+    "inst": "충남대학교",
+    "DBPIA": {
+      "inst": "충남대",
+      "A_id": [
+        "723424"
+      ],
+      "papers": [
+        "624febf3e90d43f80121c160"
+      ],
+      "oriInst": "충남대학교"
+    }
+  },
+  "서호준_0": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "서호준",
+    "inst": "신용보증기금",
+    "DBPIA": {
+      "inst": "신용보증기금",
+      "A_id": [
+        "1323719"
+      ],
+      "papers": [
+        "624febe3e90d43f80121c014"
+      ],
+      "oriInst": "신용보증기금"
+    }
+  },
+  "김재경_1": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "김재경",
+    "inst": "한남대학교",
+    "DBPIA": {
+      "inst": "한남대학교 글로벌IT경영",
+      "A_id": [
+        "725897"
+      ],
+      "papers": [
+        "624febece90d43f80121c0df"
+      ],
+      "oriInst": "한남대학교"
+    }
+  },
+  "김재경_0": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "김재경",
+    "inst": "경희대학교",
+    "DBPIA": {
+      "inst": "경희대학교 경영대학",
+      "A_id": [
+        "4586656"
+      ],
+      "papers": [
+        "624febd2e90d43f80121bf3d"
+      ],
+      "oriInst": "경희대학교"
+    }
+  },
+  "조항정_1": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "조항정",
+    "inst": "한국과학기술원",
+    "DBPIA": {
+      "inst": "한국과학기술원",
+      "A_id": [
+        "736216"
+      ],
+      "papers": [
+        "624fec17e90d43f80121c46e"
+      ],
+      "oriInst": "한국과학기술원"
+    }
+  },
+  "조항정_0": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "조항정",
+    "inst": "한국과학기술원",
+    "SCIENCEON": {
+      "inst": "카이스트 경영과학과",
+      "A_id": [
+        "s258079"
+      ],
+      "papers": [
+        "624febca8189b538c6219d3c"
+      ],
+      "oriInst": "한국과학기술원"
+    }
+  },
+  "김관호_1": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "김관호",
+    "inst": "인천대학교",
+    "DBPIA": {
+      "inst": "인천대학교 산업경영공학과",
+      "A_id": [
+        "73847"
+      ],
+      "papers": [
+        "624fec17e90d43f80121c47c"
+      ],
+      "oriInst": "인천대학교"
+    }
+  },
+  "김관호_0": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "김관호",
+    "inst": "인천대학교",
+    "NTIS": {
+      "inst": "인천대학교산학협력단",
+      "A_id": [
+        "411946277194"
+      ],
+      "papers": [
+        "624febd7e5081f1a8c21a45a"
+      ],
+      "oriInst": "인천대학교"
+    }
+  },
+  "김성태_1": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "김성태",
+    "inst": "유경제어",
+    "DBPIA": {
+      "inst": "유경제어",
+      "A_id": [
+        "73976"
+      ],
+      "papers": [
+        "624fec19e90d43f80121c4a3"
+      ],
+      "oriInst": "유경제어"
+    }
+  },
+  "김성태_0": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "김성태",
+    "inst": "고려대학교",
+    "DBPIA": {
+      "inst": "고려대학교 미디어학부",
+      "A_id": [
+        "2281189",
+        "708834"
+      ],
+      "papers": [
+        "624fec22e90d43f80121c52d",
+        "624fec15e90d43f80121c452"
+      ],
+      "oriInst": "고려대학교"
+    }
+  },
+  "김선경_1": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "김선경",
+    "inst": "충남대학교",
+    "DBPIA": {
+      "inst": "충남대학교 행정학부",
+      "A_id": [
+        "744561"
+      ],
+      "papers": [
+        "624fec0fe90d43f80121c3af"
+      ],
+      "oriInst": "충남대학교"
+    }
+  },
+  "김선경_0": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "김선경",
+    "inst": "목포대학교",
+    "DBPIA": {
+      "inst": "국립목포대학교 간호학과",
+      "A_id": [
+        "2173045"
+      ],
+      "papers": [
+        "624febd5e90d43f80121bf77"
+      ],
+      "oriInst": "목포대학교"
+    }
+  },
+  "박도형_2": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "박도형",
+    "inst": "국민대학교",
+    "DBPIA": {
+      "inst": "국민대학교 경영정보학부/비즈니스 IT 전문대학원",
+      "A_id": [
+        "744728"
+      ],
+      "papers": [
+        "624fec05e90d43f80121c2fd"
+      ],
+      "oriInst": "국민대학교"
+    }
+  },
+  "이광석_1": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "이광석",
+    "inst": "서울과학기술대학교",
+    "DBPIA": {
+      "inst": "서울과학기술대학교 디지털문화정책 학과",
+      "A_id": [
+        "750615"
+      ],
+      "papers": [
+        "624fec13e90d43f80121c420"
+      ],
+      "oriInst": "서울과학기술대학교"
+    }
+  },
+  "이광석_0": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "이광석",
+    "inst": "오산대학교",
+    "DBPIA": {
+      "inst": "오산대학교 스마트IT과",
+      "A_id": [
+        "1824734"
+      ],
+      "papers": [
+        "624fec19e90d43f80121c4a9"
+      ],
+      "oriInst": "오산대학교"
+    }
+  },
+  "김희웅_1": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "김희웅",
+    "inst": "연세대학교",
+    "DBPIA": {
+      "inst": "연세대학교 전자공학과",
+      "A_id": [
+        "75474"
+      ],
+      "papers": [
+        "624febf3e90d43f80121c169"
+      ],
+      "oriInst": "연세대학교"
+    }
+  },
+  "김희웅_0": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "김희웅",
+    "inst": "연세대학교",
+    "SCIENCEON": {
+      "inst": "연세대학교 정보대학원",
+      "A_id": [
+        "s259129"
+      ],
+      "papers": [
+        "624febcf8189b538c6219d5e"
+      ],
+      "oriInst": "연세대학교"
+    },
+    "KCI": {
+      "inst": "연세대학교",
+      "A_id": [
+        "s5644"
+      ],
+      "papers": [
+        "624febfb90646854a0219b58"
+      ],
+      "oriInst": "연세대학교"
+    }
+  },
+  "최우정_1": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "최우정",
+    "inst": "국립재난안전연구원",
+    "DBPIA": {
+      "inst": "국립재난안전연구원",
+      "A_id": [
+        "760913"
+      ],
+      "papers": [
+        "624fec1be90d43f80121c4c7"
+      ],
+      "oriInst": "국립재난안전연구원"
+    }
+  },
+  "최우정_0": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "최우정",
+    "inst": "계명대학교",
+    "DBPIA": {
+      "inst": "계명대학교 경찰행정학과",
+      "A_id": [
+        "497042"
+      ],
+      "papers": [
+        "624febede90d43f80121c0f2"
+      ],
+      "oriInst": "계명대학교"
+    }
+  },
+  "이정우_1": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "이정우",
+    "inst": "연세대학교",
+    "DBPIA": {
+      "inst": "연세대학교 정보대학원",
+      "A_id": [
+        "768478"
+      ],
+      "papers": [
+        "624fec22e90d43f80121c537"
+      ],
+      "oriInst": "연세대학교"
+    }
+  },
+  "이정우_0": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "이정우",
+    "inst": "한국연기금연구원",
+    "DBPIA": {
+      "inst": "한국연기금연구원",
+      "A_id": [
+        "4212452"
+      ],
+      "papers": [
+        "624febe3e90d43f80121c029"
+      ],
+      "oriInst": "한국연기금연구원"
+    }
+  },
+  "김지영_2": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "김지영",
+    "inst": "SEOUL NATIONAL UNIVERSITY INSTITUTE OF CONSTRUCTION AND ENVIRONMENTAL ENGINEERING",
+    "DBPIA": {
+      "inst": "Seoul National University Institute of Construction and Environmental Engineering",
+      "A_id": [
+        "793327"
+      ],
+      "papers": [
+        "624fec20e90d43f80121c4fc"
+      ],
+      "oriInst": "SEOUL NATIONAL UNIVERSITY INSTITUTE OF CONSTRUCTION AND ENVIRONMENTAL ENGINEERING"
+    }
+  },
+  "이미숙_1": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "이미숙",
+    "inst": "안양대학교",
+    "DBPIA": {
+      "inst": "안양대학교 도시정보공학과",
+      "A_id": [
+        "793367"
+      ],
+      "papers": [
+        "624fec0ae90d43f80121c369"
+      ],
+      "oriInst": "안양대학교"
+    }
+  },
+  "이미숙_0": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "이미숙",
+    "inst": "창원대학교",
+    "DBPIA": {
+      "inst": "창원대학교 글로벌비즈니스학부",
+      "A_id": [
+        "1516482"
+      ],
+      "papers": [
+        "624fec15e90d43f80121c44a"
+      ],
+      "oriInst": "창원대학교"
+    }
+  },
+  "신동희_2": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "신동희",
+    "inst": "Chung-Ang University 인터랙션사이언스학과",
+    "DBPIA": {
+      "inst": "Chung-Ang University 인터랙션사이언스학과",
+      "A_id": [
+        "817983"
+      ],
+      "papers": [
+        "624febffe90d43f80121c228"
+      ],
+      "oriInst": "Chung-Ang University 인터랙션사이언스학과"
+    }
+  },
+  "김은경_1": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "김은경",
+    "inst": "경기연구원 상생경제연구실",
+    "DBPIA": {
+      "inst": "경기연구원 상생경제연구실",
+      "A_id": [
+        "829070"
+      ],
+      "papers": [
+        "624febcfe90d43f80121bf0d"
+      ],
+      "oriInst": "경기연구원 상생경제연구실"
+    }
+  },
+  "김은경_0": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "김은경",
+    "inst": "SEOUL NATIONAL UNIVERSITY DEPARTMENT OF CHILD DEVELOPMENT & FAMILY STUDIES",
+    "DBPIA": {
+      "inst": "Seoul National University Department of Child Development & Family Studies",
+      "A_id": [
+        "4012365"
+      ],
+      "papers": [
+        "624fec17e90d43f80121c469"
+      ],
+      "oriInst": "SEOUL NATIONAL UNIVERSITY DEPARTMENT OF CHILD DEVELOPMENT & FAMILY STUDIES"
+    }
+  },
+  "송태민_1": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "송태민",
+    "inst": "한국보건사회연구원 정보통계연구실",
+    "DBPIA": {
+      "inst": "한국보건사회연구원 정보통계연구실",
+      "A_id": [
+        "840220"
+      ],
+      "papers": [
+        "624febd8e90d43f80121bf96"
+      ],
+      "oriInst": "한국보건사회연구원 정보통계연구실"
+    }
+  },
+  "송태민_0": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "송태민",
+    "inst": "한국컴퓨터정보학회",
+    "DBPIA": {
+      "inst": "한국컴퓨터정보학회",
+      "A_id": [
+        "1824721"
+      ],
+      "papers": [
+        "624fec05e90d43f80121c313"
+      ],
+      "oriInst": "한국컴퓨터정보학회"
+    }
+  },
+  "이지현_2": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "이지현",
+    "inst": "서울여자대학교",
+    "DBPIA": {
+      "inst": "서울여자대학교 일반대학원 디자인학과",
+      "A_id": [
+        "84309"
+      ],
+      "papers": [
+        "624febdbe90d43f80121bfb2"
+      ],
+      "oriInst": "서울여자대학교"
+    }
+  },
+  "이홍주_1": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "이홍주",
+    "inst": "경기대학교",
+    "DBPIA": {
+      "inst": "경기대학교 산업경영공학과",
+      "A_id": [
+        "851003"
+      ],
+      "papers": [
+        "624febfae90d43f80121c1bc"
+      ],
+      "oriInst": "경기대학교"
+    }
+  },
+  "이홍주_0": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "이홍주",
+    "inst": "가톨릭대학교",
+    "NTIS": {
+      "inst": "가톨릭대학교",
+      "A_id": [
+        "s55244"
+      ],
+      "papers": [
+        "624febd1e5081f1a8c21a396"
+      ],
+      "oriInst": "가톨릭대학교"
+    }
+  },
+  "한창희_1": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "한창희",
+    "inst": "한양대학교",
+    "DBPIA": {
+      "inst": "한양대학교 경영학부",
+      "A_id": [
+        "891224"
+      ],
+      "papers": [
+        "624fec20e90d43f80121c524"
+      ],
+      "oriInst": "한양대학교"
+    }
+  },
+  "한창희_0": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "한창희",
+    "inst": "육군사관학교",
+    "DBPIA": {
+      "inst": "육군사관학교 컴퓨터과학과",
+      "A_id": [
+        "350344"
+      ],
+      "papers": [
+        "624febe8e90d43f80121c087"
+      ],
+      "oriInst": "육군사관학교"
+    }
+  },
+  "유은순_1": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "유은순",
+    "inst": "Inha University 인공지능 콘텐츠창작 연구센터",
+    "DBPIA": {
+      "inst": "Inha University 인공지능 콘텐츠창작 연구센터",
+      "A_id": [
+        "899199"
+      ],
+      "papers": [
+        "624fec05e90d43f80121c2cf"
+      ],
+      "oriInst": "Inha University 인공지능 콘텐츠창작 연구센터"
+    }
+  },
+  "유은순_0": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "유은순",
+    "inst": "단국대학교",
+    "NTIS": {
+      "inst": "단국대학교",
+      "A_id": [
+        "817814647214"
+      ],
+      "papers": [
+        "624febd7e5081f1a8c21a47c",
+        "624febd5e5081f1a8c21a43d"
+      ],
+      "oriInst": "단국대학교"
+    }
+  },
+  "박경옥_1": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "박경옥",
+    "inst": "이화여자대학교",
+    "DBPIA": {
+      "inst": "이화여자대학교 국제사무학과",
+      "A_id": [
+        "911855"
+      ],
+      "papers": [
+        "624fec05e90d43f80121c2db"
+      ],
+      "oriInst": "이화여자대학교"
+    }
+  },
+  "박경옥_0": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "박경옥",
+    "inst": "부산대학교",
+    "NTIS": {
+      "inst": "부산대학교",
+      "A_id": [
+        "s55367"
+      ],
+      "papers": [
+        "624febd5e5081f1a8c21a42f"
+      ],
+      "oriInst": "부산대학교"
+    }
+  },
+  "김동준_1": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "김동준",
+    "inst": "영남이공대학교",
+    "DBPIA": {
+      "inst": "영남이공대학교 관광계열 호텔관광",
+      "A_id": [
+        "914768"
+      ],
+      "papers": [
+        "624febc9e90d43f80121be8c"
+      ],
+      "oriInst": "영남이공대학교"
+    }
+  },
+  "김동준_0": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "김동준",
+    "inst": "한국교통연구원",
+    "DBPIA": {
+      "inst": "한국교통연구원",
+      "A_id": [
+        "1530419"
+      ],
+      "papers": [
+        "624fec15e90d43f80121c440"
+      ],
+      "oriInst": "한국교통연구원"
+    }
+  },
+  "박유현_1": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "박유현",
+    "inst": "동의대학교",
+    "DBPIA": {
+      "inst": "동의대학교 컴퓨터소프트웨어공학과",
+      "A_id": [
+        "917912"
+      ],
+      "papers": [
+        "624fec05e90d43f80121c301"
+      ],
+      "oriInst": "동의대학교"
+    }
+  },
+  "박유현_0": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "박유현",
+    "inst": "동의대학교",
+    "SCIENCEON": {
+      "inst": "Department of Computer Software Engineering, Dongeui University",
+      "A_id": [
+        "s259599"
+      ],
+      "papers": [
+        "624febd48189b538c6219d74"
+      ],
+      "oriInst": "동의대학교"
+    }
+  },
+  "이현종_1": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "이현종",
+    "inst": "신한대학교",
+    "DBPIA": {
+      "inst": "신한대학교 글로벌관광경영학과",
+      "A_id": [
+        "934897"
+      ],
+      "papers": [
+        "624febede90d43f80121c0ef"
+      ],
+      "oriInst": "신한대학교"
+    }
+  },
+  "이현종_0": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "이현종",
+    "inst": "빅스터",
+    "DBPIA": {
+      "inst": "빅스터",
+      "A_id": [
+        "165969"
+      ],
+      "papers": [
+        "624fec20e90d43f80121c503"
+      ],
+      "oriInst": "빅스터"
+    }
+  },
+  "신원용_2": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "신원용",
+    "inst": "Dankook University 컴퓨터학과",
+    "DBPIA": {
+      "inst": "Dankook University 컴퓨터학과",
+      "A_id": [
+        "939107"
+      ],
+      "papers": [
+        "624fec0fe90d43f80121c3a6"
+      ],
+      "oriInst": "Dankook University 컴퓨터학과"
+    }
+  },
+  "김동환_1": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "김동환",
+    "inst": "서울과학기술대학교",
+    "DBPIA": {
+      "inst": "서울과학기술대학교 기계기스템",
+      "A_id": [
+        "951021"
+      ],
+      "papers": [
+        "624fec15e90d43f80121c44c"
+      ],
+      "oriInst": "서울과학기술대학교"
+    }
+  },
+  "김동환_0": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "김동환",
+    "inst": "서울대학교",
+    "DBPIA": {
+      "inst": "서울대학교 컴퓨터공학부",
+      "A_id": [
+        "1289766"
+      ],
+      "papers": [
+        "624febc9e90d43f80121be7c"
+      ],
+      "oriInst": "서울대학교"
+    }
+  },
+  "이상윤_1": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "이상윤",
+    "inst": "한국과학기술원",
+    "DBPIA": {
+      "inst": "한국과학기술원 문술미래전략대학원",
+      "A_id": [
+        "989352"
+      ],
+      "papers": [
+        "624fec13e90d43f80121c414"
+      ],
+      "oriInst": "한국과학기술원"
+    }
+  },
+  "이상윤_0": {
+    "fid": 0,
+    "keyId": 764,
+    "name": "이상윤",
+    "inst": "서강대학교",
+    "DBPIA": {
+      "inst": "서강대학교 정보통신대학원",
+      "A_id": [
+        "4692223"
+      ],
+      "papers": [
+        "624febfce90d43f80121c1da"
+      ],
+      "oriInst": "서강대학교"
+    }
+  }
+}

@@ -259,8 +259,11 @@ for i in range(len(key_querys)):
                 count += 1
 end3 = time.time()
 savetime2 = end3-end2+savetime1
-
+import json
 print(f'2차 통합: {savetime2}')
-print(sorted(Answer_dict.items()))
+
+
+with open("new_data_parsing/1st_integration.json","w",encoding='UTF-8') as f:
+    f.write(json.dumps(Answer_dict, default=str,indent=2,ensure_ascii=False))
 # print(filter_dict)
 # print(Inte_name)

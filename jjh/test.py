@@ -1,6 +1,7 @@
 from sklearn.cluster import AgglomerativeClustering
 import pandas as pd
 import csv
+import
 def clustering(embeddings, num_clusters):
     model = AgglomerativeClustering(n_clusters=num_clusters).fit(embeddings)
     return model.labels_
@@ -27,4 +28,7 @@ for line in rdr:
 # 
 list_df = pd.DataFrame([[1,2],[3,4],[5,6]])
 print(clustering(list_df,2))
+def dump_data(obj, wfpath, wfname):
+    with open("1st_integration", 'wb') as wf:
+        json.dump(obj, wf)
 
