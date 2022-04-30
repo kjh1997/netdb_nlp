@@ -3,6 +3,7 @@ import pymongo
 import pprint
 from konlpy.tag import Okt
 from bson.objectid import ObjectId
+
 client = pymongo.MongoClient('203.255.92.141:27017', connect=False)
 SCI = client['SCIENCEON']
 KCI = client['KCI']
@@ -14,6 +15,7 @@ def stem(word):
     return stemmer.nouns(word)
 
 def data_parsing(doc, site):
+
     if site=='NTIS':
         abs=stem(doc['goalAbs'])
         idx = []
@@ -46,8 +48,8 @@ def data_parsing(doc, site):
         main_data[p_id]["keywords"] = list(set(abs))
         main_data[p_id]["venue"] = doc['journal']
         main_data[p_id]["year"] = doc['issue_year']
-    for i in a_id:
-            
+    
+    for i in a_id:  
         a_data = {}
         if site == 'KCI':
             author_data = KCI['Author'].find_one({"_id":i})
@@ -130,9 +132,17 @@ for i in real_data:
 
 
 
+with codecs.open("name_to_pubs.json", 'r', encoding='utf-8') as rf:
+    data2 = json.load(rf)
 
+with open("name_to_pubs_train_500.json","w",encoding='UTF-8') as f:
+    f.write(json.dumps(data2, default=str,indent=2,ensure_ascii=False))
 
-with open("name_to_pubs.json","w",encoding='UTF-8') as f:
+with codecs.open("pubs_raw.json", 'r', encoding='utf-8') as rf:
+    data = json.load(rf)
+for i in data: # 기존 pubs_raw에 저장된 데이터 추가
+    main_data[i] = data[i]
+with open("name_to_pubs_test_100.json","w",encoding='UTF-8') as f:
     f.write(json.dumps(name_to_list, default=str,indent=2,ensure_ascii=False))
 with open("pubs_raw.json","w",encoding='UTF-8') as f:
     f.write(json.dumps(main_data, default=str,indent=2,ensure_ascii=False))
