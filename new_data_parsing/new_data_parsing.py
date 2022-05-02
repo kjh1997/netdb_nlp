@@ -8,6 +8,7 @@ client = pymongo.MongoClient('203.255.92.141:27017', connect=False)
 SCI = client['SCIENCEON']
 KCI = client['KCI']
 NTIS = client['NTIS']
+DBPIA = client['DBPIA']
 
 stemmer = Okt()
 
@@ -15,7 +16,6 @@ def stem(word):
     return stemmer.nouns(word)
 
 def data_parsing(doc, site):
-
     if site=='NTIS':
         abs=stem(doc['goalAbs'])
         idx = []
@@ -34,7 +34,23 @@ def data_parsing(doc, site):
         main_data[p_id]["year"] = doc['prdEnd'][:4]
 
     else:
-        abs=stem(doc['abstract'])
+       # print(type(doc["paper_keyword"]), doc["paper_keyword"], doc)
+        if doc["paper_keyword"] != [] and doc["paper_keyword"] != "":
+            try:
+                abs=stem(doc['paper_keyword'])
+            except Exception as e:
+                try:
+                    abs = doc["qryKeyword"]
+                except Exception as e:
+                    abs=stem(doc['abstract'])
+        elif doc["qrykeyword"] != []:
+            abs = doc["qrykeyword"]
+        else: abs=stem(doc['abstract'])
+
+        # if site=="DBPIA":
+        #     abs=doc['qryKeyword']
+        # else: abs=stem(doc['abstract'])
+        
         for i in abs[::-1]: 
             if len(i)==1: abs.pop(abs.index(i))
         for i in abs: 
@@ -57,6 +73,8 @@ def data_parsing(doc, site):
             author_data = SCI['Author'].find_one({"_id":i})
         elif site =="NTIS": 
             author_data = NTIS['Author'].find_one({"_id":i})
+        elif site =="DBPIA": 
+            author_data = DBPIA['Author'].find_one({"_id":i})
         
         a_data['org'] = author_data['inst']
         a_data['name'] = author_data['name']
@@ -106,6 +124,9 @@ for i in real_data:
     elif "NTIS" in real_data[i]:
         a_id = real_data[i]["NTIS"]['A_id'][0]
         name_to_list[name][a_id] = []
+    elif "DBPIA" in real_data[i]:
+        a_id = real_data[i]["DBPIA"]['A_id'][0]
+        name_to_list[name][a_id] = []
 
 
     if "SCIENCEON" in real_data[i]:
@@ -130,18 +151,27 @@ for i in real_data:
             doc = NTIS['Rawdata'].find_one({"_id":ObjectId(j)})
             data_parsing(doc, "NTIS")
 
+    if "DBPIA" in real_data[i]:
+        p_id = real_data[i]["DBPIA"]["papers"]
+
+        name_to_list[name][a_id].extend(p_id)
+        for j in p_id:
+            doc = DBPIA['Rawdata'].find_one({"_id":ObjectId(j)})
+            data_parsing(doc, "DBPIA")
 
 
-with codecs.open("name_to_pubs.json", 'r', encoding='utf-8') as rf:
-    data2 = json.load(rf)
 
-with open("name_to_pubs_train_500.json","w",encoding='UTF-8') as f:
-    f.write(json.dumps(data2, default=str,indent=2,ensure_ascii=False))
+# with codecs.open("name_to_pubs.json", 'r', encoding='utf-8') as rf:
+#     data2 = json.load(rf)
 
-with codecs.open("pubs_raw.json", 'r', encoding='utf-8') as rf:
-    data = json.load(rf)
-for i in data: # 기존 pubs_raw에 저장된 데이터 추가
-    main_data[i] = data[i]
+# with open("name_to_pubs_train_500.json","w",encoding='UTF-8') as f:
+#     f.write(json.dumps(data2, default=str,indent=2,ensure_ascii=False))
+
+# with codecs.open("pubs_raw.json", 'r', encoding='utf-8') as rf:
+#     data = json.load(rf)
+# for i in data: # 기존 pubs_raw에 저장된 데이터 추가
+#     main_data[i] = data[i]
+
 with open("name_to_pubs_test_100.json","w",encoding='UTF-8') as f:
     f.write(json.dumps(name_to_list, default=str,indent=2,ensure_ascii=False))
 with open("pubs_raw.json","w",encoding='UTF-8') as f:
