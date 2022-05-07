@@ -1,6 +1,10 @@
 from sklearn.cluster import AgglomerativeClustering
 
-
+model = AgglomerativeClustering()
+print(model)
+    
 def clustering(embeddings, num_clusters):
-    model = AgglomerativeClustering(n_clusters=num_clusters).fit(embeddings)
+    model = AgglomerativeClustering()
+    print(model)
+    
     return model.labels_

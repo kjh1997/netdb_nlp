@@ -1,8 +1,8 @@
-from pymongo import MongoClient
-from bson.objectid import ObjectId
-
-client = MongoClient('mongodb://203.255.92.141:27017', authSource='admin')
-DBPIA = client['DBPIA']
-rawdata = DBPIA['Rawdata']
-data = rawdata.find_one({'_id':ObjectId('624fec1be90d43f80121c4c8')})
-print(data['author_id'].split(';'))
+# a = 100
+# result = 0
+# for i in range(1,3):
+#    result = a >> i
+#    result = result + 1
+#    print(result)
+# print(result)
+print(26 >> 2)
