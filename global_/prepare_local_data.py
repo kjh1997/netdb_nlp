@@ -31,8 +31,7 @@ def dump_inter_emb():
         embs_input = []
         pids = []
         for i, aid in enumerate(name_data.keys()):
-            if len(name_data[aid]) < 2:  # 각 저자의 논문 수가 2미만이면 거름.
-                continue
+            
             for pid in name_data[aid]: # 각 저자의 paper_id 를 가지고옴.
                 cur_emb = lc_input.get(pid)
                 if cur_emb is None:

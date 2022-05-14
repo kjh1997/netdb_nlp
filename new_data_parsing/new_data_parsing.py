@@ -196,8 +196,18 @@ for i in real_data:
             doc = DBPIA['Rawdata'].find_one({"_id":ObjectId(j)})
             data_parsing(doc, "DBPIA")
 
-
-
+print(name_to_list)
+del_name =[]
+for i in name_to_list:
+    data=[]
+    for j in name_to_list[i]:
+        data.extend(name_to_list[i][j])
+    
+    if len(data)<=2:
+        del_name.append(i)
+for i in del_name:
+    del name_to_list[i]
+    name_data.pop(name_data.index(i))
 # with codecs.open("name_to_pubs.json", 'r', encoding='utf-8') as rf:
 #     data2 = json.load(rf)
 
@@ -209,14 +219,14 @@ for i in real_data:
 # for i in data: # 기존 pubs_raw에 저장된 데이터 추가
 #     main_data[i] = data[i]
 
-with open("name_to_pubs_train_500.json","w",encoding='UTF-8') as f:
+with open("name_to_pubs_test_100.json","w",encoding='UTF-8') as f:
     f.write(json.dumps(name_to_list, default=str,indent=2,ensure_ascii=False))
 with open("pubs_raw.json","w",encoding='UTF-8') as f:
     f.write(json.dumps(main_data, default=str,indent=2,ensure_ascii=False))
-# with open("test_name_list.json","w",encoding='UTF-8') as f:
-#     f.write(json.dumps(name_data, default=str,indent=2,ensure_ascii=False))
+with open("test_name_list.json","w",encoding='UTF-8') as f:
+    f.write(json.dumps(name_data, default=str,indent=2,ensure_ascii=False))
 
-with codecs.open("base.json", 'r', encoding='utf-8') as rf:
+with codecs.open("base-all.json", 'r', encoding='utf-8') as rf:
     data1 = json.load(rf)
 with codecs.open("pubs_raw.json", 'r', encoding='utf-8') as rf:
     data = json.load(rf)
