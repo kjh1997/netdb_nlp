@@ -129,7 +129,7 @@ def gae_for_na(name):
         feed_dict = construct_feed_dict(adj_norm, adj_label, features, placeholders)
         feed_dict.update({placeholders['dropout']: FLAGS.dropout})
         # Run single weight update
-        outs = sess.run([opt.opt_op, opt.cost, opt.accuracy],
+         = sess.run([opt.opt_op, opt.cost, opt.accuracy],
                         feed_dict=feed_dict)
 
         # Compute average loss

@@ -8,7 +8,7 @@ filter_info = client['PUBLIC']['FilterInfo'] #필터접근
 filters_category = client['PUBLIC']['FilterCategory']
 
 f_id = 0 #input
-keyid = 841 #keyid
+keyid = 847 #keyid
 
 fid_key_query = filter_info.find_one({ '$and': [{ 'fId': f_id }, { 'keyId': keyid }]}) #f_id serach
 ninst = []
