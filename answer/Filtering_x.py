@@ -3,7 +3,7 @@ import itertools
 import numpy as np
 import jaro
 import time
-# import sys
+import sys
 # import os
 # import multicpu_220504
 
@@ -15,7 +15,7 @@ filters_category = client['PUBLIC']['FilterCategory']
 # keyid = int(sys.argv[2])  #keyid
 
 f_id = 0 #input
-keyid = 847  #keyid
+keyid = int(sys.argv[1])  #keyid
 
 fid_key_query = filter_info.find_one({ '$and': [{ 'fId': f_id }, { 'keyId': keyid }]}) #f_id serach
 ninst = []
@@ -432,8 +432,16 @@ for d in deleteList:
 for d in Answer_dict : 
     if 'raws' in Answer_dict[d] :
         del Answer_dict[d]['raws']
-        
-print(Answer_dict) #중복논문제거안됨
+
+answer_list= []
+for i in Answer_dict:
+    answer_list.append(Answer_dict[i])
+id_domesticDuplicate = client['ID']['DomesticDuplicate']
+id_domesticDuplicate.insert_many(answer_list)
+
+import json
+with open("1st_integration.json","w",encoding='UTF-8') as f:
+    f.write(json.dumps(Answer_dict, default=str,indent=2,ensure_ascii=False))
 
 #중복논문 제거 코드 시작 ------------------------------------------------------------------------------------------------------------
 # paper_site = ['KCI', 'SCIENCEON', 'DBPIA']

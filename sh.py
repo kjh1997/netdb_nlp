@@ -2,13 +2,13 @@ from pymongo import MongoClient
 import numpy as np
 import time
 #import multicpu
-
+import sys
 client = MongoClient('mongodb://203.255.92.141:27017', authSource='admin')
 filter_info = client['PUBLIC']['FilterInfo'] #필터접근
 filters_category = client['PUBLIC']['FilterCategory']
 
 f_id = 0 #input
-keyid = 847 #keyid
+keyid = int(sys.argv[1]) #keyid
 
 fid_key_query = filter_info.find_one({ '$and': [{ 'fId': f_id }, { 'keyId': keyid }]}) #f_id serach
 ninst = []
