@@ -1,7 +1,7 @@
+import json
 from pymongo import MongoClient
 import itertools
 import numpy as np
-import jaro
 import time
 import sys
 client = MongoClient('mongodb://203.255.92.141:27017', authSource='admin')
@@ -188,6 +188,5 @@ end3 = time.time()
 savetime2 = end3-end2+savetime1
 
 print(f'2차 통합: {savetime2}')
-print(Inte_name)
-print(Answer_dict)
-
+with open("1st_integration.json","w",encoding='UTF-8') as f:
+    f.write(json.dumps(Answer_dict, default=str,indent=2,ensure_ascii=False))
