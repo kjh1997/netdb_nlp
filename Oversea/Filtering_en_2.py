@@ -450,6 +450,6 @@ id_domesticDuplicate = client['ID']['DomesticDuplicate']
 id_domesticDuplicate.insert_many(answer_list)
 
 import json
-with open("1st_integration.json","w",encoding='UTF-8') as f:
+with open("1st_integration2.json","w",encoding='UTF-8') as f:
     f.write(json.dumps(Answer_dict, default=str,indent=2,ensure_ascii=False))
         

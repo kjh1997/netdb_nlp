@@ -7,8 +7,6 @@ import nltk
 client = pymongo.MongoClient('203.255.92.141:27017', connect=False)
 WOS = client['WOS']
 SCOPUS = client['SCOPUS']
-NTIS = client['NTIS']
-DBPIA = client['DBPIA']
 stemmer = Okt()
 
 stop_words = set(["i", "me", "my", "myself", "we", "our", "ours", "ourselves", "you", "your", "yours", "yourself", 
@@ -44,9 +42,9 @@ def stem2(word):
     data = []
     for i in word: data.append(stemmer2.stem(i))
     return data
-
+import time
 def data_parsing(doc, site):
-    
+    print("++++++++++++++++++++++++++++++++++++++++++++++++++")
     abs=stem2(clean_sentence(doc['abstract']))
     len_1 = []
     for i in abs[::-1]: 
@@ -61,9 +59,6 @@ def data_parsing(doc, site):
     main_data[p_id]["keywords"] = list(set(abs))
     main_data[p_id]["venue"] = doc['journal']
     main_data[p_id]["year"] = doc['issue_year']
-
-    
-    
     for i in a_id:  
         try:
             a_data = {}
@@ -72,13 +67,15 @@ def data_parsing(doc, site):
             elif site == 'WOS':
                 author_data = WOS['Author'].find_one({"_id":i})
            #@ print(doc, i)
+            
             a_data['org'] = author_data['inst']
             a_data['name'] = author_data['name']
             
             a_data['id'] = author_data['_id']
             
             main_data[p_id]["authors"].append(a_data)
-        except:
+        except Exception as e:
+            print("오류", e)
             continue
 
 
@@ -138,7 +135,7 @@ for i in real_data:
         name_to_list[name][a_id].extend(p_id)
         for j in p_id:
             doc = WOS['Rawdata'].find_one({"_id":ObjectId(j)})
-            data_parsing(doc, "SCI")
+            data_parsing(doc, "WOS")
 
     if "SCOPUS" in real_data[i]:
         p_id = real_data[i]["SCOPUS"]["papers"]
@@ -178,12 +175,12 @@ with open("pubs_raw.json","w",encoding='UTF-8') as f:
 with open("test_name_list.json","w",encoding='UTF-8') as f:
     f.write(json.dumps(name_data, default=str,indent=2,ensure_ascii=False))
 
-# with codecs.open("base-all.json", 'r', encoding='utf-8') as rf:
-#     data1 = json.load(rf)
+with codecs.open("base-all.json", 'r', encoding='utf-8') as rf:
+    data1 = json.load(rf)
 with codecs.open("pubs_raw.json", 'r', encoding='utf-8') as rf:
     data = json.load(rf)
-# for i in data1:
-#     data[i] = data1[i]
+for i in data1:
+    data[i] = data1[i]
 
 with open("pubs_raw.json","w",encoding='UTF-8') as f:
     f.write(json.dumps(data, default=str,indent=2,ensure_ascii=False))
