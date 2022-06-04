@@ -440,5 +440,16 @@ for del_raw in Answer_dict :
     if 'raws' in Answer_dict[del_raw] :
         del Answer_dict[del_raw]['raws']
         
-print(Answer_dict)
+#print(Answer_dict)
+
+
+answer_list= []
+for i in Answer_dict:
+    answer_list.append(Answer_dict[i])
+id_domesticDuplicate = client['ID']['DomesticDuplicate']
+id_domesticDuplicate.insert_many(answer_list)
+
+import json
+with open("1st_integration.json","w",encoding='UTF-8') as f:
+    f.write(json.dumps(Answer_dict, default=str,indent=2,ensure_ascii=False))
         

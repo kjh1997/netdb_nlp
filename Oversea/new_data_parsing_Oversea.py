@@ -4,15 +4,22 @@ import pprint
 from konlpy.tag import Okt
 from bson.objectid import ObjectId
 import nltk
-
 client = pymongo.MongoClient('203.255.92.141:27017', connect=False)
 WOS = client['WOS']
 SCOPUS = client['SCOPUS']
 NTIS = client['NTIS']
 DBPIA = client['DBPIA']
-
 stemmer = Okt()
 
+stop_words = set(["i", "me", "my", "myself", "we", "our", "ours", "ourselves", "you", "your", "yours", "yourself", 
+"yourselves", "he", "him", "his", "himself", "she", "her", "hers", "herself", "it", "its", "itself", "they", "them",
+ "their", "theirs", "themselves", "what", "which", "who", "whom", "this", "that", "these", "those", "am", "is", 
+ "are", "was", "were", "be", "been", "being", "have", "has", "had", "having", "do", "does", "did", "doing", "a",
+  "an", "the", "and", "but", "if", "or", "because", "as", "until", "while", "of", "at", "by", "for", "with", "about", 
+  "against", "between", "into", "through", "during", "before", "after", "above", "below", "to", "from", "up", "down", 
+  "in", "out", "on", "off", "over", "under", "again", "further", "then", "once", "here", "there", "when", "where", 
+  "why", "how", "all", "any", "both", "each", "few", "more", "most", "other", "some", "such", "no",
+ "nor", "not", "only", "own", "same", "so", "than", "too", "very", "s", "t", "can", "will", "just", "don", "should", "now"]) 
 
 punct = set(u''':!),.:;?.]}¢'"、。〉》」』〕〗〞︰︱︳﹐､﹒
 ﹔﹕﹖﹗﹚﹜﹞！），．：；？｜｝︴︶︸︺︼︾﹀﹂﹄﹏､￠
@@ -25,6 +32,7 @@ def clean_sentence(text, stemming=False):
     for token in punct:
         text = text.replace(token, "")
     words = text.split()
+
     if stemming:
         stemmed_words = []
         for w in words:
@@ -82,13 +90,24 @@ data = []
 del_append = []
 
 for i in base_data:
-    print(i)
     if '_' in i:
         data.append(i)
     else:
         del_append.append(i)
 for i in del_append:
     del base_data[i]
+# for i in base_data:
+#     if '_1' in i:
+#         name = i.split("_")[0]
+#         print("name", name)
+#         for i in base_data: 
+#             if name in i:
+#                 data.append(i)
+#     else:
+#         del_append.append(i)
+# for i in del_append:
+#     del base_data[i]
+print(data)
 
 with open("1st_integration.json","w",encoding='UTF-8') as f:
     f.write(json.dumps(base_data, default=str,indent=2,ensure_ascii=False))
@@ -127,8 +146,8 @@ for i in real_data:
         for j in p_id:
             doc = SCOPUS['Rawdata'].find_one({"_id":ObjectId(j)})
             data_parsing(doc, "SCOPUS")
-
-print(name_to_list)
+import time
+print("name_to_list", name_to_list)
 del_name =[]
 for i in name_to_list:
     data=[]
@@ -140,6 +159,7 @@ for i in name_to_list:
 for i in del_name:
     del name_to_list[i]
     name_data.pop(name_data.index(i))
+print(name_to_list)
 # with codecs.open("name_to_pubs.json", 'r', encoding='utf-8') as rf:
 #     data2 = json.load(rf)
 
@@ -158,12 +178,12 @@ with open("pubs_raw.json","w",encoding='UTF-8') as f:
 with open("test_name_list.json","w",encoding='UTF-8') as f:
     f.write(json.dumps(name_data, default=str,indent=2,ensure_ascii=False))
 
-with codecs.open("base-all.json", 'r', encoding='utf-8') as rf:
-    data1 = json.load(rf)
+# with codecs.open("base-all.json", 'r', encoding='utf-8') as rf:
+#     data1 = json.load(rf)
 with codecs.open("pubs_raw.json", 'r', encoding='utf-8') as rf:
     data = json.load(rf)
-for i in data1:
-    data[i] = data1[i]
+# for i in data1:
+#     data[i] = data1[i]
 
 with open("pubs_raw.json","w",encoding='UTF-8') as f:
     f.write(json.dumps(data, default=str,indent=2,ensure_ascii=False))
