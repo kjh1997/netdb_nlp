@@ -10,7 +10,7 @@ from utils.cache import LMDBClient
 from utils import data_utils
 from utils import settings
 
-IDF_THRESHOLD = 1  # small data
+IDF_THRESHOLD = 0  # small data
 # IDF_THRESHOLD = 10
 
 
@@ -28,6 +28,7 @@ def dump_inter_emb():
     for name in name_to_pubs_test:
         print('name', name)
         name_data = name_to_pubs_test[name]
+        print(name_data)
         embs_input = []
         pids = []
         for i, aid in enumerate(name_data.keys()):
@@ -69,12 +70,14 @@ def gen_local_data(idf_threshold=10):
             items = cur_person_dict[aid]
             for pid in items:
                 pids2label[pid] = aid
+                print(pid)
                 pids.append(pid)
         shuffle(pids)
         for pid in pids:
             cur_pub_emb = lc_inter.get(pid)
             if cur_pub_emb is not None:
                 cur_pub_emb = list(map(str, cur_pub_emb))
+                print(pid)
                 pids_set.add(pid)
                 wf_content.write('{}\t'.format(pid))
                 wf_content.write('\t'.join(cur_pub_emb))
@@ -97,8 +100,7 @@ def gen_local_data(idf_threshold=10):
                 for f in common_features:
                     idf_sum += idf.get(f, idf_threshold)
                     # print(f, idf.get(f, idf_threshold))
-                if idf_sum >= idf_threshold:
-                    wf_network.write('{}\t{}\n'.format(pids_filter[i], pids_filter[j]))
+                wf_network.write('{}\t{}\n'.format(pids_filter[i], pids_filter[j]))
         wf_network.close()
 
 

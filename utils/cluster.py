@@ -10,7 +10,7 @@ def clustering(embeddings, num_clusters):
         connectivity=None,
         compute_full_tree="auto",
         linkage="ward",
-        distance_threshold=0.00000000000001,
+        distance_threshold=0.1,
         compute_distances=False).fit(embeddings)
     return model.labels_
 

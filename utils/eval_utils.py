@@ -1,9 +1,12 @@
 import numpy as np
 from keras import backend as K
 from sklearn.metrics import roc_auc_score
+import pandas as pd
+from sklearn.metrics import classification_report
 
 
 def pairwise_precision_recall_f1(preds, truths):
+    print(preds, truths)
     tp = 0
     fp = 0
     fn = 0
@@ -35,6 +38,15 @@ def pairwise_precision_recall_f1(preds, truths):
     else:
         f1 = (2 * precision * recall) / (precision + recall)
     return precision, recall, f1
+# def pairwise_precision_recall_f1(preds, truths):
+#     y_true = truths
+#     y_pred = preds
+    
+#     report = classification_report(y_true, y_pred,   output_dict=True)
+#     df = pd.DataFrame(report).transpose()
+#     return report['macro avg']['precision'], report['macro avg']['recall'] ,report['macro avg']['f1-score']
+
+
 
 
 def cal_f1(prec, rec):

@@ -26,10 +26,6 @@ def dump_author_features_to_file():
         if i % 1000 == 0:
             print(i, datetime.now()-start_time)
         paper = pubs_dict[pid]
-        if len(paper["authors"]) > 30:
-            print(i, pid, len(paper["authors"]))
-        if len(paper["authors"]) > 100:
-            continue
         n_authors = len(paper.get('authors', []))
         for j in range(n_authors):
             author_feature = feature_utils.extract_author_features(paper, j)
