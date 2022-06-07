@@ -68,7 +68,6 @@ def data_parsing(doc, site):
 
     elif site=='KCI':
         abs=stem(doc['abstract'])
-        print(abs)
         len_1 = []
         for i in abs[::-1]: 
             if len(i)==1: len_1.append(abs.index(i))

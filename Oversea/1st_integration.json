@@ -1,2267 +1,1837 @@
 {
-  "otaeguioihana_1": {
-    "fid": 0,
-    "keyId": 914,
-    "name": "Otaegui, Oihana",
-    "pre_name": "otaeguioihana",
-    "inst": "Vicomtech, Parque Cient & Tecnol Gipuzkoa, Donostia San Sebastian 20009, Spain",
-    "WOS": {
-      "inst": "Vicomtech, Parque Cient & Tecnol Gipuzkoa, Donostia San Sebastian 20009, Spain",
-      "A_id": [
-        "ss9684069"
-      ],
-      "papers": [
-        "6294af751649752aa187475a"
-      ],
-      "oriInst": "Vicomtech, Parque Cient & Tecnol Gipuzkoa, Donostia San Sebastian 20009, Spain"
-    }
-  },
-  "otaeguioihana_0": {
-    "fid": 0,
-    "keyId": 914,
-    "name": "Otaegui, Oihana",
-    "pre_name": "otaeguioihana",
-    "inst": "Basque Res & Technol Alliance BRTA, Vicomtech Fdn, Mikeletegi 57, San Sebastian 20009, Spain",
-    "WOS": {
-      "inst": "Basque Res & Technol Alliance BRTA, Vicomtech Fdn, Mikeletegi 57, San Sebastian 20009, Spain",
-      "A_id": [
-        "ss9683944"
-      ],
-      "papers": [
-        "6294af751649752aa187472d"
-      ],
-      "oriInst": "Basque Res & Technol Alliance BRTA, Vicomtech Fdn, Mikeletegi 57, San Sebastian 20009, Spain"
-    }
-  },
-  "khanshahzad_1": {
-    "fid": 0,
-    "keyId": 914,
-    "name": "Khan, Shahzad",
-    "pre_name": "khanshahzad",
-    "inst": "Gnowit Inc, Kanata, ON K2W0B5, Canada",
-    "WOS": {
-      "inst": "Gnowit Inc, Kanata, ON K2W0B5, Canada",
-      "A_id": [
-        "ss9683970"
-      ],
-      "papers": [
-        "6294af751649752aa1874735"
-      ],
-      "oriInst": "Gnowit Inc, Kanata, ON K2W0B5, Canada"
-    }
-  },
-  "khanshahzad_0": {
-    "fid": 0,
-    "keyId": 914,
-    "name": "Khan, Shahzad",
-    "pre_name": "khanshahzad",
-    "inst": "Gnowit Inc, 200-308 Legett Dr, Kanata, ON, Canada",
-    "WOS": {
-      "inst": "Gnowit Inc, 200-308 Legett Dr, Kanata, ON, Canada",
-      "A_id": [
-        "s9340436"
-      ],
-      "papers": [
-        "6294af751649752aa1874747"
-      ],
-      "oriInst": "Gnowit Inc, 200-308 Legett Dr, Kanata, ON, Canada"
-    }
-  },
-  "otaeguioihana_2": {
-    "fid": 0,
-    "keyId": 914,
-    "name": "Otaegui, Oihana",
-    "pre_name": "otaeguioihana",
-    "inst": "Vicomtech Foundation Basque Research and Technology Alliance (BRTA) Mikeletegi 57 San Sebastian 20009 Spain",
-    "SCOPUS": {
-      "inst": "Vicomtech Foundation Basque Research and Technology Alliance (BRTA) Mikeletegi 57 San Sebastian 20009 Spain",
-      "A_id": [
-        "8638431600"
-      ],
-      "papers": [
-        "6294af874c7cb9455f86d153",
-        "6294af844c7cb9455f86d0ab"
-      ],
-      "oriInst": "Vicomtech Foundation Basque Research and Technology Alliance (BRTA) Mikeletegi 57 San Sebastian 20009 Spain"
-    }
-  },
-  "naseeraisha_1": {
-    "fid": 0,
-    "keyId": 914,
-    "name": "Naseer, Aisha",
-    "pre_name": "naseeraisha",
-    "inst": "Fujitsu Laboratories of Europe United Kingdom",
-    "SCOPUS": {
-      "inst": "Fujitsu Laboratories of Europe United Kingdom",
-      "A_id": [
-        "22635523000"
-      ],
-      "papers": [
-        "6294af874c7cb9455f86d152"
-      ],
-      "oriInst": "Fujitsu Laboratories of Europe United Kingdom"
-    }
-  },
-  "naseeraisha_0": {
-    "fid": 0,
-    "keyId": 914,
-    "name": "Naseer, Aisha",
-    "pre_name": "naseeraisha",
-    "inst": "Fujitsu Labs Europe, Birmingham, W Midlands, England",
-    "WOS": {
-      "inst": "Fujitsu Labs Europe, Birmingham, W Midlands, England",
-      "A_id": [
-        "s8601866"
-      ],
-      "papers": [
-        "6294af741649752aa187470a"
-      ],
-      "oriInst": "Fujitsu Labs Europe, Birmingham, W Midlands, England"
-    }
-  },
-  "khanwasiq_1": {
-    "fid": 0,
-    "keyId": 914,
-    "name": "Khan, Wasiq",
-    "pre_name": "khanwasiq",
-    "inst": "Faculty of Engineering and Technology Liverpool John Moores University Liverpool United Kingdom",
-    "SCOPUS": {
-      "inst": "Faculty of Engineering and Technology Liverpool John Moores University Liverpool United Kingdom",
-      "A_id": [
-        "55319932200"
-      ],
-      "papers": [
-        "6294af874c7cb9455f86d151"
-      ],
-      "oriInst": "Faculty of Engineering and Technology Liverpool John Moores University Liverpool United Kingdom"
-    }
-  },
-  "khanwasiq_0": {
-    "fid": 0,
-    "keyId": 914,
-    "name": "Khan, Wasiq",
-    "pre_name": "khanwasiq",
-    "inst": "Liverpool John Moores Univ, Fac Engn & Technol, Liverpool L3 5UZ, Merseyside, England",
-    "WOS": {
-      "inst": "Liverpool John Moores Univ, Fac Engn & Technol, Liverpool L3 5UZ, Merseyside, England",
-      "A_id": [
-        "s8600615"
-      ],
-      "papers": [
-        "6294af751649752aa187474d"
-      ],
-      "oriInst": "Liverpool John Moores Univ, Fac Engn & Technol, Liverpool L3 5UZ, Merseyside, England"
-    }
-  },
-  "chengwenhuang_1": {
-    "fid": 0,
-    "keyId": 914,
-    "name": "Cheng, Wen Huang",
-    "pre_name": "chengwenhuang",
-    "inst": "Department of Electronics Engineering National Chiao Tung University Hsinchu Taiwan",
-    "SCOPUS": {
-      "inst": "Department of Electronics Engineering National Chiao Tung University Hsinchu Taiwan",
-      "A_id": [
-        "24775341200"
-      ],
-      "papers": [
-        "6294af854c7cb9455f86d0e6"
-      ],
-      "oriInst": "Department of Electronics Engineering National Chiao Tung University Hsinchu Taiwan"
-    }
-  },
-  "chengwenhuang_0": {
-    "fid": 0,
-    "keyId": 914,
-    "name": "Cheng, Wen-Huang",
-    "pre_name": "chengwenhuang",
-    "inst": "Natl Chiao Tung Univ, Inst Elect, Hsinchu, Taiwan",
-    "WOS": {
-      "inst": "Natl Chiao Tung Univ, Inst Elect, Hsinchu, Taiwan",
-      "A_id": [
-        "ss9683829"
-      ],
-      "papers": [
-        "6294af741649752aa1874711"
-      ],
-      "oriInst": "Natl Chiao Tung Univ, Inst Elect, Hsinchu, Taiwan"
-    }
-  },
-  "tanwarsudeep_1": {
-    "fid": 0,
-    "keyId": 914,
-    "name": "Tanwar, Sudeep",
-    "pre_name": "tanwarsudeep",
-    "inst": "Department of Computer Science Engineering Institute of Technology Nirma University Ahmedabad 382481 India",
-    "SCOPUS": {
-      "inst": "Department of Computer Science Engineering Institute of Technology Nirma University Ahmedabad 382481 India",
-      "A_id": [
-        "56576145100"
-      ],
-      "papers": [
-        "6294af854c7cb9455f86d0e7"
-      ],
-      "oriInst": "Department of Computer Science Engineering Institute of Technology Nirma University Ahmedabad 382481 India"
-    }
-  },
-  "tanwarsudeep_0": {
-    "fid": 0,
-    "keyId": 914,
-    "name": "Tanwar, Sudeep",
-    "pre_name": "tanwarsudeep",
-    "inst": "Nirma Univ, Inst Technol, Dept Comp Sci Engn, Ahmadabad 382481, Gujarat, India",
-    "WOS": {
-      "inst": "Nirma Univ, Inst Technol, Dept Comp Sci Engn, Ahmadabad 382481, Gujarat, India",
-      "A_id": [
-        "ss9683837"
-      ],
-      "papers": [
-        "6294af741649752aa1874714"
-      ],
-      "oriInst": "Nirma Univ, Inst Technol, Dept Comp Sci Engn, Ahmadabad 382481, Gujarat, India"
-    }
-  },
-  "parkkangryoung_1": {
+  "ayiterelif_1": {
     "fid": 0,
-    "keyId": 914,
-    "name": "Park, Kang-ryoung",
-    "pre_name": "parkkangryoung",
-    "inst": "Division of Electronics and Electrical Engineering Dongguk University Seoul 04620 South Korea",
-    "SCOPUS": {
-      "inst": "Division of Electronics and Electrical Engineering Dongguk University Seoul 04620 South Korea",
-      "A_id": [
-        "8983316300"
-      ],
-      "papers": [
-        "6294af874c7cb9455f86d150"
-      ],
-      "oriInst": "Division of Electronics and Electrical Engineering Dongguk University Seoul 04620 South Korea"
-    }
-  },
-  "parkkangryoung_0": {
-    "fid": 0,
-    "keyId": 914,
-    "name": "Park, Kang Ryoung",
-    "pre_name": "parkkangryoung",
-    "inst": "Dongguk Univ, Div Elect & Elect Engn, Seoul 04620, South Korea",
-    "WOS": {
-      "inst": "Dongguk Univ, Div Elect & Elect Engn, Seoul 04620, South Korea",
-      "A_id": [
-        "s1289666"
-      ],
-      "papers": [
-        "6294af751649752aa187477a"
-      ],
-      "oriInst": "Dongguk Univ, Div Elect & Elect Engn, Seoul 04620, South Korea"
-    }
-  },
-  "lili_1": {
-    "fid": 0,
-    "keyId": 914,
-    "name": "Li, Li",
-    "pre_name": "lili",
-    "inst": "Department of Automation BNRist Tsinghua University Beijing 100084 China",
-    "SCOPUS": {
-      "inst": "Department of Automation BNRist Tsinghua University Beijing 100084 China",
-      "A_id": [
-        "56183602800"
-      ],
-      "papers": [
-        "6294af834c7cb9455f86d053"
-      ],
-      "oriInst": "Department of Automation BNRist Tsinghua University Beijing 100084 China"
-    }
-  },
-  "lili_0": {
-    "fid": 0,
-    "keyId": 914,
-    "name": "Li, Li",
-    "pre_name": "lili",
-    "inst": "Tsinghua Univ, Dept Automat, BNRist, Beijing 100084, Peoples R China",
+    "keyId": 920,
+    "name": "Ayiter, Elif",
+    "pre_name": "ayiterelif",
+    "inst": "",
     "WOS": {
-      "inst": "Tsinghua Univ, Dept Automat, BNRist, Beijing 100084, Peoples R China",
-      "A_id": [
-        "s2161629"
-      ],
-      "papers": [
-        "6294af751649752aa1874757"
-      ],
-      "oriInst": "Tsinghua Univ, Dept Automat, BNRist, Beijing 100084, Peoples R China"
-    }
-  },
-  "merzoukirochdi_1": {
-    "fid": 0,
-    "keyId": 914,
-    "name": "Merzouki, Rochdi",
-    "pre_name": "merzoukirochdi",
-    "inst": "Laboratory Centre de Recherche en Informatique Signal et Automatique de Lille (CRIStAL) Polytech Lille University of Lille Lille 59655 France",
-    "SCOPUS": {
-      "inst": "Laboratory Centre de Recherche en Informatique Signal et Automatique de Lille (CRIStAL) Polytech Lille University of Lille Lille 59655 France",
+      "inst": "",
       "A_id": [
-        "15840190400"
+        "s7893918"
       ],
       "papers": [
-        "6294af854c7cb9455f86d0ea"
+        "629f2f449e77905b32f89142"
       ],
-      "oriInst": "Laboratory Centre de Recherche en Informatique Signal et Automatique de Lille (CRIStAL) Polytech Lille University of Lille Lille 59655 France"
+      "oriInst": ""
     }
   },
-  "merzoukirochdi_0": {
+  "ayiterelif_0": {
     "fid": 0,
-    "keyId": 914,
-    "name": "Merzouki, Rochdi",
-    "pre_name": "merzoukirochdi",
-    "inst": "Ecole Mil Polytech, Dept Mech Engn, Algiers 16111, Algeria",
+    "keyId": 920,
+    "name": "Ayiter, Elif",
+    "pre_name": "ayiterelif",
+    "inst": "Sabanci Univ, Planetary Coll CAiiA Hub, Istanbul, Turkey",
     "WOS": {
-      "inst": "Ecole Mil Polytech, Dept Mech Engn, Algiers 16111, Algeria",
-      "A_id": [
-        "s8077929"
-      ],
-      "papers": [
-        "6294af751649752aa1874753"
-      ],
-      "oriInst": "Ecole Mil Polytech, Dept Mech Engn, Algiers 16111, Algeria"
-    }
-  },
-  "huangkaibin_1": {
-    "fid": 0,
-    "keyId": 914,
-    "name": "Huang, Kaibin",
-    "pre_name": "huangkaibin",
-    "inst": "Department of Electrical and Electronic Engineering University of Hong Kong Hong Kong",
-    "SCOPUS": {
-      "inst": "Department of Electrical and Electronic Engineering University of Hong Kong Hong Kong",
+      "inst": "Sabanci Univ, Planetary Coll CAiiA Hub, Istanbul, Turkey",
       "A_id": [
-        "15834779200"
+        "ss9692550"
       ],
       "papers": [
-        "6294af874c7cb9455f86d14e"
+        "629f2f459e77905b32f89177"
       ],
-      "oriInst": "Department of Electrical and Electronic Engineering University of Hong Kong Hong Kong"
+      "oriInst": "Sabanci Univ, Planetary Coll CAiiA Hub, Istanbul, Turkey"
     }
   },
-  "huangkaibin_0": {
+  "ayiterelif_2": {
     "fid": 0,
-    "keyId": 914,
-    "name": "Huang, Kaibin",
-    "pre_name": "huangkaibin",
-    "inst": "South China Univ Technol, Sch Elect & Informat Engn, Guangzhou 510641, Peoples R China",
+    "keyId": 920,
+    "name": "Ayiter, Elif",
+    "pre_name": "ayiterelif",
+    "inst": "Sabanci Univ, Istanbul, Turkey",
     "WOS": {
-      "inst": "South China Univ Technol, Sch Elect & Informat Engn, Guangzhou 510641, Peoples R China",
-      "A_id": [
-        "ss9684119"
-      ],
-      "papers": [
-        "6294af751649752aa1874769"
-      ],
-      "oriInst": "South China Univ Technol, Sch Elect & Informat Engn, Guangzhou 510641, Peoples R China"
-    }
-  },
-  "shimdavidhyunchul_1": {
-    "fid": 0,
-    "keyId": 914,
-    "name": "Shim, David Hyunchul",
-    "pre_name": "shimdavidhyunchul",
-    "inst": "School of Electrical Engineering Korea Advanced Institute of Science and Technology Daejeon South Korea",
-    "SCOPUS": {
-      "inst": "School of Electrical Engineering Korea Advanced Institute of Science and Technology Daejeon South Korea",
+      "inst": "Sabanci Univ, Istanbul, Turkey",
       "A_id": [
-        "35231144100"
+        "s7804468"
       ],
       "papers": [
-        "6294af854c7cb9455f86d0de"
+        "629f2f449e77905b32f89111"
       ],
-      "oriInst": "School of Electrical Engineering Korea Advanced Institute of Science and Technology Daejeon South Korea"
+      "oriInst": "Sabanci Univ, Istanbul, Turkey"
     }
   },
-  "shimdavidhyunchul_0": {
+  "hamarijuho_1": {
     "fid": 0,
-    "keyId": 914,
-    "name": "Shim, David Hyunchul",
-    "pre_name": "shimdavidhyunchul",
-    "inst": "Korea Adv Inst Sci & Technol, Sch Elect Engn, KS015, Daejeon, South Korea",
+    "keyId": 920,
+    "name": "Hamari, Juho",
+    "pre_name": "hamarijuho",
+    "inst": "Tampere Univ, Fac Management & Business, Tampere, Finland",
     "WOS": {
-      "inst": "Korea Adv Inst Sci & Technol, Sch Elect Engn, KS015, Daejeon, South Korea",
-      "A_id": [
-        "s8595304"
-      ],
-      "papers": [
-        "6294af741649752aa1874713"
-      ],
-      "oriInst": "Korea Adv Inst Sci & Technol, Sch Elect Engn, KS015, Daejeon, South Korea"
-    }
-  },
-  "shirongye_1": {
-    "fid": 0,
-    "keyId": 914,
-    "name": "Shi, Rongye",
-    "pre_name": "shirongye",
-    "inst": "Department of Civil Engineering and Engineering Mechanics Columbia University United States",
-    "SCOPUS": {
-      "inst": "Department of Civil Engineering and Engineering Mechanics Columbia University United States",
+      "inst": "Tampere Univ, Fac Management & Business, Tampere, Finland",
       "A_id": [
-        "57190345282"
+        "ss9438059"
       ],
       "papers": [
-        "6294af854c7cb9455f86d0dd"
+        "629f2f449e77905b32f8916c"
       ],
-      "oriInst": "Department of Civil Engineering and Engineering Mechanics Columbia University United States"
+      "oriInst": "Tampere Univ, Fac Management & Business, Tampere, Finland"
     }
   },
-  "shirongye_0": {
+  "hamarijuho_0": {
     "fid": 0,
-    "keyId": 914,
-    "name": "Shi, Rongye",
-    "pre_name": "shirongye",
-    "inst": "Columbia Univ, Dept Civil Engn & Engn Mech, New York, NY 10027 USA",
+    "keyId": 920,
+    "name": "Hamari, Juho",
+    "pre_name": "hamarijuho",
+    "inst": "Tech Univ Berlin, Chair Informat & Commun Management, Str 17 Juni 135, D-10623 Berlin, Germany",
     "WOS": {
-      "inst": "Columbia Univ, Dept Civil Engn & Engn Mech, New York, NY 10027 USA",
-      "A_id": [
-        "s8595063"
-      ],
-      "papers": [
-        "6294af741649752aa18746f0"
-      ],
-      "oriInst": "Columbia Univ, Dept Civil Engn & Engn Mech, New York, NY 10027 USA"
-    }
-  },
-  "maynardkasia_1": {
-    "fid": 0,
-    "keyId": 914,
-    "name": "Maynard, Kasia",
-    "pre_name": "maynardkasia",
-    "inst": "WORKTECH Academy Kingston upon Thames United Kingdom Department of Urban Studies and Planning University of Sheffield Sheffield United Kingdom",
-    "SCOPUS": {
-      "inst": "WORKTECH Academy Kingston upon Thames United Kingdom Department of Urban Studies and Planning University of Sheffield Sheffield United Kingdom",
+      "inst": "Tech Univ Berlin, Chair Informat & Commun Management, Str 17 Juni 135, D-10623 Berlin, Germany",
       "A_id": [
-        "57222387128"
+        "ss9437979"
       ],
       "papers": [
-        "6294af874c7cb9455f86d14a"
+        "629f2f449e77905b32f8911d"
       ],
-      "oriInst": "WORKTECH Academy Kingston upon Thames United Kingdom Department of Urban Studies and Planning University of Sheffield Sheffield United Kingdom"
+      "oriInst": "Tech Univ Berlin, Chair Informat & Commun Management, Str 17 Juni 135, D-10623 Berlin, Germany"
     }
   },
-  "maynardkasia_0": {
+  "salojari_1": {
     "fid": 0,
-    "keyId": 914,
-    "name": "Maynard, Kasia",
-    "pre_name": "maynardkasia",
-    "inst": "WORKTECH Acad, Kingston Upon Thames, Surrey, England",
+    "keyId": 920,
+    "name": "Salo, Jari",
+    "pre_name": "salojari",
+    "inst": "Univ Helsinki, Helsinki, Finland",
     "WOS": {
-      "inst": "WORKTECH Acad, Kingston Upon Thames, Surrey, England",
-      "A_id": [
-        "ss9683984"
-      ],
-      "papers": [
-        "6294af751649752aa187473b"
-      ],
-      "oriInst": "WORKTECH Acad, Kingston Upon Thames, Surrey, England"
-    }
-  },
-  "klumppmatthias_1": {
-    "fid": 0,
-    "keyId": 914,
-    "name": "Klumpp, Matthias",
-    "pre_name": "klumppmatthias",
-    "inst": "Institute for Logistics and Service Management FOM University of Applied Sciences Essen Germany Chair for Production and Logistics Faculty of Business and Economics Georg-August-University of Göttingen Göttingen Germany Fraunhofer IML Dortmund Germany",
-    "SCOPUS": {
-      "inst": "Institute for Logistics and Service Management FOM University of Applied Sciences Essen Germany Chair for Production and Logistics Faculty of Business and Economics Georg-August-University of Göttingen Göttingen Germany Fraunhofer IML Dortmund Germany",
+      "inst": "Univ Helsinki, Helsinki, Finland",
       "A_id": [
-        "37087477300"
+        "ss9692563"
       ],
       "papers": [
-        "6294af874c7cb9455f86d149"
+        "629f2f449e77905b32f89165"
       ],
-      "oriInst": "Institute for Logistics and Service Management FOM University of Applied Sciences Essen Germany Chair for Production and Logistics Faculty of Business and Economics Georg-August-University of Göttingen Göttingen Germany Fraunhofer IML Dortmund Germany"
+      "oriInst": "Univ Helsinki, Helsinki, Finland"
     }
   },
-  "klumppmatthias_0": {
+  "salojari_0": {
     "fid": 0,
-    "keyId": 914,
-    "name": "Klumpp, Matthias",
-    "pre_name": "klumppmatthias",
-    "inst": "FOM Univ Appl Sci, Inst Logist & Serv Management, Essen, Germany",
+    "keyId": 920,
+    "name": "Salo, Jari",
+    "pre_name": "salojari",
+    "inst": "Univ Helsinki, Dept Econ & Management, Latokartanonkaari 5,POB 27, Helsinki 00014, Finland",
     "WOS": {
-      "inst": "FOM Univ Appl Sci, Inst Logist & Serv Management, Essen, Germany",
+      "inst": "Univ Helsinki, Dept Econ & Management, Latokartanonkaari 5,POB 27, Helsinki 00014, Finland",
       "A_id": [
-        "s5313960"
+        "ss9438016"
       ],
       "papers": [
-        "6294af751649752aa1874745"
+        "629f2f449e77905b32f8915c"
       ],
-      "oriInst": "FOM Univ Appl Sci, Inst Logist & Serv Management, Essen, Germany"
+      "oriInst": "Univ Helsinki, Dept Econ & Management, Latokartanonkaari 5,POB 27, Helsinki 00014, Finland"
     }
   },
-  "wangfan_1": {
+  "cameronangus_1": {
     "fid": 0,
-    "keyId": 914,
-    "name": "Wang, Fan",
-    "pre_name": "wangfan",
-    "inst": "SF Motors Inc SF Motors Inc Santa Clara California United States (e-mail: fan.wang@driveseres.com)",
+    "keyId": 920,
+    "name": "Cameron, Angus",
+    "pre_name": "cameronangus",
+    "inst": "University of Leicester School of Management University Road Leicester LE1 7RH United Kingdom",
     "SCOPUS": {
-      "inst": "SF Motors Inc SF Motors Inc Santa Clara California United States (e-mail: fan.wang@driveseres.com)",
+      "inst": "University of Leicester School of Management University Road Leicester LE1 7RH United Kingdom",
       "A_id": [
-        "57219732632"
+        "12783243400"
       ],
       "papers": [
-        "6294af864c7cb9455f86d144"
+        "629f2f36d6937c45c0f88392"
       ],
-      "oriInst": "SF Motors Inc SF Motors Inc Santa Clara California United States (e-mail: fan.wang@driveseres.com)"
+      "oriInst": "University of Leicester School of Management University Road Leicester LE1 7RH United Kingdom"
     }
   },
-  "wangfan_0": {
+  "cameronangus_0": {
     "fid": 0,
-    "keyId": 914,
-    "name": "Wang, Fan",
-    "pre_name": "wangfan",
-    "inst": "Seres Inc, Santa Clara, CA 95054 USA",
+    "keyId": 920,
+    "name": "Cameron, Angus",
+    "pre_name": "cameronangus",
+    "inst": "Univ Leicester, Sch Management, Leicester LE1 7RH, Leics, England",
     "WOS": {
-      "inst": "Seres Inc, Santa Clara, CA 95054 USA",
+      "inst": "Univ Leicester, Sch Management, Leicester LE1 7RH, Leics, England",
       "A_id": [
-        "ss9684112"
+        "s5183996"
       ],
       "papers": [
-        "6294af751649752aa1874765"
+        "629f2f449e77905b32f89131"
       ],
-      "oriInst": "Seres Inc, Santa Clara, CA 95054 USA"
+      "oriInst": "Univ Leicester, Sch Management, Leicester LE1 7RH, Leics, England"
     }
   },
-  "abdelgawadhossam_1": {
+  "castillosanzandresg_1": {
     "fid": 0,
-    "keyId": 914,
-    "name": "Abdelgawad, Hossam",
-    "pre_name": "abdelgawadhossam",
-    "inst": "Traffic and Highway Engineering Department Cairo University Cairo 12613 Egypt",
+    "keyId": 920,
+    "name": "Castillo-Sanz, Andrés G.",
+    "pre_name": "castillosanzandresg",
+    "inst": "Pontifical University of Salamanca Madrid Spain",
     "SCOPUS": {
-      "inst": "Traffic and Highway Engineering Department Cairo University Cairo 12613 Egypt",
+      "inst": "Pontifical University of Salamanca Madrid Spain",
       "A_id": [
-        "36975053100"
+        "36699211600"
       ],
       "papers": [
-        "6294af854c7cb9455f86d0d9"
+        "629f2f36d6937c45c0f8837c"
       ],
-      "oriInst": "Traffic and Highway Engineering Department Cairo University Cairo 12613 Egypt"
+      "oriInst": "Pontifical University of Salamanca Madrid Spain"
     }
   },
-  "abdelgawadhossam_0": {
+  "castillosanzandresg_0": {
     "fid": 0,
-    "keyId": 914,
-    "name": "Abdelgawad, Hossam",
-    "pre_name": "abdelgawadhossam",
-    "inst": "Cairo Univ, Traff & Highway Engn Dept, Cairo 12613, Egypt",
+    "keyId": 920,
+    "name": "Castillo Sanz, Andres G.",
+    "pre_name": "castillosanzandresg",
+    "inst": "District Univ, Bogota, Colombia",
     "WOS": {
-      "inst": "Cairo Univ, Traff & Highway Engn Dept, Cairo 12613, Egypt",
+      "inst": "District Univ, Bogota, Colombia",
       "A_id": [
-        "ss9684043"
+        "s7999772"
       ],
       "papers": [
-        "6294af751649752aa1874752"
+        "629f2f449e77905b32f8914f"
       ],
-      "oriInst": "Cairo Univ, Traff & Highway Engn Dept, Cairo 12613, Egypt"
+      "oriInst": "District Univ, Bogota, Colombia"
     }
   },
-  "mahmoodarif_1": {
+  "brengmanmalaika_1": {
     "fid": 0,
-    "keyId": 914,
-    "name": "Mahmood, Arif",
-    "pre_name": "mahmoodarif",
-    "inst": "Department of Computer Science Information Technology University Lahore Pakistan",
+    "keyId": 920,
+    "name": "Brengman, Malaika",
+    "pre_name": "brengmanmalaika",
+    "inst": "Department of Business Free University of Brussels Belgium",
     "SCOPUS": {
-      "inst": "Department of Computer Science Information Technology University Lahore Pakistan",
+      "inst": "Department of Business Free University of Brussels Belgium",
       "A_id": [
-        "55636036300"
+        "6603256071"
       ],
       "papers": [
-        "6294af844c7cb9455f86d0a3"
+        "629f2f36d6937c45c0f8839f",
+        "629f2f36d6937c45c0f8839d"
       ],
-      "oriInst": "Department of Computer Science Information Technology University Lahore Pakistan"
+      "oriInst": "Department of Business Free University of Brussels Belgium"
     }
   },
-  "mahmoodarif_0": {
+  "brengmanmalaika_0": {
     "fid": 0,
-    "keyId": 914,
-    "name": "Mahmood, Arif",
-    "pre_name": "mahmoodarif",
-    "inst": "Informat Technol Univ, Dept Comp Sci, Lahore, Pakistan",
+    "keyId": 920,
+    "name": "Brengman, Malaika",
+    "pre_name": "brengmanmalaika",
+    "inst": "Free Univ Brussels, Dept Business, B-1050 Brussels, Belgium",
     "WOS": {
-      "inst": "Informat Technol Univ, Dept Comp Sci, Lahore, Pakistan",
+      "inst": "Free Univ Brussels, Dept Business, B-1050 Brussels, Belgium",
       "A_id": [
-        "s22214"
+        "s5232827"
       ],
       "papers": [
-        "6294af741649752aa1874724"
+        "629f2f449e77905b32f89125"
       ],
-      "oriInst": "Informat Technol Univ, Dept Comp Sci, Lahore, Pakistan"
+      "oriInst": "Free Univ Brussels, Dept Business, B-1050 Brussels, Belgium"
     }
   },
-  "sunyongbin_1": {
+  "kimsangheon_1": {
     "fid": 0,
-    "keyId": 914,
-    "name": "Sun, Yongbin",
-    "pre_name": "sunyongbin",
-    "inst": "Department of Mechanical Engineering Massachusetts Institute of Technology Cambridge MA  02139 United States",
+    "keyId": 920,
+    "name": "Kim, Sangheon",
+    "pre_name": "kimsangheon",
+    "inst": "Dept. of History and Historical Content Sangmyung University 20 Hongjimun 2-gil Jongno-gu Seoul 03016 South Korea",
     "SCOPUS": {
-      "inst": "Department of Mechanical Engineering Massachusetts Institute of Technology Cambridge MA  02139 United States",
+      "inst": "Dept. of History and Historical Content Sangmyung University 20 Hongjimun 2-gil Jongno-gu Seoul 03016 South Korea",
       "A_id": [
-        "57202455124"
+        "57189071826"
       ],
       "papers": [
-        "6294af854c7cb9455f86d0d3"
+        "629f2f39d6937c45c0f883aa"
       ],
-      "oriInst": "Department of Mechanical Engineering Massachusetts Institute of Technology Cambridge MA  02139 United States"
+      "oriInst": "Dept. of History and Historical Content Sangmyung University 20 Hongjimun 2-gil Jongno-gu Seoul 03016 South Korea"
     }
   },
-  "sunyongbin_0": {
+  "kimsangheon_0": {
     "fid": 0,
-    "keyId": 914,
-    "name": "Sun, Yongbin",
-    "pre_name": "sunyongbin",
-    "inst": "MIT, Dept Mech Engn, 77 Massachusetts Ave, Cambridge, MA 02139 USA",
+    "keyId": 920,
+    "name": "Kim, Sang-Heon",
+    "pre_name": "kimsangheon",
+    "inst": "Sangmyung Univ, Dept Hist & Hist Content, 20,Hongjimun 2 Gil, Seoul 03016, South Korea",
     "WOS": {
-      "inst": "MIT, Dept Mech Engn, 77 Massachusetts Ave, Cambridge, MA 02139 USA",
+      "inst": "Sangmyung Univ, Dept Hist & Hist Content, 20,Hongjimun 2 Gil, Seoul 03016, South Korea",
       "A_id": [
-        "ss9683911"
+        "s7898245"
       ],
       "papers": [
-        "6294af741649752aa1874726"
+        "629f2f449e77905b32f89121"
       ],
-      "oriInst": "MIT, Dept Mech Engn, 77 Massachusetts Ave, Cambridge, MA 02139 USA"
+      "oriInst": "Sangmyung Univ, Dept Hist & Hist Content, 20,Hongjimun 2 Gil, Seoul 03016, South Korea"
     }
   },
-  "lijonathan_1": {
+  "nevelsteenkimjl_1": {
     "fid": 0,
-    "keyId": 914,
-    "name": "Li, Jonathan",
-    "pre_name": "lijonathan",
-    "inst": "University of Waterloo Waterloo N2L 3G1 Canada",
+    "keyId": 920,
+    "name": "Nevelsteen, Kim J.L.",
+    "pre_name": "nevelsteenkimjl",
+    "inst": "Immersive Networking Dept. of Computer and Systems Sciences Stockholm University NOD building Borgarfjordsgatan 12 Stockholm Kista  16455 Sweden",
     "SCOPUS": {
-      "inst": "University of Waterloo Waterloo N2L 3G1 Canada",
+      "inst": "Immersive Networking Dept. of Computer and Systems Sciences Stockholm University NOD building Borgarfjordsgatan 12 Stockholm Kista  16455 Sweden",
       "A_id": [
-        "57235557700"
+        "55247002400"
       ],
       "papers": [
-        "6294af844c7cb9455f86d0cd"
+        "629f2f3bd6937c45c0f883c0"
       ],
-      "oriInst": "University of Waterloo Waterloo N2L 3G1 Canada"
+      "oriInst": "Immersive Networking Dept. of Computer and Systems Sciences Stockholm University NOD building Borgarfjordsgatan 12 Stockholm Kista  16455 Sweden"
     }
   },
-  "lijonathan_0": {
+  "nevelsteenkimjl_0": {
     "fid": 0,
-    "keyId": 914,
-    "name": "Li, Jonathan",
-    "pre_name": "lijonathan",
-    "inst": "Univ Fed Mato Grosso do Sul, BR-79070900 Campo Grande, MS, Brazil",
+    "keyId": 920,
+    "name": "Nevelsteen, Kim J. L.",
+    "pre_name": "nevelsteenkimjl",
+    "inst": "Stockholm Univ, Dept Comp & Syst Sci, Immers Networking, NOD Bldg,Borgarfjordsgatan 12, S-16455 Kista, Sweden",
     "WOS": {
-      "inst": "Univ Fed Mato Grosso do Sul, BR-79070900 Campo Grande, MS, Brazil",
+      "inst": "Stockholm Univ, Dept Comp & Syst Sci, Immers Networking, NOD Bldg,Borgarfjordsgatan 12, S-16455 Kista, Sweden",
       "A_id": [
-        "ss9684135"
+        "s7867276"
       ],
       "papers": [
-        "6294af751649752aa1874770"
+        "629f2f449e77905b32f89124"
       ],
-      "oriInst": "Univ Fed Mato Grosso do Sul, BR-79070900 Campo Grande, MS, Brazil"
+      "oriInst": "Stockholm Univ, Dept Comp & Syst Sci, Immers Networking, NOD Bldg,Borgarfjordsgatan 12, S-16455 Kista, Sweden"
     }
   },
-  "paugiovanni_1": {
+  "conglingmei_1": {
     "fid": 0,
-    "keyId": 914,
-    "name": "Pau, Giovanni",
-    "pre_name": "paugiovanni",
-    "inst": "Faculty of Engineering and Architecture Kore University of Enna Enna 94100 Italy",
+    "keyId": 920,
+    "name": "Cong, Ling Mei",
+    "pre_name": "conglingmei",
+    "inst": "Graduate School of Business and Law RMIT University 379 Russell Street Melbourne VIC  3000 Australia",
     "SCOPUS": {
-      "inst": "Faculty of Engineering and Architecture Kore University of Enna Enna 94100 Italy",
+      "inst": "Graduate School of Business and Law RMIT University 379 Russell Street Melbourne VIC  3000 Australia",
       "A_id": [
-        "57201304014"
+        "55800156700"
       ],
       "papers": [
-        "6294af854c7cb9455f86d0d8"
+        "629f2f39d6937c45c0f883b8"
       ],
-      "oriInst": "Faculty of Engineering and Architecture Kore University of Enna Enna 94100 Italy"
+      "oriInst": "Graduate School of Business and Law RMIT University 379 Russell Street Melbourne VIC  3000 Australia"
     }
   },
-  "paugiovanni_0": {
+  "conglingmei_0": {
     "fid": 0,
-    "keyId": 914,
-    "name": "Pau, Giovanni",
-    "pre_name": "paugiovanni",
-    "inst": "Kore Univ Enna, Fac Engn & Architecture, I-94100 Enna, Italy",
+    "keyId": 920,
+    "name": "Cong, Ling Mei",
+    "pre_name": "conglingmei",
+    "inst": "RMIT Univ, Grad Sch Business & Law, 379 Russell St, Melbourne, Vic 3000, Australia",
     "WOS": {
-      "inst": "Kore Univ Enna, Fac Engn & Architecture, I-94100 Enna, Italy",
+      "inst": "RMIT Univ, Grad Sch Business & Law, 379 Russell St, Melbourne, Vic 3000, Australia",
       "A_id": [
-        "s5648"
+        "s4106378"
       ],
       "papers": [
-        "6294af741649752aa187472b"
+        "629f2f449e77905b32f89155"
       ],
-      "oriInst": "Kore Univ Enna, Fac Engn & Architecture, I-94100 Enna, Italy"
+      "oriInst": "RMIT Univ, Grad Sch Business & Law, 379 Russell St, Melbourne, Vic 3000, Australia"
     }
   },
-  "shifeifei_1": {
+  "dietrichnicolas_1": {
     "fid": 0,
-    "keyId": 914,
-    "name": "Shi, Feifei",
-    "pre_name": "shifeifei",
-    "inst": "School of Computer and Communication Engineering University of Science and Technology Beijing Beijing 100083 China.",
+    "keyId": 920,
+    "name": "Dietrich, Nicolas",
+    "pre_name": "dietrichnicolas",
+    "inst": "Toulouse Biotechnology Institute (TBI) Université de Toulouse CNRS INRA INSA Toulouse 31077 France",
     "SCOPUS": {
-      "inst": "School of Computer and Communication Engineering University of Science and Technology Beijing Beijing 100083 China.",
+      "inst": "Toulouse Biotechnology Institute (TBI) Université de Toulouse CNRS INRA INSA Toulouse 31077 France",
       "A_id": [
-        "57200331831"
+        "24070415100"
       ],
       "papers": [
-        "6294af864c7cb9455f86d141"
+        "629f2f3cd6937c45c0f883ed",
+        "629f2f3cd6937c45c0f883ed"
       ],
-      "oriInst": "School of Computer and Communication Engineering University of Science and Technology Beijing Beijing 100083 China."
+      "oriInst": "Toulouse Biotechnology Institute (TBI) Université de Toulouse CNRS INRA INSA Toulouse 31077 France"
     }
   },
-  "shifeifei_0": {
+  "dietrichnicolas_0": {
     "fid": 0,
-    "keyId": 914,
-    "name": "Shi, Feifei",
-    "pre_name": "shifeifei",
-    "inst": "Natl Univ Modern Languages, Dept Comp Sci, Islamabad 44000, Pakistan",
+    "keyId": 920,
+    "name": "Dietrich, Nicolas",
+    "pre_name": "dietrichnicolas",
+    "inst": "Agrupamento Escolas Joa de Deus, Faro, Portugal",
     "WOS": {
-      "inst": "Natl Univ Modern Languages, Dept Comp Sci, Islamabad 44000, Pakistan",
+      "inst": "Agrupamento Escolas Joa de Deus, Faro, Portugal",
       "A_id": [
-        "ss9683738"
+        "s8068570"
       ],
       "papers": [
-        "6294af741649752aa18746e7"
+        "629f2f449e77905b32f8916e"
       ],
-      "oriInst": "Natl Univ Modern Languages, Dept Comp Sci, Islamabad 44000, Pakistan"
+      "oriInst": "Agrupamento Escolas Joa de Deus, Faro, Portugal"
     }
   },
-  "tonellapaolo_1": {
+  "junguichun_1": {
     "fid": 0,
-    "keyId": 914,
-    "name": "Tonella, Paolo",
-    "pre_name": "tonellapaolo",
-    "inst": "Software Institute - Università della Svizzera Italiana Lugano Switzerland",
+    "keyId": 920,
+    "name": "Jun, Guichun",
+    "pre_name": "junguichun",
+    "inst": "Oxford Centre for Mission Studies Oxford United Kingdom",
     "SCOPUS": {
-      "inst": "Software Institute - Università della Svizzera Italiana Lugano Switzerland",
+      "inst": "Oxford Centre for Mission Studies Oxford United Kingdom",
       "A_id": [
-        "7003489194"
+        "57201548314"
       ],
       "papers": [
-        "6294af854c7cb9455f86d0dc",
-        "6294af864c7cb9455f86d129"
+        "629f2f3cd6937c45c0f883eb"
       ],
-      "oriInst": "Software Institute - Università della Svizzera Italiana Lugano Switzerland"
+      "oriInst": "Oxford Centre for Mission Studies Oxford United Kingdom"
     }
   },
-  "tonellapaolo_0": {
+  "junguichun_0": {
     "fid": 0,
-    "keyId": 914,
-    "name": "Tonella, Paolo",
-    "pre_name": "tonellapaolo",
-    "inst": "USI, Software Inst, Lugano, Switzerland",
+    "keyId": 920,
+    "name": "Jun, Guichun",
+    "pre_name": "junguichun",
+    "inst": "Oxford Ctr Miss Studies, Oxford, England",
     "WOS": {
-      "inst": "USI, Software Inst, Lugano, Switzerland",
+      "inst": "Oxford Ctr Miss Studies, Oxford, England",
       "A_id": [
-        "ss9683814"
+        "s7748214"
       ],
       "papers": [
-        "6294af741649752aa1874708"
+        "629f2f449e77905b32f89130"
       ],
-      "oriInst": "USI, Software Inst, Lugano, Switzerland"
+      "oriInst": "Oxford Ctr Miss Studies, Oxford, England"
     }
   },
-  "kitanohiroaki_1": {
+  "jogeunsik_1": {
     "fid": 0,
-    "keyId": 914,
-    "name": "Kitano, Hiroaki",
-    "pre_name": "kitanohiroaki",
-    "inst": "The Systems Biology Institute Tokyo Japan Okinawa Institute of Science and Technology Graduate School Okinawa Japan Sony Computer Science Laboratories Inc. Tokyo Japan Sony AI Inc. Tokyo Japan The Alan Turing Institute London United Kingdom",
+    "keyId": 920,
+    "name": "Jo, Geun-sik",
+    "pre_name": "jogeunsik",
+    "inst": "Artificial Intelligence Laboratory Department of Electrical and Computer Engineering Inha University Incheon 22212 South Korea Augmented Knowledge Corp. Inha Dream Center 100 Inha-ro Michuhol-gu Incheon 22212 South Korea",
     "SCOPUS": {
-      "inst": "The Systems Biology Institute Tokyo Japan Okinawa Institute of Science and Technology Graduate School Okinawa Japan Sony Computer Science Laboratories Inc. Tokyo Japan Sony AI Inc. Tokyo Japan The Alan Turing Institute London United Kingdom",
+      "inst": "Artificial Intelligence Laboratory Department of Electrical and Computer Engineering Inha University Incheon 22212 South Korea Augmented Knowledge Corp. Inha Dream Center 100 Inha-ro Michuhol-gu Incheon 22212 South Korea",
       "A_id": [
-        "57214731781"
+        "6701387317"
       ],
       "papers": [
-        "6294af844c7cb9455f86d093"
+        "629f2f3cd6937c45c0f883d3",
+        "629f2f3cd6937c45c0f883e4"
       ],
-      "oriInst": "The Systems Biology Institute Tokyo Japan Okinawa Institute of Science and Technology Graduate School Okinawa Japan Sony Computer Science Laboratories Inc. Tokyo Japan Sony AI Inc. Tokyo Japan The Alan Turing Institute London United Kingdom"
+      "oriInst": "Artificial Intelligence Laboratory Department of Electrical and Computer Engineering Inha University Incheon 22212 South Korea Augmented Knowledge Corp. Inha Dream Center 100 Inha-ro Michuhol-gu Incheon 22212 South Korea"
     }
   },
-  "kitanohiroaki_0": {
+  "jogeunsik_0": {
     "fid": 0,
-    "keyId": 914,
-    "name": "Kitano, Hiroaki",
-    "pre_name": "kitanohiroaki",
-    "inst": "Syst Biol Inst, Tokyo, Japan",
+    "keyId": 920,
+    "name": "Jo, Geun-Sik",
+    "pre_name": "jogeunsik",
+    "inst": "Inha Univ, Dept Elect & Comp Engn, Artificial Intelligence Lab, Incheon 22212, South Korea",
     "WOS": {
-      "inst": "Syst Biol Inst, Tokyo, Japan",
+      "inst": "Inha Univ, Dept Elect & Comp Engn, Artificial Intelligence Lab, Incheon 22212, South Korea",
       "A_id": [
-        "s5582915"
+        "s9332987"
       ],
       "papers": [
-        "6294af751649752aa187473a"
+        "629f2f449e77905b32f89128",
+        "629f2f449e77905b32f89115"
       ],
-      "oriInst": "Syst Biol Inst, Tokyo, Japan"
+      "oriInst": "Inha Univ, Dept Elect & Comp Engn, Artificial Intelligence Lab, Incheon 22212, South Korea"
     }
   },
-  "zhangjuan_1": {
+  "kimsangkyun_1": {
     "fid": 0,
-    "keyId": 914,
-    "name": "Zhang, Juan",
-    "pre_name": "zhangjuan",
-    "inst": "College of Engineering Mathematics and Physical Sciences University of Exeter Exeter EX4 4QF United Kingdom",
+    "keyId": 920,
+    "name": "Kim, Sangkyun",
+    "pre_name": "kimsangkyun",
+    "inst": "Department of Industrial Engineering Kangwon National University Chuncheon 24341 South Korea",
     "SCOPUS": {
-      "inst": "College of Engineering Mathematics and Physical Sciences University of Exeter Exeter EX4 4QF United Kingdom",
+      "inst": "Department of Industrial Engineering Kangwon National University Chuncheon 24341 South Korea",
       "A_id": [
-        "57217685849"
+        "55812910700"
       ],
       "papers": [
-        "6294af844c7cb9455f86d0ca"
+        "629f2f3cd6937c45c0f883cd",
+        "629f2f42d6937c45c0f88434",
+        "629f2f42d6937c45c0f88434"
       ],
-      "oriInst": "College of Engineering Mathematics and Physical Sciences University of Exeter Exeter EX4 4QF United Kingdom"
+      "oriInst": "Department of Industrial Engineering Kangwon National University Chuncheon 24341 South Korea"
     }
   },
-  "zhangjuan_0": {
+  "kimsangkyun_0": {
     "fid": 0,
-    "keyId": 914,
-    "name": "Zhang, Juan",
-    "pre_name": "zhangjuan",
-    "inst": "Univ Exeter, Coll Engn Math & Phys Sci, Exeter EX4 4QF, Devon, England",
+    "keyId": 920,
+    "name": "Kim, Sangkyun",
+    "pre_name": "kimsangkyun",
+    "inst": "Kangwon Natl Univ, Dept Ind Engn, Chunchon 24341, South Korea",
     "WOS": {
-      "inst": "Univ Exeter, Coll Engn Math & Phys Sci, Exeter EX4 4QF, Devon, England",
+      "inst": "Kangwon Natl Univ, Dept Ind Engn, Chunchon 24341, South Korea",
       "A_id": [
-        "s7290865"
+        "ss9437948"
       ],
       "papers": [
-        "6294af741649752aa187471e"
+        "629f2f449e77905b32f8913b",
+        "629f2f449e77905b32f890f0"
       ],
-      "oriInst": "Univ Exeter, Coll Engn Math & Phys Sci, Exeter EX4 4QF, Devon, England"
+      "oriInst": "Kangwon Natl Univ, Dept Ind Engn, Chunchon 24341, South Korea"
     }
   },
-  "alturjmanfadi_1": {
+  "whangmincheol_1": {
     "fid": 0,
-    "keyId": 914,
-    "name": "Al-Turjman, Fadi",
-    "pre_name": "alturjmanfadi",
-    "inst": "Department of Artificial Intelligence Engineering Research Centre for AI and IoT Near East University Nicosia Mersin 10 Turkey",
+    "keyId": 920,
+    "name": "Whang, Mincheol",
+    "pre_name": "whangmincheol",
+    "inst": "Department of Human Centered Artificial Intelligence Sangmyung University Jongno‐gu Seoul 03016 South Korea",
     "SCOPUS": {
-      "inst": "Department of Artificial Intelligence Engineering Research Centre for AI and IoT Near East University Nicosia Mersin 10 Turkey",
+      "inst": "Department of Human Centered Artificial Intelligence Sangmyung University Jongno‐gu Seoul 03016 South Korea",
       "A_id": [
-        "20336944100"
+        "13106072200"
       ],
       "papers": [
-        "6294af844c7cb9455f86d0ac"
+        "629f2f3cd6937c45c0f883cc"
       ],
-      "oriInst": "Department of Artificial Intelligence Engineering Research Centre for AI and IoT Near East University Nicosia Mersin 10 Turkey"
+      "oriInst": "Department of Human Centered Artificial Intelligence Sangmyung University Jongno‐gu Seoul 03016 South Korea"
     }
   },
-  "alturjmanfadi_0": {
+  "whangmincheol_0": {
     "fid": 0,
-    "keyId": 914,
-    "name": "Al-Turjman, Fadi",
-    "pre_name": "alturjmanfadi",
-    "inst": "Near East Univ, Res Ctr AI & IoT, Dept Artificial Intelligence Engn, Mersin 10, Nicosia, Turkey",
+    "keyId": 920,
+    "name": "Whang, Mincheol",
+    "pre_name": "whangmincheol",
+    "inst": "Sangmyung Univ, Dept Human Ctr Artificial Intelligence, Seoul 03016, South Korea",
     "WOS": {
-      "inst": "Near East Univ, Res Ctr AI & IoT, Dept Artificial Intelligence Engn, Mersin 10, Nicosia, Turkey",
+      "inst": "Sangmyung Univ, Dept Human Ctr Artificial Intelligence, Seoul 03016, South Korea",
       "A_id": [
-        "ss9683803"
+        "ss9438035"
       ],
       "papers": [
-        "6294af741649752aa1874702"
+        "629f2f449e77905b32f89160"
       ],
-      "oriInst": "Near East Univ, Res Ctr AI & IoT, Dept Artificial Intelligence Engn, Mersin 10, Nicosia, Turkey"
+      "oriInst": "Sangmyung Univ, Dept Human Ctr Artificial Intelligence, Seoul 03016, South Korea"
     }
   },
-  "hayoungguk_1": {
+  "caiwei_1": {
     "fid": 0,
-    "keyId": 914,
-    "name": "Ha, Youngguk",
-    "pre_name": "hayoungguk",
-    "inst": "Konkuk University Seoul South Korea",
+    "keyId": 920,
+    "name": "Cai, Wei",
+    "pre_name": "caiwei",
+    "inst": "The Chinese University of Hong Kong Shenzhen Shenzhen Institute of Artificial Intelligence and Robotics for Society Shenzhen China",
     "SCOPUS": {
-      "inst": "Konkuk University Seoul South Korea",
+      "inst": "The Chinese University of Hong Kong Shenzhen Shenzhen Institute of Artificial Intelligence and Robotics for Society Shenzhen China",
       "A_id": [
-        "23389377100"
+        "35932040500"
       ],
       "papers": [
-        "6294af834c7cb9455f86d061"
+        "629f2f3bd6937c45c0f883ca",
+        "629f2f43d6937c45c0f8847d"
       ],
-      "oriInst": "Konkuk University Seoul South Korea"
+      "oriInst": "The Chinese University of Hong Kong Shenzhen Shenzhen Institute of Artificial Intelligence and Robotics for Society Shenzhen China"
     }
   },
-  "hayoungguk_0": {
+  "caiwei_0": {
     "fid": 0,
-    "keyId": 914,
-    "name": "Ha, Young-guk",
-    "pre_name": "hayoungguk",
-    "inst": "Konkuk Univ, Seoul, South Korea",
+    "keyId": 920,
+    "name": "Cai, Wei",
+    "pre_name": "caiwei",
+    "inst": "Chinese Univ Hong Kong, Shenzhen, Peoples R China",
     "WOS": {
-      "inst": "Konkuk Univ, Seoul, South Korea",
+      "inst": "Chinese Univ Hong Kong, Shenzhen, Peoples R China",
       "A_id": [
-        "ss9466149"
+        "s9389800"
       ],
       "papers": [
-        "6294af741649752aa18746e9"
+        "629f2f449e77905b32f8914d"
       ],
-      "oriInst": "Konkuk Univ, Seoul, South Korea"
+      "oriInst": "Chinese Univ Hong Kong, Shenzhen, Peoples R China"
     }
   },
-  "zhangyao_1": {
+  "qinpeng_1": {
     "fid": 0,
-    "keyId": 914,
-    "name": "Zhang, Yao",
-    "pre_name": "zhangyao",
-    "inst": "State Key Laboratory of Integrated Services Networks Xidian University Xi'an 710071 China and also with the Research Institute of Smart Transportation Xidian University Xi'an 710071 China.",
+    "keyId": 920,
+    "name": "Qin, Peng",
+    "pre_name": "qinpeng",
+    "inst": "Faculty of Science and Technology University of Macau999078 Macau",
     "SCOPUS": {
-      "inst": "State Key Laboratory of Integrated Services Networks Xidian University Xi'an 710071 China and also with the Research Institute of Smart Transportation Xidian University Xi'an 710071 China.",
+      "inst": "Faculty of Science and Technology University of Macau999078 Macau",
       "A_id": [
-        "57194837082"
+        "57205764232"
       ],
       "papers": [
-        "6294af864c7cb9455f86d13d"
+        "629f2f3bd6937c45c0f883c8"
       ],
-      "oriInst": "State Key Laboratory of Integrated Services Networks Xidian University Xi'an 710071 China and also with the Research Institute of Smart Transportation Xidian University Xi'an 710071 China."
+      "oriInst": "Faculty of Science and Technology University of Macau999078 Macau"
     }
   },
-  "zhangyao_0": {
+  "qinpeng_0": {
     "fid": 0,
-    "keyId": 914,
-    "name": "Zhang, Yao",
-    "pre_name": "zhangyao",
-    "inst": "Xidian Univ, Sch Cyber Engn, Xian 710071, Peoples R China",
+    "keyId": 920,
+    "name": "Qin, Peng",
+    "pre_name": "qinpeng",
+    "inst": "Shantou Univ, Dept Civil & Environm Engn, Coll Engn, Shantou 515063, Peoples R China",
     "WOS": {
-      "inst": "Xidian Univ, Sch Cyber Engn, Xian 710071, Peoples R China",
+      "inst": "Shantou Univ, Dept Civil & Environm Engn, Coll Engn, Shantou 515063, Peoples R China",
       "A_id": [
-        "s1622303"
+        "ss9438001"
       ],
       "papers": [
-        "6294af741649752aa18746f1"
+        "629f2f449e77905b32f89137"
       ],
-      "oriInst": "Xidian Univ, Sch Cyber Engn, Xian 710071, Peoples R China"
+      "oriInst": "Shantou Univ, Dept Civil & Environm Engn, Coll Engn, Shantou 515063, Peoples R China"
     }
   },
-  "vasudevanramak_1": {
+  "neethirajansuresh_1": {
     "fid": 0,
-    "keyId": 914,
-    "name": "Vasudevan, Rama K.",
-    "pre_name": "vasudevanramak",
-    "inst": "Center for Nanophase Materials Sciences Oak Ridge National Laboratory Oak Ridge TN  37831 United States",
+    "keyId": 920,
+    "name": "Neethirajan, Suresh",
+    "pre_name": "neethirajansuresh",
+    "inst": "Adaptation Physiology Group Animal Sciences Department Wageningen University and Research Wageningen Netherlands",
     "SCOPUS": {
-      "inst": "Center for Nanophase Materials Sciences Oak Ridge National Laboratory Oak Ridge TN  37831 United States",
+      "inst": "Adaptation Physiology Group Animal Sciences Department Wageningen University and Research Wageningen Netherlands",
       "A_id": [
-        "57203197820"
+        "57217318680"
       ],
       "papers": [
-        "6294af844c7cb9455f86d0af"
+        "629f2f3bd6937c45c0f883c9"
       ],
-      "oriInst": "Center for Nanophase Materials Sciences Oak Ridge National Laboratory Oak Ridge TN  37831 United States"
+      "oriInst": "Adaptation Physiology Group Animal Sciences Department Wageningen University and Research Wageningen Netherlands"
     }
   },
-  "vasudevanramak_0": {
+  "neethirajansuresh_0": {
     "fid": 0,
-    "keyId": 914,
-    "name": "Vasudevan, Rama K.",
-    "pre_name": "vasudevanramak",
-    "inst": "Oak Ridge Natl Lab, Computat Sci & Engn Div, Oak Ridge, TN 37831 USA",
+    "keyId": 920,
+    "name": "Neethirajan, Suresh",
+    "pre_name": "neethirajansuresh",
+    "inst": "Wageningen Univ & Res, Anim Sci Dept, Adaptat Physiol Grp, Farmworx, Wageningen, Netherlands",
     "WOS": {
-      "inst": "Oak Ridge Natl Lab, Computat Sci & Engn Div, Oak Ridge, TN 37831 USA",
+      "inst": "Wageningen Univ & Res, Anim Sci Dept, Adaptat Physiol Grp, Farmworx, Wageningen, Netherlands",
       "A_id": [
-        "ss9683810"
+        "ss9438050"
       ],
       "papers": [
-        "6294af741649752aa1874706"
+        "629f2f449e77905b32f89167"
       ],
-      "oriInst": "Oak Ridge Natl Lab, Computat Sci & Engn Div, Oak Ridge, TN 37831 USA"
+      "oriInst": "Wageningen Univ & Res, Anim Sci Dept, Adaptat Physiol Grp, Farmworx, Wageningen, Netherlands"
     }
   },
-  "meinertedward_1": {
+  "jungjiyoung_1": {
     "fid": 0,
-    "keyId": 914,
-    "name": "Meinert, Edward",
-    "pre_name": "meinertedward",
-    "inst": "Centre for Health Technology University of Plymouth Plymouth United Kingdom Department of Primary Care and Public Health Imperial College London London United Kingdom",
+    "keyId": 920,
+    "name": "Jung, Jiyoung",
+    "pre_name": "jungjiyoung",
+    "inst": "Department of Artificial Intelligence University of Seoul Seoul 02504 South Korea",
     "SCOPUS": {
-      "inst": "Centre for Health Technology University of Plymouth Plymouth United Kingdom Department of Primary Care and Public Health Imperial College London London United Kingdom",
+      "inst": "Department of Artificial Intelligence University of Seoul Seoul 02504 South Korea",
       "A_id": [
-        "57202516550"
+        "55463928800"
       ],
       "papers": [
-        "6294af844c7cb9455f86d0c5"
+        "629f2f3bd6937c45c0f883c7"
       ],
-      "oriInst": "Centre for Health Technology University of Plymouth Plymouth United Kingdom Department of Primary Care and Public Health Imperial College London London United Kingdom"
+      "oriInst": "Department of Artificial Intelligence University of Seoul Seoul 02504 South Korea"
     }
   },
-  "meinertedward_0": {
+  "jungjiyoung_0": {
     "fid": 0,
-    "keyId": 914,
-    "name": "Meinert, Edward",
-    "pre_name": "meinertedward",
-    "inst": "Univ Oxford, Oxford, England",
+    "keyId": 920,
+    "name": "Jung, Jiyoung",
+    "pre_name": "jungjiyoung",
+    "inst": "Univ Seoul, Dept Artificial Intelligence, Seoul 02504, South Korea",
     "WOS": {
-      "inst": "Univ Oxford, Oxford, England",
+      "inst": "Univ Seoul, Dept Artificial Intelligence, Seoul 02504, South Korea",
       "A_id": [
-        "ss9684033"
+        "ss9438008"
       ],
       "papers": [
-        "6294af751649752aa187474e"
+        "629f2f449e77905b32f89141"
       ],
-      "oriInst": "Univ Oxford, Oxford, England"
+      "oriInst": "Univ Seoul, Dept Artificial Intelligence, Seoul 02504, South Korea"
     }
   },
-  "sadikmohamed_1": {
+  "suyushun_1": {
     "fid": 0,
-    "keyId": 914,
-    "name": "Sadik, Mohamed",
-    "pre_name": "sadikmohamed",
-    "inst": "Wireless@VT Blacksburg VA 24061 USA and also with the Department of Electrical and Computer Engineering Virginia Tech Blacksburg VA 24061 USA.",
+    "keyId": 920,
+    "name": "Su, Yushun",
+    "pre_name": "suyushun",
+    "inst": "College of Science and Technology Ningbo University Ningbo 315211 China",
     "SCOPUS": {
-      "inst": "Wireless@VT Blacksburg VA 24061 USA and also with the Department of Electrical and Computer Engineering Virginia Tech Blacksburg VA 24061 USA.",
+      "inst": "College of Science and Technology Ningbo University Ningbo 315211 China",
       "A_id": [
-        "35269781800"
+        "57223126781"
       ],
       "papers": [
-        "6294af864c7cb9455f86d136"
+        "629f2f43d6937c45c0f88489"
       ],
-      "oriInst": "Wireless@VT Blacksburg VA 24061 USA and also with the Department of Electrical and Computer Engineering Virginia Tech Blacksburg VA 24061 USA."
+      "oriInst": "College of Science and Technology Ningbo University Ningbo 315211 China"
     }
   },
-  "sadikmohamed_0": {
+  "suyushun_0": {
     "fid": 0,
-    "keyId": 914,
-    "name": "Sadik, Mohamed",
-    "pre_name": "sadikmohamed",
-    "inst": "Wireless VT, Blacksburg, VA 24061 USA",
+    "keyId": 920,
+    "name": "Su, Yushun",
+    "pre_name": "suyushun",
+    "inst": "Taiwan Network Informat Ctr TWNIC, Taipei 105, Taiwan",
     "WOS": {
-      "inst": "Wireless VT, Blacksburg, VA 24061 USA",
+      "inst": "Taiwan Network Informat Ctr TWNIC, Taipei 105, Taiwan",
       "A_id": [
-        "ss9684048"
+        "ss9438064"
       ],
       "papers": [
-        "6294af751649752aa1874754"
+        "629f2f459e77905b32f8916f"
       ],
-      "oriInst": "Wireless VT, Blacksburg, VA 24061 USA"
+      "oriInst": "Taiwan Network Informat Ctr TWNIC, Taipei 105, Taiwan"
     }
   },
-  "cedergerbrand_1": {
+  "salojari_2": {
     "fid": 0,
-    "keyId": 914,
-    "name": "Ceder, Gerbrand",
-    "pre_name": "cedergerbrand",
-    "inst": "Department of Materials Science and Engineering UC Berkeley Berkeley CA  94720 United States Materials Sciences Division Lawrence Berkeley National Laboratory Berkeley CA  94720 United States",
+    "keyId": 920,
+    "name": "Salo, Jari",
+    "pre_name": "salojari",
+    "inst": "Department of Economics and Management University of Helsinki Latokartanonkaari 5 P.O. Box 27 Helsinki 00014 Finland",
     "SCOPUS": {
-      "inst": "Department of Materials Science and Engineering UC Berkeley Berkeley CA  94720 United States Materials Sciences Division Lawrence Berkeley National Laboratory Berkeley CA  94720 United States",
-      "A_id": [
-        "7006338051"
-      ],
-      "papers": [
-        "6294af844c7cb9455f86d0bf"
-      ],
-      "oriInst": "Department of Materials Science and Engineering UC Berkeley Berkeley CA  94720 United States Materials Sciences Division Lawrence Berkeley National Laboratory Berkeley CA  94720 United States"
-    }
-  },
-  "cedergerbrand_0": {
-    "fid": 0,
-    "keyId": 914,
-    "name": "Ceder, Gerbrand",
-    "pre_name": "cedergerbrand",
-    "inst": "Lawrence Berkeley Natl Lab, Mat Sci Div, Berkeley, CA 94720 USA",
-    "WOS": {
-      "inst": "Lawrence Berkeley Natl Lab, Mat Sci Div, Berkeley, CA 94720 USA",
+      "inst": "Department of Economics and Management University of Helsinki Latokartanonkaari 5 P.O. Box 27 Helsinki 00014 Finland",
       "A_id": [
-        "s8208422"
+        "51562579100"
       ],
       "papers": [
-        "6294af741649752aa187470c"
+        "629f2f3cd6937c45c0f883e1",
+        "629f2f42d6937c45c0f88428"
       ],
-      "oriInst": "Lawrence Berkeley Natl Lab, Mat Sci Div, Berkeley, CA 94720 USA"
+      "oriInst": "Department of Economics and Management University of Helsinki Latokartanonkaari 5 P.O. Box 27 Helsinki 00014 Finland"
     }
   },
-  "vanderaalstwilmp_1": {
+  "kimdongsoo_1": {
     "fid": 0,
-    "keyId": 914,
-    "name": "van der Aalst, Wil M.P.",
-    "pre_name": "vanderaalstwilmp",
-    "inst": "RWTH Aachen University Fraunhofer Institut für Angewandte Informationstechnik Ahornstr. 55 Aachen D-52074 Germany",
+    "keyId": 920,
+    "name": "Kim, Dongsoo",
+    "pre_name": "kimdongsoo",
+    "inst": "Department of Industrial and Information Systems Engineering Soongsil University 369 Sangdo-ro Dongjak-gu Seoul 06978 South Korea",
     "SCOPUS": {
-      "inst": "RWTH Aachen University Fraunhofer Institut für Angewandte Informationstechnik Ahornstr. 55 Aachen D-52074 Germany",
+      "inst": "Department of Industrial and Information Systems Engineering Soongsil University 369 Sangdo-ro Dongjak-gu Seoul 06978 South Korea",
       "A_id": [
-        "7007153024"
+        "55803726900"
       ],
       "papers": [
-        "6294af864c7cb9455f86d132"
+        "629f2f43d6937c45c0f88436"
       ],
-      "oriInst": "RWTH Aachen University Fraunhofer Institut für Angewandte Informationstechnik Ahornstr. 55 Aachen D-52074 Germany"
+      "oriInst": "Department of Industrial and Information Systems Engineering Soongsil University 369 Sangdo-ro Dongjak-gu Seoul 06978 South Korea"
     }
   },
-  "vanderaalstwilmp_0": {
+  "kimdongsoo_0": {
     "fid": 0,
-    "keyId": 914,
-    "name": "van der Aalst, Wil M. P.",
-    "pre_name": "vanderaalstwilmp",
-    "inst": "Rhein Westfal TH Aachen, Fraunhofer Inst Angew Informat Tech, Ahornstr 55, D-52074 Aachen, Germany",
+    "keyId": 920,
+    "name": "Kim, Dongsoo",
+    "pre_name": "kimdongsoo",
+    "inst": "Soongsil Univ, Dept Ind & Informat Syst Engn, 369 Sangdo Ro, Seoul 06978, South Korea",
     "WOS": {
-      "inst": "Rhein Westfal TH Aachen, Fraunhofer Inst Angew Informat Tech, Ahornstr 55, D-52074 Aachen, Germany",
+      "inst": "Soongsil Univ, Dept Ind & Informat Syst Engn, 369 Sangdo Ro, Seoul 06978, South Korea",
       "A_id": [
-        "s9319832"
+        "s4374980"
       ],
       "papers": [
-        "6294af751649752aa1874767"
+        "629f2f449e77905b32f8911a"
       ],
-      "oriInst": "Rhein Westfal TH Aachen, Fraunhofer Inst Angew Informat Tech, Ahornstr 55, D-52074 Aachen, Germany"
+      "oriInst": "Soongsil Univ, Dept Ind & Informat Syst Engn, 369 Sangdo Ro, Seoul 06978, South Korea"
     }
   },
-  "dengxinwei_1": {
+  "binsonbussakorn_1": {
     "fid": 0,
-    "keyId": 914,
-    "name": "Deng, Xinwei",
-    "pre_name": "dengxinwei",
-    "inst": "Department of Statistics Virginia Tech Blacksburg VA United States",
+    "keyId": 920,
+    "name": "Binson, Bussakorn",
+    "pre_name": "binsonbussakorn",
+    "inst": "Faculty of Fine and Applied Arts Chulalongkorn University Thailand",
     "SCOPUS": {
-      "inst": "Department of Statistics Virginia Tech Blacksburg VA United States",
+      "inst": "Faculty of Fine and Applied Arts Chulalongkorn University Thailand",
       "A_id": [
-        "55548133200"
+        "6506549197"
       ],
       "papers": [
-        "6294af864c7cb9455f86d131"
+        "629f2f3cd6937c45c0f883cf"
       ],
-      "oriInst": "Department of Statistics Virginia Tech Blacksburg VA United States"
+      "oriInst": "Faculty of Fine and Applied Arts Chulalongkorn University Thailand"
     }
   },
-  "dengxinwei_0": {
+  "binsonbussakorn_0": {
     "fid": 0,
-    "keyId": 914,
-    "name": "Deng, Xinwei",
-    "pre_name": "dengxinwei",
-    "inst": "Virginia Tech, Dept Stat, Blacksburg, VA 24061 USA",
+    "keyId": 920,
+    "name": "Binson, Bussakorn",
+    "pre_name": "binsonbussakorn",
+    "inst": "Chulalongkorn Univ, Fac Fine & Appl Arts, Bangkok, Thailand",
     "WOS": {
-      "inst": "Virginia Tech, Dept Stat, Blacksburg, VA 24061 USA",
+      "inst": "Chulalongkorn Univ, Fac Fine & Appl Arts, Bangkok, Thailand",
       "A_id": [
-        "s2219324"
+        "ss9437964"
       ],
       "papers": [
-        "6294af741649752aa1874710"
+        "629f2f449e77905b32f89108"
       ],
-      "oriInst": "Virginia Tech, Dept Stat, Blacksburg, VA 24061 USA"
+      "oriInst": "Chulalongkorn Univ, Fac Fine & Appl Arts, Bangkok, Thailand"
     }
   },
-  "kimyoungseop_1": {
+  "kimyounggab_1": {
     "fid": 0,
-    "keyId": 914,
-    "name": "Kim, Youngseop",
-    "pre_name": "kimyoungseop",
-    "inst": "Electronic and Electrical Engineerin Dankook University 152 Jukjeon-ro Suji-gu Gyeonggi-do Yongin-si 16890 South Korea",
+    "keyId": 920,
+    "name": "Kim, Young-gab",
+    "pre_name": "kimyounggab",
+    "inst": "Department of Computer and Information Security Convergence Engineering for Intelligent Drone Sejong University Seoul 05006 South Korea",
     "SCOPUS": {
-      "inst": "Electronic and Electrical Engineerin Dankook University 152 Jukjeon-ro Suji-gu Gyeonggi-do Yongin-si 16890 South Korea",
+      "inst": "Department of Computer and Information Security Convergence Engineering for Intelligent Drone Sejong University Seoul 05006 South Korea",
       "A_id": [
-        "55656076200"
+        "35102430200"
       ],
       "papers": [
-        "6294af844c7cb9455f86d0ae",
-        "6294af854c7cb9455f86d103"
+        "629f2f43d6937c45c0f88488"
       ],
-      "oriInst": "Electronic and Electrical Engineerin Dankook University 152 Jukjeon-ro Suji-gu Gyeonggi-do Yongin-si 16890 South Korea"
+      "oriInst": "Department of Computer and Information Security Convergence Engineering for Intelligent Drone Sejong University Seoul 05006 South Korea"
     }
   },
-  "kimyoungseop_0": {
+  "kimyounggab_0": {
     "fid": 0,
-    "keyId": 914,
-    "name": "Kim, Youngseop",
-    "pre_name": "kimyoungseop",
-    "inst": "Dankook Univ, Elect & Elect Engn, 152 Jukjeon Ro, Yongin 16890, Gyeonggi Do, South Korea",
+    "keyId": 920,
+    "name": "Kim, Young-Gab",
+    "pre_name": "kimyounggab",
+    "inst": "Sejong Univ, Dept Comp & Informat Secur & Convergence Engn Int, Seoul 05006, South Korea",
     "WOS": {
-      "inst": "Dankook Univ, Elect & Elect Engn, 152 Jukjeon Ro, Yongin 16890, Gyeonggi Do, South Korea",
+      "inst": "Sejong Univ, Dept Comp & Informat Secur & Convergence Engn Int, Seoul 05006, South Korea",
       "A_id": [
-        "s9505552"
+        "ss9437946"
       ],
       "papers": [
-        "6294af751649752aa1874751",
-        "6294af751649752aa1874773"
+        "629f2f449e77905b32f890ed"
       ],
-      "oriInst": "Dankook Univ, Elect & Elect Engn, 152 Jukjeon Ro, Yongin 16890, Gyeonggi Do, South Korea"
+      "oriInst": "Sejong Univ, Dept Comp & Informat Secur & Convergence Engn Int, Seoul 05006, South Korea"
     }
   },
-  "zhangyanning_1": {
+  "milosavljevicaleksandar_1": {
     "fid": 0,
-    "keyId": 914,
-    "name": "Zhang, Yanning",
-    "pre_name": "zhangyanning",
-    "inst": "National Engineering Laboratory for Integrated Aero-Space-Ground-Ocean Big Data Application Technology School of Cybersecurity Northwestern Polytechnical University Xi'an 710072 China",
+    "keyId": 920,
+    "name": "Milosavljevic, Aleksandar",
+    "pre_name": "milosavljevicaleksandar",
+    "inst": "Faculty of Electronic Engineering University of Niš Aleksandra Medvedeva 14 Nis 18000 Serbia",
     "SCOPUS": {
-      "inst": "National Engineering Laboratory for Integrated Aero-Space-Ground-Ocean Big Data Application Technology School of Cybersecurity Northwestern Polytechnical University Xi'an 710072 China",
+      "inst": "Faculty of Electronic Engineering University of Niš Aleksandra Medvedeva 14 Nis 18000 Serbia",
       "A_id": [
-        "56075029000"
+        "36466748700"
       ],
       "papers": [
-        "6294af844c7cb9455f86d08a"
+        "629f2f42d6937c45c0f88435"
       ],
-      "oriInst": "National Engineering Laboratory for Integrated Aero-Space-Ground-Ocean Big Data Application Technology School of Cybersecurity Northwestern Polytechnical University Xi'an 710072 China"
+      "oriInst": "Faculty of Electronic Engineering University of Niš Aleksandra Medvedeva 14 Nis 18000 Serbia"
     }
   },
-  "zhangyanning_0": {
+  "milosavljevicaleksandar_0": {
     "fid": 0,
-    "keyId": 914,
-    "name": "Zhang, Yanning",
-    "pre_name": "zhangyanning",
-    "inst": "Xidian Univ, Sch Cyber Engn, Xian 710071, Peoples R China",
+    "keyId": 920,
+    "name": "Milosavljevic, Aleksandar",
+    "pre_name": "milosavljevicaleksandar",
+    "inst": "Univ Nis, Fac Elect Engn, Aleksandra Medvedeva 14, Nish 18000, Serbia",
     "WOS": {
-      "inst": "Xidian Univ, Sch Cyber Engn, Xian 710071, Peoples R China",
+      "inst": "Univ Nis, Fac Elect Engn, Aleksandra Medvedeva 14, Nish 18000, Serbia",
       "A_id": [
-        "ss9683801"
+        "s4310577"
       ],
       "papers": [
-        "6294af741649752aa1874701"
+        "629f2f449e77905b32f8910d"
       ],
-      "oriInst": "Xidian Univ, Sch Cyber Engn, Xian 710071, Peoples R China"
+      "oriInst": "Univ Nis, Fac Elect Engn, Aleksandra Medvedeva 14, Nish 18000, Serbia"
     }
   },
-  "dooillchul_1": {
+  "demianpeter_1": {
     "fid": 0,
-    "keyId": 914,
-    "name": "Doo, Illchul",
-    "pre_name": "dooillchul",
-    "inst": "Artificial Intelligence Education Hankuk University of Foreign Studies Yongin 17035 South Korea",
+    "keyId": 920,
+    "name": "Demian, Peter",
+    "pre_name": "demianpeter",
+    "inst": "School of Architecture Building and Civil Engineering Loughborough University Loughborough LE11 3TU United Kingdom",
     "SCOPUS": {
-      "inst": "Artificial Intelligence Education Hankuk University of Foreign Studies Yongin 17035 South Korea",
+      "inst": "School of Architecture Building and Civil Engineering Loughborough University Loughborough LE11 3TU United Kingdom",
       "A_id": [
-        "55990425500"
+        "6508180243"
       ],
       "papers": [
-        "6294af844c7cb9455f86d0aa"
+        "629f2f42d6937c45c0f88433"
       ],
-      "oriInst": "Artificial Intelligence Education Hankuk University of Foreign Studies Yongin 17035 South Korea"
+      "oriInst": "School of Architecture Building and Civil Engineering Loughborough University Loughborough LE11 3TU United Kingdom"
     }
   },
-  "dooillchul_0": {
+  "demianpeter_0": {
     "fid": 0,
-    "keyId": 914,
-    "name": "Doo, Illchul",
-    "pre_name": "dooillchul",
-    "inst": "Hankuk Univ Foreign Studies, Artificial Intelligence Educ, Yongin 17035, South Korea",
+    "keyId": 920,
+    "name": "Demian, Peter",
+    "pre_name": "demianpeter",
+    "inst": "Loughborough Univ, Sch Architecture Bldg & Civil Engn, Loughborough LE11 3TU, Leics, England",
     "WOS": {
-      "inst": "Hankuk Univ Foreign Studies, Artificial Intelligence Educ, Yongin 17035, South Korea",
+      "inst": "Loughborough Univ, Sch Architecture Bldg & Civil Engn, Loughborough LE11 3TU, Leics, England",
       "A_id": [
-        "ss9683974"
+        "s1501553"
       ],
       "papers": [
-        "6294af751649752aa1874736"
+        "629f2f449e77905b32f89143"
       ],
-      "oriInst": "Hankuk Univ Foreign Studies, Artificial Intelligence Educ, Yongin 17035, South Korea"
+      "oriInst": "Loughborough Univ, Sch Architecture Bldg & Civil Engn, Loughborough LE11 3TU, Leics, England"
     }
   },
-  "aminsaadali_1": {
+  "jungtimothy_1": {
     "fid": 0,
-    "keyId": 914,
-    "name": "Amin, Saad Ali",
-    "pre_name": "aminsaadali",
-    "inst": "College of Engineering and It University of Dubai Dubai CV1 5FB United Arab Emirates",
+    "keyId": 920,
+    "name": "Jung, Timothy",
+    "pre_name": "jungtimothy",
+    "inst": "Manchester Metropolitan University Faculty of Business and Law Department of Operations Technology Events and Hospitality Management All Saints Campus Manchester M15 6BH United Kingdom",
     "SCOPUS": {
-      "inst": "College of Engineering and It University of Dubai Dubai CV1 5FB United Arab Emirates",
+      "inst": "Manchester Metropolitan University Faculty of Business and Law Department of Operations Technology Events and Hospitality Management All Saints Campus Manchester M15 6BH United Kingdom",
       "A_id": [
-        "7201845035"
+        "55515556300"
       ],
       "papers": [
-        "6294af834c7cb9455f86d060"
+        "629f2f42d6937c45c0f88426"
       ],
-      "oriInst": "College of Engineering and It University of Dubai Dubai CV1 5FB United Arab Emirates"
+      "oriInst": "Manchester Metropolitan University Faculty of Business and Law Department of Operations Technology Events and Hospitality Management All Saints Campus Manchester M15 6BH United Kingdom"
     }
   },
-  "aminsaadali_0": {
+  "jungtimothy_0": {
     "fid": 0,
-    "keyId": 914,
-    "name": "Amin, Saad Ali",
-    "pre_name": "aminsaadali",
-    "inst": "Coventry Univ, Ctr Computat Sci & Math Modelling, Coventry CV1 5FB, W Midlands, England",
+    "keyId": 920,
+    "name": "Jung, Timothy",
+    "pre_name": "jungtimothy",
+    "inst": "Rowan Univ, Rohrer Coll Business, Dept Mkt & Business Informat Syst, 201 Mullica Hill Rd, Glassboro, NJ 08028 USA",
     "WOS": {
-      "inst": "Coventry Univ, Ctr Computat Sci & Math Modelling, Coventry CV1 5FB, W Midlands, England",
+      "inst": "Rowan Univ, Rohrer Coll Business, Dept Mkt & Business Informat Syst, 201 Mullica Hill Rd, Glassboro, NJ 08028 USA",
       "A_id": [
-        "ss9683847"
+        "ss9692527"
       ],
       "papers": [
-        "6294af741649752aa1874718"
+        "629f2f449e77905b32f89132"
       ],
-      "oriInst": "Coventry Univ, Ctr Computat Sci & Math Modelling, Coventry CV1 5FB, W Midlands, England"
+      "oriInst": "Rowan Univ, Rohrer Coll Business, Dept Mkt & Business Informat Syst, 201 Mullica Hill Rd, Glassboro, NJ 08028 USA"
     }
   },
-  "ligang_1": {
+  "ahneunyoung_1": {
     "fid": 0,
-    "keyId": 914,
-    "name": "Li, Gang",
-    "pre_name": "ligang",
-    "inst": "Centre for Cyber Security Research and Innovation Deakin University Geelong VIC  3216 Australia",
+    "keyId": 920,
+    "name": "Ahn, Eunyoung",
+    "pre_name": "ahneunyoung",
+    "inst": "Policy Research Division Korea Institute of Geoscience and Mineral Resources (KIGAM) Daejeon 34132 South Korea",
     "SCOPUS": {
-      "inst": "Centre for Cyber Security Research and Innovation Deakin University Geelong VIC  3216 Australia",
+      "inst": "Policy Research Division Korea Institute of Geoscience and Mineral Resources (KIGAM) Daejeon 34132 South Korea",
       "A_id": [
-        "56336374700"
+        "57199279239"
       ],
       "papers": [
-        "6294af844c7cb9455f86d09e"
+        "629f2f3bd6937c45c0f883c4"
       ],
-      "oriInst": "Centre for Cyber Security Research and Innovation Deakin University Geelong VIC  3216 Australia"
+      "oriInst": "Policy Research Division Korea Institute of Geoscience and Mineral Resources (KIGAM) Daejeon 34132 South Korea"
     }
   },
-  "ligang_0": {
+  "ahneunyoung_0": {
     "fid": 0,
-    "keyId": 914,
-    "name": "Li, Gang",
-    "pre_name": "ligang",
-    "inst": "Deakin Univ, Ctr Cyber Secur Res & Innovat, Geelong, Vic 3216, Australia",
+    "keyId": 920,
+    "name": "Ahn, Eun-Young",
+    "pre_name": "ahneunyoung",
+    "inst": "Korea Inst Geosci & Mineral Resources KIGAM, Policy Res Div, Daejeon 34132, South Korea",
     "WOS": {
-      "inst": "Deakin Univ, Ctr Cyber Secur Res & Innovat, Geelong, Vic 3216, Australia",
+      "inst": "Korea Inst Geosci & Mineral Resources KIGAM, Policy Res Div, Daejeon 34132, South Korea",
       "A_id": [
-        "ss9684090"
+        "s9501781"
       ],
       "papers": [
-        "6294af751649752aa187475e"
+        "629f2f449e77905b32f8914e"
       ],
-      "oriInst": "Deakin Univ, Ctr Cyber Secur Res & Innovat, Geelong, Vic 3216, Australia"
+      "oriInst": "Korea Inst Geosci & Mineral Resources KIGAM, Policy Res Div, Daejeon 34132, South Korea"
     }
   },
-  "hindsam_1": {
+  "hamarijuho_2": {
     "fid": 0,
-    "keyId": 914,
-    "name": "Hind, Sam",
-    "pre_name": "hindsam",
-    "inst": "SFB 1187 Media of Cooperation University of Siegen Siegen Germany",
+    "keyId": 920,
+    "name": "Hamari, Juho",
+    "pre_name": "hamarijuho",
+    "inst": "Faculty of Information Technology and Communication Sciences Tampere University Kalevantie 4 Tampere 33100 Finland",
     "SCOPUS": {
-      "inst": "SFB 1187 Media of Cooperation University of Siegen Siegen Germany",
-      "A_id": [
-        "57192439532"
-      ],
-      "papers": [
-        "6294af864c7cb9455f86d125"
-      ],
-      "oriInst": "SFB 1187 Media of Cooperation University of Siegen Siegen Germany"
-    }
-  },
-  "hindsam_0": {
-    "fid": 0,
-    "keyId": 914,
-    "name": "Hind, Sam",
-    "pre_name": "hindsam",
-    "inst": "Univ Siegen, SFB Media Of Cooperat 1187, Siegen, Germany",
-    "WOS": {
-      "inst": "Univ Siegen, SFB Media Of Cooperat 1187, Siegen, Germany",
+      "inst": "Faculty of Information Technology and Communication Sciences Tampere University Kalevantie 4 Tampere 33100 Finland",
       "A_id": [
-        "ss9683817"
+        "35361989600"
       ],
       "papers": [
-        "6294af741649752aa187470b"
+        "629f2f43d6937c45c0f8847f",
+        "629f2f43d6937c45c0f8846b"
       ],
-      "oriInst": "Univ Siegen, SFB Media Of Cooperat 1187, Siegen, Germany"
+      "oriInst": "Faculty of Information Technology and Communication Sciences Tampere University Kalevantie 4 Tampere 33100 Finland"
     }
   },
-  "zouweiwen_1": {
+  "salloumsaida_1": {
     "fid": 0,
-    "keyId": 914,
-    "name": "Zou, Weiwen",
-    "pre_name": "zouweiwen",
-    "inst": "State Key Laboratory of Advanced Optical Communication Systems and Networks Intelligent Microwave Lightwave Integration Innovation Center (imLic) Department of Electronic Engineering Shanghai Jiao Tong University 800 Dongchuan Road Shanghai 200240 China",
+    "keyId": 920,
+    "name": "Salloum, Said A.",
+    "pre_name": "salloumsaida",
+    "inst": "School of Science Engineering and Environment University of Salford United Kingdom",
     "SCOPUS": {
-      "inst": "State Key Laboratory of Advanced Optical Communication Systems and Networks Intelligent Microwave Lightwave Integration Innovation Center (imLic) Department of Electronic Engineering Shanghai Jiao Tong University 800 Dongchuan Road Shanghai 200240 China",
+      "inst": "School of Science Engineering and Environment University of Salford United Kingdom",
       "A_id": [
-        "15766839600"
+        "57195670894"
       ],
       "papers": [
-        "6294af844c7cb9455f86d091"
+        "629f2f43d6937c45c0f8847e",
+        "629f2f43d6937c45c0f88460"
       ],
-      "oriInst": "State Key Laboratory of Advanced Optical Communication Systems and Networks Intelligent Microwave Lightwave Integration Innovation Center (imLic) Department of Electronic Engineering Shanghai Jiao Tong University 800 Dongchuan Road Shanghai 200240 China"
+      "oriInst": "School of Science Engineering and Environment University of Salford United Kingdom"
     }
   },
-  "zouweiwen_0": {
+  "salloumsaida_0": {
     "fid": 0,
-    "keyId": 914,
-    "name": "Zou, Weiwen",
-    "pre_name": "zouweiwen",
-    "inst": "Chinese Acad Sci, Inst Semicond, Beijing 100083, Peoples R China",
+    "keyId": 920,
+    "name": "Salloum, Said A.",
+    "pre_name": "salloumsaida",
+    "inst": "Univ Salford, Sch Sci Engn & Environm, Manchester M5 4WT, Lancs, England",
     "WOS": {
-      "inst": "Chinese Acad Sci, Inst Semicond, Beijing 100083, Peoples R China",
+      "inst": "Univ Salford, Sch Sci Engn & Environm, Manchester M5 4WT, Lancs, England",
       "A_id": [
-        "ss9684158"
+        "s9111338"
       ],
       "papers": [
-        "6294af751649752aa1874779"
+        "629f2f449e77905b32f8910a"
       ],
-      "oriInst": "Chinese Acad Sci, Inst Semicond, Beijing 100083, Peoples R China"
+      "oriInst": "Univ Salford, Sch Sci Engn & Environm, Manchester M5 4WT, Lancs, England"
     }
   },
-  "bennamounmohammed_1": {
+  "ferrisefrancesco_1": {
     "fid": 0,
-    "keyId": 914,
-    "name": "Bennamoun, Mohammed",
-    "pre_name": "bennamounmohammed",
-    "inst": "Department of Computer Science and Software Engineering University of Western Australia Crawley WA Australia",
+    "keyId": 920,
+    "name": "Ferrise, Francesco",
+    "pre_name": "ferrisefrancesco",
+    "inst": "Politecnico di Milano Department of Mechanical Engineering Via Masa 1 Milan 20156 Italy",
     "SCOPUS": {
-      "inst": "Department of Computer Science and Software Engineering University of Western Australia Crawley WA Australia",
+      "inst": "Politecnico di Milano Department of Mechanical Engineering Via Masa 1 Milan 20156 Italy",
       "A_id": [
-        "7004376121"
+        "23466900300"
       ],
       "papers": [
-        "6294af844c7cb9455f86d090"
+        "629f2f42d6937c45c0f883fd"
       ],
-      "oriInst": "Department of Computer Science and Software Engineering University of Western Australia Crawley WA Australia"
+      "oriInst": "Politecnico di Milano Department of Mechanical Engineering Via Masa 1 Milan 20156 Italy"
     }
   },
-  "bennamounmohammed_0": {
+  "ferrisefrancesco_0": {
     "fid": 0,
-    "keyId": 914,
-    "name": "Bennamoun, Mohammed",
-    "pre_name": "bennamounmohammed",
-    "inst": "Univ Western Australia, Dept Comp Sci & Software Engn, Crawley, WA 6009, Australia",
+    "keyId": 920,
+    "name": "Ferrise, Francesco",
+    "pre_name": "ferrisefrancesco",
+    "inst": "Politecn Torino, Dept Management & Prod Engn, Corso Duca Abruzzi 24, I-10129 Turin, Italy",
     "WOS": {
-      "inst": "Univ Western Australia, Dept Comp Sci & Software Engn, Crawley, WA 6009, Australia",
+      "inst": "Politecn Torino, Dept Management & Prod Engn, Corso Duca Abruzzi 24, I-10129 Turin, Italy",
       "A_id": [
-        "s1046569"
+        "ss9692517"
       ],
       "papers": [
-        "6294af751649752aa187475f"
+        "629f2f449e77905b32f89129"
       ],
-      "oriInst": "Univ Western Australia, Dept Comp Sci & Software Engn, Crawley, WA 6009, Australia"
+      "oriInst": "Politecn Torino, Dept Management & Prod Engn, Corso Duca Abruzzi 24, I-10129 Turin, Italy"
     }
   },
-  "perkoroland_1": {
+  "hubin_1": {
     "fid": 0,
-    "keyId": 914,
-    "name": "Perko, Roland",
-    "pre_name": "perkoroland",
-    "inst": "JOANNEUM RESEARCH Forschungsgesellschaft mbH DIGITAL Remote Sensing and Geoinformation Graz 8010 Austria",
+    "keyId": 920,
+    "name": "Hu, Bin",
+    "pre_name": "hubin",
+    "inst": "Gansu Provincial Key Laboratory of Wearable Computing School of Information Science and Engineering Lanzhou University Gansu China",
     "SCOPUS": {
-      "inst": "JOANNEUM RESEARCH Forschungsgesellschaft mbH DIGITAL Remote Sensing and Geoinformation Graz 8010 Austria",
+      "inst": "Gansu Provincial Key Laboratory of Wearable Computing School of Information Science and Engineering Lanzhou University Gansu China",
       "A_id": [
-        "23397803500"
+        "56709128700"
       ],
       "papers": [
-        "6294af844c7cb9455f86d096"
+        "629f2f42d6937c45c0f88431"
       ],
-      "oriInst": "JOANNEUM RESEARCH Forschungsgesellschaft mbH DIGITAL Remote Sensing and Geoinformation Graz 8010 Austria"
+      "oriInst": "Gansu Provincial Key Laboratory of Wearable Computing School of Information Science and Engineering Lanzhou University Gansu China"
     }
   },
-  "perkoroland_0": {
+  "hubin_0": {
     "fid": 0,
-    "keyId": 914,
-    "name": "Perko, Roland",
-    "pre_name": "perkoroland",
-    "inst": "Infineon Technol Austria AG, A-9500 Villach, Austria",
+    "keyId": 920,
+    "name": "Hu, Bin",
+    "pre_name": "hubin",
+    "inst": "Lanzhou Univ, Sch Informat Sci & Engn, Gansu Prov Key Lab Wearable Comp, Lanzhou 730000, Gansu, Peoples R China",
     "WOS": {
-      "inst": "Infineon Technol Austria AG, A-9500 Villach, Austria",
-      "A_id": [
-        "ss9683924"
-      ],
-      "papers": [
-        "6294af741649752aa1874729"
-      ],
-      "oriInst": "Infineon Technol Austria AG, A-9500 Villach, Austria"
-    }
-  },
-  "liw_1": {
-    "fid": 0,
-    "keyId": 914,
-    "name": "Li W.",
-    "pre_name": "liw",
-    "inst": "Polar Research Institute of China Shanghai 200136 China",
-    "SCOPUS": {
-      "inst": "Polar Research Institute of China Shanghai 200136 China",
-      "A_id": [
-        "57283460000"
-      ],
-      "papers": [
-        "6294af844c7cb9455f86d094"
-      ],
-      "oriInst": "Polar Research Institute of China Shanghai 200136 China"
-    }
-  },
-  "liw_0": {
-    "fid": 0,
-    "keyId": 914,
-    "name": "Li W.",
-    "pre_name": "liw",
-    "inst": "Information Technology and Cultural Management Institute Hebei Institute of Communications Shijiazhuang 051430 China",
-    "SCOPUS": {
-      "inst": "Information Technology and Cultural Management Institute Hebei Institute of Communications Shijiazhuang 051430 China",
+      "inst": "Lanzhou Univ, Sch Informat Sci & Engn, Gansu Prov Key Lab Wearable Comp, Lanzhou 730000, Gansu, Peoples R China",
       "A_id": [
-        "57245565200"
+        "ss9437962"
       ],
       "papers": [
-        "6294af864c7cb9455f86d130"
+        "629f2f449e77905b32f89102"
       ],
-      "oriInst": "Information Technology and Cultural Management Institute Hebei Institute of Communications Shijiazhuang 051430 China"
+      "oriInst": "Lanzhou Univ, Sch Informat Sci & Engn, Gansu Prov Key Lab Wearable Comp, Lanzhou 730000, Gansu, Peoples R China"
     }
   },
-  "veggetejs_1": {
+  "kimdongho_1": {
     "fid": 0,
-    "keyId": 914,
-    "name": "Vegge, Tejs",
-    "pre_name": "veggetejs",
-    "inst": "Department of Energy Conversion and Storage Anker Engelunds Vej Building 301 Kgs Lyngby DK-2800 Denmark Alistore ERI Amiens France",
+    "keyId": 920,
+    "name": "Kim, Dongho",
+    "pre_name": "kimdongho",
+    "inst": "Department ofDigital Media Soongsil University Seoul South Korea",
     "SCOPUS": {
-      "inst": "Department of Energy Conversion and Storage Anker Engelunds Vej Building 301 Kgs Lyngby DK-2800 Denmark Alistore ERI Amiens France",
+      "inst": "Department ofDigital Media Soongsil University Seoul South Korea",
       "A_id": [
-        "7003740838"
+        "55742930400"
       ],
       "papers": [
-        "6294af864c7cb9455f86d11f"
+        "629f2f3cd6937c45c0f883db"
       ],
-      "oriInst": "Department of Energy Conversion and Storage Anker Engelunds Vej Building 301 Kgs Lyngby DK-2800 Denmark Alistore ERI Amiens France"
+      "oriInst": "Department ofDigital Media Soongsil University Seoul South Korea"
     }
   },
-  "veggetejs_0": {
+  "kimdongho_0": {
     "fid": 0,
-    "keyId": 914,
-    "name": "Vegge, Tejs",
-    "pre_name": "veggetejs",
-    "inst": "Helmholtz Inst UIm, Helmholtzstr 11, D-89081 Ulm, Germany",
+    "keyId": 920,
+    "name": "Kim, Dongho",
+    "pre_name": "kimdongho",
+    "inst": "Soongsil Univ, Dept Digital Media, Seoul, South Korea",
     "WOS": {
-      "inst": "Helmholtz Inst UIm, Helmholtzstr 11, D-89081 Ulm, Germany",
+      "inst": "Soongsil Univ, Dept Digital Media, Seoul, South Korea",
       "A_id": [
-        "ss9683937"
+        "s7920597"
       ],
       "papers": [
-        "6294af741649752aa187472c"
+        "629f2f449e77905b32f89154"
       ],
-      "oriInst": "Helmholtz Inst UIm, Helmholtzstr 11, D-89081 Ulm, Germany"
+      "oriInst": "Soongsil Univ, Dept Digital Media, Seoul, South Korea"
     }
   },
-  "reyescarlal_1": {
+  "wangyongtian_1": {
     "fid": 0,
-    "keyId": 914,
-    "name": "Reyes, Carla L.",
-    "pre_name": "reyescarlal",
-    "inst": "Southern Methodist University Dedman School of Law United States Indiana University Bloomington United States",
+    "keyId": 920,
+    "name": "Wang, Yongtian",
+    "pre_name": "wangyongtian",
+    "inst": "Beijing Engineering Research Center of Mixed Reality and Advanced Display School of Optics and Photonics Beijing Institute of Technology Beijing 100081 China",
     "SCOPUS": {
-      "inst": "Southern Methodist University Dedman School of Law United States Indiana University Bloomington United States",
+      "inst": "Beijing Engineering Research Center of Mixed Reality and Advanced Display School of Optics and Photonics Beijing Institute of Technology Beijing 100081 China",
       "A_id": [
-        "57044270900"
+        "55733996800"
       ],
       "papers": [
-        "6294af864c7cb9455f86d11e"
+        "629f2f42d6937c45c0f8842b"
       ],
-      "oriInst": "Southern Methodist University Dedman School of Law United States Indiana University Bloomington United States"
+      "oriInst": "Beijing Engineering Research Center of Mixed Reality and Advanced Display School of Optics and Photonics Beijing Institute of Technology Beijing 100081 China"
     }
   },
-  "reyescarlal_0": {
+  "wangyongtian_0": {
     "fid": 0,
-    "keyId": 914,
-    "name": "Reyes, Carla L.",
-    "pre_name": "reyescarlal",
-    "inst": "Southern Methodist Univ, Dedman Sch Law, Law, Dallas, TX 75275 USA",
+    "keyId": 920,
+    "name": "Wang, Yongtian",
+    "pre_name": "wangyongtian",
+    "inst": "Beijing Ned Ltd, Beijing 100081, Peoples R China",
     "WOS": {
-      "inst": "Southern Methodist Univ, Dedman Sch Law, Law, Dallas, TX 75275 USA",
+      "inst": "Beijing Ned Ltd, Beijing 100081, Peoples R China",
       "A_id": [
-        "ss9683947"
+        "ss9438025"
       ],
       "papers": [
-        "6294af751649752aa1874730"
+        "629f2f449e77905b32f8915d"
       ],
-      "oriInst": "Southern Methodist Univ, Dedman Sch Law, Law, Dallas, TX 75275 USA"
+      "oriInst": "Beijing Ned Ltd, Beijing 100081, Peoples R China"
     }
   },
-  "miclealiviucristian_1": {
+  "linchowsing_1": {
     "fid": 0,
-    "keyId": 914,
-    "name": "Míclea, Liviu Cristian",
-    "pre_name": "miclealiviucristian",
-    "inst": "Department of Automation Faculty of Automation and Computer Science Technical University Cluj-Napoca 28 Memorandumului Street Cluj-Napoca 400114 Romania",
+    "keyId": 920,
+    "name": "Lin, Chowsing",
+    "pre_name": "linchowsing",
+    "inst": "Department of Computer Science and Information Engineering National University of Tainan 33 sec. 2 shu-lin st. Tainan 70005 Taiwan",
     "SCOPUS": {
-      "inst": "Department of Automation Faculty of Automation and Computer Science Technical University Cluj-Napoca 28 Memorandumului Street Cluj-Napoca 400114 Romania",
+      "inst": "Department of Computer Science and Information Engineering National University of Tainan 33 sec. 2 shu-lin st. Tainan 70005 Taiwan",
       "A_id": [
-        "6508329176"
+        "8601651700"
       ],
       "papers": [
-        "6294af844c7cb9455f86d08f"
+        "629f2f42d6937c45c0f8841b"
       ],
-      "oriInst": "Department of Automation Faculty of Automation and Computer Science Technical University Cluj-Napoca 28 Memorandumului Street Cluj-Napoca 400114 Romania"
+      "oriInst": "Department of Computer Science and Information Engineering National University of Tainan 33 sec. 2 shu-lin st. Tainan 70005 Taiwan"
     }
   },
-  "miclealiviucristian_0": {
+  "linchowsing_0": {
     "fid": 0,
-    "keyId": 914,
-    "name": "Miclea, Liviu-Cristian",
-    "pre_name": "miclealiviucristian",
-    "inst": "Tech Univ Cluj Napoca, Fac Automat & Comp Sci, Dept Automat, 28 Memorandumului St, Cluj Napoca 400114, Romania",
+    "keyId": 920,
+    "name": "Lin, Chow-Sing",
+    "pre_name": "linchowsing",
+    "inst": "Natl Univ Tainan, Dept Comp Sci & Informat Engn, 33,Sec 2,Shu Lin St, Tainan 70005, Taiwan",
     "WOS": {
-      "inst": "Tech Univ Cluj Napoca, Fac Automat & Comp Sci, Dept Automat, 28 Memorandumului St, Cluj Napoca 400114, Romania",
+      "inst": "Natl Univ Tainan, Dept Comp Sci & Informat Engn, 33,Sec 2,Shu Lin St, Tainan 70005, Taiwan",
       "A_id": [
-        "ss9683946"
+        "ss9438066"
       ],
       "papers": [
-        "6294af751649752aa187472f"
+        "629f2f459e77905b32f89170"
       ],
-      "oriInst": "Tech Univ Cluj Napoca, Fac Automat & Comp Sci, Dept Automat, 28 Memorandumului St, Cluj Napoca 400114, Romania"
+      "oriInst": "Natl Univ Tainan, Dept Comp Sci & Informat Engn, 33,Sec 2,Shu Lin St, Tainan 70005, Taiwan"
     }
   },
-  "lucewu_1": {
+  "zhangxiaoshuan_1": {
     "fid": 0,
-    "keyId": 914,
-    "name": "Lu, Cewu",
-    "pre_name": "lucewu",
-    "inst": "Department of Computer Science and Engineering Shanghai Jiao Tong University Shanghai China",
+    "keyId": 920,
+    "name": "Zhang, Xiaoshuan",
+    "pre_name": "zhangxiaoshuan",
+    "inst": "Beijing Laboratory of Food Quality and Safety College of Engineering China Agricultural University Beijing 100083 China",
     "SCOPUS": {
-      "inst": "Department of Computer Science and Engineering Shanghai Jiao Tong University Shanghai China",
+      "inst": "Beijing Laboratory of Food Quality and Safety College of Engineering China Agricultural University Beijing 100083 China",
       "A_id": [
-        "23035659100"
+        "8448836000"
       ],
       "papers": [
-        "6294af834c7cb9455f86d059"
+        "629f2f42d6937c45c0f88425"
       ],
-      "oriInst": "Department of Computer Science and Engineering Shanghai Jiao Tong University Shanghai China"
+      "oriInst": "Beijing Laboratory of Food Quality and Safety College of Engineering China Agricultural University Beijing 100083 China"
     }
   },
-  "lucewu_0": {
+  "zhangxiaoshuan_0": {
     "fid": 0,
-    "keyId": 914,
-    "name": "Lu, Cewu",
-    "pre_name": "lucewu",
-    "inst": "Shanghai Jiao Tong Univ, Dept Comp Sci & Engn, Shanghai 201100, Peoples R China",
+    "keyId": 920,
+    "name": "Zhang, Xiaoshuan",
+    "pre_name": "zhangxiaoshuan",
+    "inst": "China Agr Univ, Coll Engn, Beijing Lab Food Qual & Safety, Beijing 100083, Peoples R China",
     "WOS": {
-      "inst": "Shanghai Jiao Tong Univ, Dept Comp Sci & Engn, Shanghai 201100, Peoples R China",
+      "inst": "China Agr Univ, Coll Engn, Beijing Lab Food Qual & Safety, Beijing 100083, Peoples R China",
       "A_id": [
-        "ss9684073"
+        "s3327607"
       ],
       "papers": [
-        "6294af751649752aa187475b"
+        "629f2f449e77905b32f8913c"
       ],
-      "oriInst": "Shanghai Jiao Tong Univ, Dept Comp Sci & Engn, Shanghai 201100, Peoples R China"
+      "oriInst": "China Agr Univ, Coll Engn, Beijing Lab Food Qual & Safety, Beijing 100083, Peoples R China"
     }
   },
-  "vittorinivaleria_1": {
+  "locurcioll_1": {
     "fid": 0,
-    "keyId": 914,
-    "name": "Vittorini, Valeria",
-    "pre_name": "vittorinivaleria",
-    "inst": "Department of Electrical Engineering and Information Technology University of Naples Federico II 80125 Naples Italy.",
+    "keyId": 920,
+    "name": "Locurcio L.L.",
+    "pre_name": "locurcioll",
+    "inst": "By email London United Kingdom",
     "SCOPUS": {
-      "inst": "Department of Electrical Engineering and Information Technology University of Naples Federico II 80125 Naples Italy.",
+      "inst": "By email London United Kingdom",
       "A_id": [
-        "6701381302"
+        "57472157100"
       ],
       "papers": [
-        "6294af864c7cb9455f86d116"
+        "629f2f42d6937c45c0f8842d"
       ],
-      "oriInst": "Department of Electrical Engineering and Information Technology University of Naples Federico II 80125 Naples Italy."
+      "oriInst": "By email London United Kingdom"
     }
   },
-  "vittorinivaleria_0": {
+  "locurcioll_0": {
     "fid": 0,
-    "keyId": 914,
-    "name": "Vittorini, Valeria",
-    "pre_name": "vittorinivaleria",
-    "inst": "Univ Napoli Federico II, Dept Elect Engn & Informat Technol, I-80125 Naples, Italy",
+    "keyId": 920,
+    "name": "Locurcio, L. L.",
+    "pre_name": "locurcioll",
+    "inst": "",
     "WOS": {
-      "inst": "Univ Napoli Federico II, Dept Elect Engn & Informat Technol, I-80125 Naples, Italy",
+      "inst": "",
       "A_id": [
-        "ss9683916"
+        "ss9437959"
       ],
       "papers": [
-        "6294af741649752aa1874728"
+        "629f2f449e77905b32f890fa"
       ],
-      "oriInst": "Univ Napoli Federico II, Dept Elect Engn & Informat Technol, I-80125 Naples, Italy"
+      "oriInst": ""
     }
   },
-  "yunaigong_1": {
+  "cartermarcus_1": {
     "fid": 0,
-    "keyId": 914,
-    "name": "Yu, Naigong",
-    "pre_name": "yunaigong",
-    "inst": "Faculty of Information Technology Beijing University of Technology Beijing China Beijing Key Laboratory of Computational Intelligence and Intelligent System Beijing China",
+    "keyId": 920,
+    "name": "Carter, Marcus",
+    "pre_name": "cartermarcus",
+    "inst": "University of Sydney Australia",
     "SCOPUS": {
-      "inst": "Faculty of Information Technology Beijing University of Technology Beijing China Beijing Key Laboratory of Computational Intelligence and Intelligent System Beijing China",
+      "inst": "University of Sydney Australia",
       "A_id": [
-        "8267091400"
+        "55316053700"
       ],
       "papers": [
-        "6294af864c7cb9455f86d115"
+        "629f2f3cd6937c45c0f883d9",
+        "629f2f3cd6937c45c0f883d9"
       ],
-      "oriInst": "Faculty of Information Technology Beijing University of Technology Beijing China Beijing Key Laboratory of Computational Intelligence and Intelligent System Beijing China"
+      "oriInst": "University of Sydney Australia"
     }
   },
-  "yunaigong_0": {
+  "cartermarcus_0": {
     "fid": 0,
-    "keyId": 914,
-    "name": "Yu, Naigong",
-    "pre_name": "yunaigong",
-    "inst": "Beijing Univ Technol, Fac Informat Technol, Beijing, Peoples R China",
+    "keyId": 920,
+    "name": "Carter, Marcus",
+    "pre_name": "cartermarcus",
+    "inst": "Univ Sydney, Sydney, NSW, Australia",
     "WOS": {
-      "inst": "Beijing Univ Technol, Fac Informat Technol, Beijing, Peoples R China",
+      "inst": "Univ Sydney, Sydney, NSW, Australia",
       "A_id": [
-        "s1928050"
+        "ss9437994"
       ],
       "papers": [
-        "6294af741649752aa1874720"
+        "629f2f449e77905b32f89133"
       ],
-      "oriInst": "Beijing Univ Technol, Fac Informat Technol, Beijing, Peoples R China"
+      "oriInst": "Univ Sydney, Sydney, NSW, Australia"
     }
   },
-  "yangqiang_1": {
+  "moorhousenatasha_1": {
     "fid": 0,
-    "keyId": 914,
-    "name": "Yang, Qiang",
-    "pre_name": "yangqiang",
-    "inst": "WeBank China Hong Kong University of Science and Technology Hong Kong Hong Kong",
+    "keyId": 920,
+    "name": "Moorhouse, Natasha",
+    "pre_name": "moorhousenatasha",
+    "inst": "Faculty of Business and Law Manchester Metropolitan University Righton Building Cavendish Street Manchester M15 6BG United Kingdom",
     "SCOPUS": {
-      "inst": "WeBank China Hong Kong University of Science and Technology Hong Kong Hong Kong",
+      "inst": "Faculty of Business and Law Manchester Metropolitan University Righton Building Cavendish Street Manchester M15 6BG United Kingdom",
       "A_id": [
-        "57195665626"
+        "57194014016"
       ],
       "papers": [
-        "6294af844c7cb9455f86d0b7"
+        "629f2f43d6937c45c0f88472"
       ],
-      "oriInst": "WeBank China Hong Kong University of Science and Technology Hong Kong Hong Kong"
+      "oriInst": "Faculty of Business and Law Manchester Metropolitan University Righton Building Cavendish Street Manchester M15 6BG United Kingdom"
     }
   },
-  "yangqiang_0": {
+  "moorhousenatasha_0": {
     "fid": 0,
-    "keyId": 914,
-    "name": "Yang, Qiang",
-    "pre_name": "yangqiang",
-    "inst": "China UnionPay, Shanghai, Peoples R China",
+    "keyId": 920,
+    "name": "Moorhouse, Natasha",
+    "pre_name": "moorhousenatasha",
+    "inst": "Manchester Metropolitan Univ, Fac Business & Law, Righton Bldg,Cavendish St, Manchester M15 6BG, Lancs, England",
     "WOS": {
-      "inst": "China UnionPay, Shanghai, Peoples R China",
+      "inst": "Manchester Metropolitan Univ, Fac Business & Law, Righton Bldg,Cavendish St, Manchester M15 6BG, Lancs, England",
       "A_id": [
-        "ss9684103"
+        "ss9437982"
       ],
       "papers": [
-        "6294af751649752aa1874762"
+        "629f2f449e77905b32f89120"
       ],
-      "oriInst": "China UnionPay, Shanghai, Peoples R China"
+      "oriInst": "Manchester Metropolitan Univ, Fac Business & Law, Righton Bldg,Cavendish St, Manchester M15 6BG, Lancs, England"
     }
   },
-  "antunesmiguel_1": {
+  "smithpatriann_1": {
     "fid": 0,
-    "keyId": 914,
-    "name": "Antunes, Miguel",
-    "pre_name": "antunesmiguel",
-    "inst": "Department of Electronics University of Alcalá (UAH) Madrid Spain",
+    "keyId": 920,
+    "name": "Smith, Patriann",
+    "pre_name": "smithpatriann",
+    "inst": "University of South Florida College of Education United States",
     "SCOPUS": {
-      "inst": "Department of Electronics University of Alcalá (UAH) Madrid Spain",
+      "inst": "University of South Florida College of Education United States",
       "A_id": [
-        "57220578903"
+        "56175425800"
       ],
       "papers": [
-        "6294af834c7cb9455f86d084"
+        "629f2f42d6937c45c0f88423"
       ],
-      "oriInst": "Department of Electronics University of Alcalá (UAH) Madrid Spain"
+      "oriInst": "University of South Florida College of Education United States"
     }
   },
-  "antunesmiguel_0": {
+  "smithpatriann_0": {
     "fid": 0,
-    "keyId": 914,
-    "name": "Antunes, Miguel",
-    "pre_name": "antunesmiguel",
-    "inst": "Univ Alcala UAH, Dept Elect, Madrid, Spain",
+    "keyId": 920,
+    "name": "Smith, Patriann",
+    "pre_name": "smithpatriann",
+    "inst": "Univ S Florida, Coll Educ, Tampa, FL 33620 USA",
     "WOS": {
-      "inst": "Univ Alcala UAH, Dept Elect, Madrid, Spain",
+      "inst": "Univ S Florida, Coll Educ, Tampa, FL 33620 USA",
       "A_id": [
-        "ss9683867"
+        "ss9437968"
       ],
       "papers": [
-        "6294af741649752aa1874721"
+        "629f2f449e77905b32f89114"
       ],
-      "oriInst": "Univ Alcala UAH, Dept Elect, Madrid, Spain"
+      "oriInst": "Univ S Florida, Coll Educ, Tampa, FL 33620 USA"
     }
   },
-  "huakailung_1": {
+  "harleydaniel_1": {
     "fid": 0,
-    "keyId": 914,
-    "name": "Hua, Kailung",
-    "pre_name": "huakailung",
-    "inst": "Department of Computer Science and Information Engineering National Taiwan University of Science and Technology Taipei 106 Taiwan",
+    "keyId": 920,
+    "name": "Harley, Daniel",
+    "pre_name": "harleydaniel",
+    "inst": "University of Waterloo Canada",
     "SCOPUS": {
-      "inst": "Department of Computer Science and Information Engineering National Taiwan University of Science and Technology Taipei 106 Taiwan",
+      "inst": "University of Waterloo Canada",
       "A_id": [
-        "55223901500"
+        "56536341400"
       ],
       "papers": [
-        "6294af834c7cb9455f86d082"
+        "629f2f43d6937c45c0f8846f"
       ],
-      "oriInst": "Department of Computer Science and Information Engineering National Taiwan University of Science and Technology Taipei 106 Taiwan"
+      "oriInst": "University of Waterloo Canada"
     }
   },
-  "huakailung_0": {
+  "harleydaniel_0": {
     "fid": 0,
-    "keyId": 914,
-    "name": "Hua, Kai-Lung",
-    "pre_name": "huakailung",
-    "inst": "Natl Taiwan Univ Sci & Technol, Dept Ind Management, Taipei 106, Taiwan",
+    "keyId": 920,
+    "name": "Harley, Daniel",
+    "pre_name": "harleydaniel",
+    "inst": "Univ Waterloo, Stratford Sch Interact Design & Business, 125 St Patrick St, Waterloo, ON N5A 0C1, Canada",
     "WOS": {
-      "inst": "Natl Taiwan Univ Sci & Technol, Dept Ind Management, Taipei 106, Taiwan",
+      "inst": "Univ Waterloo, Stratford Sch Interact Design & Business, 125 St Patrick St, Waterloo, ON N5A 0C1, Canada",
       "A_id": [
-        "s2775727"
+        "s9382635"
       ],
       "papers": [
-        "6294af741649752aa18746e8"
+        "629f2f449e77905b32f8913e"
       ],
-      "oriInst": "Natl Taiwan Univ Sci & Technol, Dept Ind Management, Taipei 106, Taiwan"
+      "oriInst": "Univ Waterloo, Stratford Sch Interact Design & Business, 125 St Patrick St, Waterloo, ON N5A 0C1, Canada"
     }
   },
-  "dudehui_1": {
+  "ahnseongjin_1": {
     "fid": 0,
-    "keyId": 914,
-    "name": "Du, Dehui",
-    "pre_name": "dudehui",
-    "inst": "School of Software and Engineering East China Normal University Shanghai 200062 China Shanghai Key Laboratory of Trustworthy Computing East China Normal University Shanghai 200062 China MOE International Joint Lab of Trustworthy Software East China Normal University Shanghai 200062 China",
+    "keyId": 920,
+    "name": "Ahn, Seongjin",
+    "pre_name": "ahnseongjin",
+    "inst": "Department of Computer Education Sungkyunkwan University 25-2 Sungkyunkwan-Ro Jongno-Gu Seoul 03063 South Korea",
     "SCOPUS": {
-      "inst": "School of Software and Engineering East China Normal University Shanghai 200062 China Shanghai Key Laboratory of Trustworthy Computing East China Normal University Shanghai 200062 China MOE International Joint Lab of Trustworthy Software East China Normal University Shanghai 200062 China",
+      "inst": "Department of Computer Education Sungkyunkwan University 25-2 Sungkyunkwan-Ro Jongno-Gu Seoul 03063 South Korea",
       "A_id": [
-        "14044898400"
+        "8976172600"
       ],
       "papers": [
-        "6294af844c7cb9455f86d0a8"
+        "629f2f42d6937c45c0f88422"
       ],
-      "oriInst": "School of Software and Engineering East China Normal University Shanghai 200062 China Shanghai Key Laboratory of Trustworthy Computing East China Normal University Shanghai 200062 China MOE International Joint Lab of Trustworthy Software East China Normal University Shanghai 200062 China"
+      "oriInst": "Department of Computer Education Sungkyunkwan University 25-2 Sungkyunkwan-Ro Jongno-Gu Seoul 03063 South Korea"
     }
   },
-  "dudehui_0": {
+  "ahnseongjin_0": {
     "fid": 0,
-    "keyId": 914,
-    "name": "Du, Dehui",
-    "pre_name": "dudehui",
-    "inst": "East China Normal Univ, Sch Software & Engn, Shanghai 200062, Peoples R China",
+    "keyId": 920,
+    "name": "Ahn, Seongjin",
+    "pre_name": "ahnseongjin",
+    "inst": "Sungkyunkwan Univ, Dept Comp Educ, 25-2 Sungkyunkwan Ro, Seoul 03063, South Korea",
     "WOS": {
-      "inst": "East China Normal Univ, Sch Software & Engn, Shanghai 200062, Peoples R China",
+      "inst": "Sungkyunkwan Univ, Dept Comp Educ, 25-2 Sungkyunkwan Ro, Seoul 03063, South Korea",
       "A_id": [
-        "ss9496830"
+        "ss9437947"
       ],
       "papers": [
-        "6294af741649752aa18746eb"
+        "629f2f449e77905b32f890ee"
       ],
-      "oriInst": "East China Normal Univ, Sch Software & Engn, Shanghai 200062, Peoples R China"
+      "oriInst": "Sungkyunkwan Univ, Dept Comp Educ, 25-2 Sungkyunkwan Ro, Seoul 03063, South Korea"
     }
   },
-  "chokyungeun_1": {
+  "harrisondavidk_1": {
     "fid": 0,
-    "keyId": 914,
-    "name": "Cho, Kyungeun",
-    "pre_name": "chokyungeun",
-    "inst": "Department of Multimedia Engineering Dongguk University-Seoul 30 Pildong-ro 1-gil Jung-gu Seoul 04620 South Korea",
+    "keyId": 920,
+    "name": "Harrison, David K.",
+    "pre_name": "harrisondavidk",
+    "inst": "School of Computing Engineering and Built Environment Glasgow Caledonian University Glasgow G40 BA United Kingdom",
     "SCOPUS": {
-      "inst": "Department of Multimedia Engineering Dongguk University-Seoul 30 Pildong-ro 1-gil Jung-gu Seoul 04620 South Korea",
+      "inst": "School of Computing Engineering and Built Environment Glasgow Caledonian University Glasgow G40 BA United Kingdom",
       "A_id": [
-        "14833735900"
+        "7403545546"
       ],
       "papers": [
-        "6294af834c7cb9455f86d05f"
+        "629f2f42d6937c45c0f88420"
       ],
-      "oriInst": "Department of Multimedia Engineering Dongguk University-Seoul 30 Pildong-ro 1-gil Jung-gu Seoul 04620 South Korea"
+      "oriInst": "School of Computing Engineering and Built Environment Glasgow Caledonian University Glasgow G40 BA United Kingdom"
     }
   },
-  "chokyungeun_0": {
+  "harrisondavidk_0": {
     "fid": 0,
-    "keyId": 914,
-    "name": "Cho, Kyungeun",
-    "pre_name": "chokyungeun",
-    "inst": "Dongguk Univ, Dept Multimedia Engn, 30 Pildong Ro 1 Gil, Seoul 04620, South Korea",
+    "keyId": 920,
+    "name": "Harrison, David K.",
+    "pre_name": "harrisondavidk",
+    "inst": "Univ Jordan, King Abdullah II Sch Informat Technol, Amman 11942, Jordan",
     "WOS": {
-      "inst": "Dongguk Univ, Dept Multimedia Engn, 30 Pildong Ro 1 Gil, Seoul 04620, South Korea",
+      "inst": "Univ Jordan, King Abdullah II Sch Informat Technol, Amman 11942, Jordan",
       "A_id": [
-        "ss9683884"
+        "ss9438032"
       ],
       "papers": [
-        "6294af741649752aa1874725"
+        "629f2f449e77905b32f8915e"
       ],
-      "oriInst": "Dongguk Univ, Dept Multimedia Engn, 30 Pildong Ro 1 Gil, Seoul 04620, South Korea"
+      "oriInst": "Univ Jordan, King Abdullah II Sch Informat Technol, Amman 11942, Jordan"
     }
   },
-  "leekyujin_1": {
+  "wangfeiyue_1": {
     "fid": 0,
-    "keyId": 914,
-    "name": "Lee, Kyujin",
-    "pre_name": "leekyujin",
-    "inst": "Department of Electronic Engineering Semyung University 65 Semyung-ro Chungcheongbuk-do Jecheon-si 27136 South Korea",
+    "keyId": 920,
+    "name": "Wang, Feiyue",
+    "pre_name": "wangfeiyue",
+    "inst": "State Key Laboratory for Management and Control of Complex Systems Institute of Automation Chinese Academy of Sciences Beijing China",
     "SCOPUS": {
-      "inst": "Department of Electronic Engineering Semyung University 65 Semyung-ro Chungcheongbuk-do Jecheon-si 27136 South Korea",
+      "inst": "State Key Laboratory for Management and Control of Complex Systems Institute of Automation Chinese Academy of Sciences Beijing China",
       "A_id": [
-        "13410076000"
+        "57211758869"
       ],
       "papers": [
-        "6294af834c7cb9455f86d05e"
+        "629f2f42d6937c45c0f8841e",
+        "629f2f43d6937c45c0f8845c",
+        "629f2f42d6937c45c0f883ff"
       ],
-      "oriInst": "Department of Electronic Engineering Semyung University 65 Semyung-ro Chungcheongbuk-do Jecheon-si 27136 South Korea"
+      "oriInst": "State Key Laboratory for Management and Control of Complex Systems Institute of Automation Chinese Academy of Sciences Beijing China"
     }
   },
-  "leekyujin_0": {
+  "wangfeiyue_0": {
     "fid": 0,
-    "keyId": 914,
-    "name": "Lee, Kyujin",
-    "pre_name": "leekyujin",
-    "inst": "Semyung Univ, Dept Elect Engn, 65 Semyung Ro, Jecheon Si 27136, Chungcheongbuk, South Korea",
+    "keyId": 920,
+    "name": "Wang, Fei-Yue",
+    "pre_name": "wangfeiyue",
+    "inst": "Chinese Acad Sci, Inst Automat, State Key Lab Management & Control Complex Syst, Beijing 100190, Peoples R China",
     "WOS": {
-      "inst": "Semyung Univ, Dept Elect Engn, 65 Semyung Ro, Jecheon Si 27136, Chungcheongbuk, South Korea",
+      "inst": "Chinese Acad Sci, Inst Automat, State Key Lab Management & Control Complex Syst, Beijing 100190, Peoples R China",
       "A_id": [
-        "ss9683842"
+        "s7471"
       ],
       "papers": [
-        "6294af741649752aa1874716"
+        "629f2f449e77905b32f89110"
       ],
-      "oriInst": "Semyung Univ, Dept Elect Engn, 65 Semyung Ro, Jecheon Si 27136, Chungcheongbuk, South Korea"
+      "oriInst": "Chinese Acad Sci, Inst Automat, State Key Lab Management & Control Complex Syst, Beijing 100190, Peoples R China"
     }
   },
-  "choromanskaanna_1": {
+  "leeunkon_1": {
     "fid": 0,
-    "keyId": 914,
-    "name": "Choromanska, Anna",
-    "pre_name": "choromanskaanna",
-    "inst": "Learning Systems Laboratory Department of Electrical and Computer Engineering New York University 5 MetroTech Center Brooklyn NY  11201 United States",
+    "keyId": 920,
+    "name": "Lee, Un Kon",
+    "pre_name": "leeunkon",
+    "inst": "Department of Business Administration The University of Suwon Hwaseong 18323 South Korea",
     "SCOPUS": {
-      "inst": "Learning Systems Laboratory Department of Electrical and Computer Engineering New York University 5 MetroTech Center Brooklyn NY  11201 United States",
+      "inst": "Department of Business Administration The University of Suwon Hwaseong 18323 South Korea",
       "A_id": [
-        "36022226300"
+        "55650407800"
       ],
       "papers": [
-        "6294af834c7cb9455f86d057"
+        "629f2f42d6937c45c0f88418"
       ],
-      "oriInst": "Learning Systems Laboratory Department of Electrical and Computer Engineering New York University 5 MetroTech Center Brooklyn NY  11201 United States"
+      "oriInst": "Department of Business Administration The University of Suwon Hwaseong 18323 South Korea"
     }
   },
-  "choromanskaanna_0": {
+  "leeunkon_0": {
     "fid": 0,
-    "keyId": 914,
-    "name": "Choromanska, Anna",
-    "pre_name": "choromanskaanna",
-    "inst": "NYU, Dept Elect & Comp Engn, Learning Syst Lab, 5 MetroTech Ctr, Brooklyn, NY 11201 USA",
+    "keyId": 920,
+    "name": "Lee, Un-Kon",
+    "pre_name": "leeunkon",
+    "inst": "Univ Suwon, Dept Business Adm, Hwaseong 18323, South Korea",
     "WOS": {
-      "inst": "NYU, Dept Elect & Comp Engn, Learning Syst Lab, 5 MetroTech Ctr, Brooklyn, NY 11201 USA",
+      "inst": "Univ Suwon, Dept Business Adm, Hwaseong 18323, South Korea",
       "A_id": [
-        "ss9683804"
+        "ss9438060"
       ],
       "papers": [
-        "6294af741649752aa1874703"
+        "629f2f449e77905b32f8916d"
       ],
-      "oriInst": "NYU, Dept Elect & Comp Engn, Learning Syst Lab, 5 MetroTech Ctr, Brooklyn, NY 11201 USA"
+      "oriInst": "Univ Suwon, Dept Business Adm, Hwaseong 18323, South Korea"
     }
   },
-  "peetasrinivas_1": {
+  "kookjoongjin_1": {
     "fid": 0,
-    "keyId": 914,
-    "name": "Peeta, Srinivas",
-    "pre_name": "peetasrinivas",
-    "inst": "School of Civil and Environmental Engineering Georgia Institue of Technology Atlanta GA United States",
+    "keyId": 920,
+    "name": "Kook, Joongjin",
+    "pre_name": "kookjoongjin",
+    "inst": "Department of Information Security Engineering Sangmyung University 31 Sangmyungdae-gil Dongnam-gu Chungcheongnam-do Cheonan-si 31066 South Korea",
     "SCOPUS": {
-      "inst": "School of Civil and Environmental Engineering Georgia Institue of Technology Atlanta GA United States",
+      "inst": "Department of Information Security Engineering Sangmyung University 31 Sangmyungdae-gil Dongnam-gu Chungcheongnam-do Cheonan-si 31066 South Korea",
       "A_id": [
-        "6701616998"
+        "24343821900"
       ],
       "papers": [
-        "6294af834c7cb9455f86d081"
+        "629f2f42d6937c45c0f88417"
       ],
-      "oriInst": "School of Civil and Environmental Engineering Georgia Institue of Technology Atlanta GA United States"
+      "oriInst": "Department of Information Security Engineering Sangmyung University 31 Sangmyungdae-gil Dongnam-gu Chungcheongnam-do Cheonan-si 31066 South Korea"
     }
   },
-  "peetasrinivas_0": {
+  "kookjoongjin_0": {
     "fid": 0,
-    "keyId": 914,
-    "name": "Peeta, Srinivas",
-    "pre_name": "peetasrinivas",
-    "inst": "Georgia Inst Technol, Sch Civil & Environm Engn, Atlanta, GA 30332 USA",
+    "keyId": 920,
+    "name": "Kook, Joongjin",
+    "pre_name": "kookjoongjin",
+    "inst": "Sangmyung Univ, Dept Informat Secur Engn, 31 Sangmyungdae Gil, Cheonan Si 31066, Chungcheongnam, South Korea",
     "WOS": {
-      "inst": "Georgia Inst Technol, Sch Civil & Environm Engn, Atlanta, GA 30332 USA",
+      "inst": "Sangmyung Univ, Dept Informat Secur Engn, 31 Sangmyungdae Gil, Cheonan Si 31066, Chungcheongnam, South Korea",
       "A_id": [
-        "s2089287"
+        "ss9438013"
       ],
       "papers": [
-        "6294af751649752aa187474a"
+        "629f2f449e77905b32f89149"
       ],
-      "oriInst": "Georgia Inst Technol, Sch Civil & Environm Engn, Atlanta, GA 30332 USA"
+      "oriInst": "Sangmyung Univ, Dept Informat Secur Engn, 31 Sangmyungdae Gil, Cheonan Si 31066, Chungcheongnam, South Korea"
     }
   },
-  "ozolskaspars_1": {
+  "kimjanghyun_1": {
     "fid": 0,
-    "keyId": 914,
-    "name": "Ozols, Kaspars",
-    "pre_name": "ozolskaspars",
-    "inst": "Institute of Electronics and Computer Science Dzerbenes Str.14 Riga LV-1006 Latvia",
+    "keyId": 920,
+    "name": "Kim, Jang Hyun",
+    "pre_name": "kimjanghyun",
+    "inst": "Department of Interaction Science Department of Human-Artificial Intelligence Interaction Sungkyunkwan University Seoul 03063 South Korea",
     "SCOPUS": {
-      "inst": "Institute of Electronics and Computer Science Dzerbenes Str.14 Riga LV-1006 Latvia",
+      "inst": "Department of Interaction Science Department of Human-Artificial Intelligence Interaction Sungkyunkwan University Seoul 03063 South Korea",
       "A_id": [
-        "57208987064"
+        "35334398800"
       ],
       "papers": [
-        "6294af834c7cb9455f86d05d"
+        "629f2f43d6937c45c0f88461"
       ],
-      "oriInst": "Institute of Electronics and Computer Science Dzerbenes Str.14 Riga LV-1006 Latvia"
+      "oriInst": "Department of Interaction Science Department of Human-Artificial Intelligence Interaction Sungkyunkwan University Seoul 03063 South Korea"
     }
   },
-  "ozolskaspars_0": {
+  "kimjanghyun_0": {
     "fid": 0,
-    "keyId": 914,
-    "name": "Ozols, Kaspars",
-    "pre_name": "ozolskaspars",
-    "inst": "Inst Elect & Comp Sci, Dzerbenes Str 14, LV-1006 Riga, Latvia",
+    "keyId": 920,
+    "name": "Kim, Jang Hyun",
+    "pre_name": "kimjanghyun",
+    "inst": "Sungkyunkwan Univ, Dept Human Artificial Intelligence Interact, Dept Interact Sci, Seoul 03063, South Korea",
     "WOS": {
-      "inst": "Inst Elect & Comp Sci, Dzerbenes Str 14, LV-1006 Riga, Latvia",
+      "inst": "Sungkyunkwan Univ, Dept Human Artificial Intelligence Interact, Dept Interact Sci, Seoul 03063, South Korea",
       "A_id": [
-        "ss9684096"
+        "s9301834"
       ],
       "papers": [
-        "6294af751649752aa1874760"
+        "629f2f449e77905b32f8911f"
       ],
-      "oriInst": "Inst Elect & Comp Sci, Dzerbenes Str 14, LV-1006 Riga, Latvia"
+      "oriInst": "Sungkyunkwan Univ, Dept Human Artificial Intelligence Interact, Dept Interact Sci, Seoul 03063, South Korea"
     }
   },
-  "tianzengshan_1": {
+  "kwonkihan_1": {
     "fid": 0,
-    "keyId": 914,
-    "name": "Tian, Zengshan",
-    "pre_name": "tianzengshan",
-    "inst": "School of Communication and Information Engineering Chongqing University of Posts and Telecommunications Chongqing China",
+    "keyId": 920,
+    "name": "Kwon, Ki-han",
+    "pre_name": "kwonkihan",
+    "inst": "College of General Education Kookmin University Seoul South Korea",
     "SCOPUS": {
-      "inst": "School of Communication and Information Engineering Chongqing University of Posts and Telecommunications Chongqing China",
+      "inst": "College of General Education Kookmin University Seoul South Korea",
       "A_id": [
-        "55506175400"
+        "7201503101"
       ],
       "papers": [
-        "6294af834c7cb9455f86d04c"
+        "629f2f43d6937c45c0f8845f"
       ],
-      "oriInst": "School of Communication and Information Engineering Chongqing University of Posts and Telecommunications Chongqing China"
+      "oriInst": "College of General Education Kookmin University Seoul South Korea"
     }
   },
-  "tianzengshan_0": {
+  "kwonkihan_0": {
     "fid": 0,
-    "keyId": 914,
-    "name": "Tian, Zengshan",
-    "pre_name": "tianzengshan",
-    "inst": "Chongqing Univ Posts & Telecommun, Sch Commun & Informat Engn, Chongqing, Peoples R China",
+    "keyId": 920,
+    "name": "Kwon, Ki Han",
+    "pre_name": "kwonkihan",
+    "inst": "Kookmin Univ, Coll Gen Educ, Seoul 02707, South Korea",
     "WOS": {
-      "inst": "Chongqing Univ Posts & Telecommun, Sch Commun & Informat Engn, Chongqing, Peoples R China",
+      "inst": "Kookmin Univ, Coll Gen Educ, Seoul 02707, South Korea",
       "A_id": [
-        "ss9684146"
+        "ss9692454"
       ],
       "papers": [
-        "6294af751649752aa1874775"
+        "629f2f449e77905b32f890ff"
       ],
-      "oriInst": "Chongqing Univ Posts & Telecommun, Sch Commun & Informat Engn, Chongqing, Peoples R China"
+      "oriInst": "Kookmin Univ, Coll Gen Educ, Seoul 02707, South Korea"
     }
   },
-  "yinzhaozheng_1": {
+  "sirkkunenesa_1": {
     "fid": 0,
-    "keyId": 914,
-    "name": "Yin, Zhaozheng",
-    "pre_name": "yinzhaozheng",
-    "inst": "Department of Biomedical Informatics the Department of Computer Science and the AI Institute Stony Brook University Stony Brook NY 11794 USA.",
+    "keyId": 920,
+    "name": "Sirkkunen, Esa",
+    "pre_name": "sirkkunenesa",
+    "inst": "Tampere University Faculty of Information Technology and Communication Sciences Kalevantie 4 Tampere 33100 Finland",
     "SCOPUS": {
-      "inst": "Department of Biomedical Informatics the Department of Computer Science and the AI Institute Stony Brook University Stony Brook NY 11794 USA.",
+      "inst": "Tampere University Faculty of Information Technology and Communication Sciences Kalevantie 4 Tampere 33100 Finland",
       "A_id": [
-        "36351279000"
+        "53868206300"
       ],
       "papers": [
-        "6294af834c7cb9455f86d079"
+        "629f2f43d6937c45c0f88438",
+        "629f2f43d6937c45c0f88438"
       ],
-      "oriInst": "Department of Biomedical Informatics the Department of Computer Science and the AI Institute Stony Brook University Stony Brook NY 11794 USA."
+      "oriInst": "Tampere University Faculty of Information Technology and Communication Sciences Kalevantie 4 Tampere 33100 Finland"
     }
   },
-  "yinzhaozheng_0": {
+  "sirkkunenesa_0": {
     "fid": 0,
-    "keyId": 914,
-    "name": "Yin, Zhaozheng",
-    "pre_name": "yinzhaozheng",
-    "inst": "SUNY Stony Brook, Dept Biomed Informat, Dept Comp Sci, Stony Brook, NY 11794 USA",
+    "keyId": 920,
+    "name": "Sirkkunen, Esa",
+    "pre_name": "sirkkunenesa",
+    "inst": "Tampere Univ, Fac Informat Technol & Commun Sci, Kalevantie 4, Tampere 33100, Finland",
     "WOS": {
-      "inst": "SUNY Stony Brook, Dept Biomed Informat, Dept Comp Sci, Stony Brook, NY 11794 USA",
+      "inst": "Tampere Univ, Fac Informat Technol & Commun Sci, Kalevantie 4, Tampere 33100, Finland",
       "A_id": [
-        "s8597383"
+        "ss9438052"
       ],
       "papers": [
-        "6294af751649752aa1874755"
+        "629f2f449e77905b32f89168"
       ],
-      "oriInst": "SUNY Stony Brook, Dept Biomed Informat, Dept Comp Sci, Stony Brook, NY 11794 USA"
+      "oriInst": "Tampere Univ, Fac Informat Technol & Commun Sci, Kalevantie 4, Tampere 33100, Finland"
     }
   },
-  "namhaewoon_1": {
+  "qijiayin_1": {
     "fid": 0,
-    "keyId": 914,
-    "name": "Nam, Haewoon",
-    "pre_name": "namhaewoon",
-    "inst": "Division of Electrical Engineering Hanyang University Ansan 15588 South Korea",
+    "keyId": 920,
+    "name": "Qi, Jiayin",
+    "pre_name": "qijiayin",
+    "inst": "Institute of Artificial Intelligence and Change Management Shanghai University of International Business and Economics Shanghai 201620 China",
     "SCOPUS": {
-      "inst": "Division of Electrical Engineering Hanyang University Ansan 15588 South Korea",
+      "inst": "Institute of Artificial Intelligence and Change Management Shanghai University of International Business and Economics Shanghai 201620 China",
       "A_id": [
-        "15078425500"
+        "13408299900"
       ],
       "papers": [
-        "6294af834c7cb9455f86d078"
+        "629f2f42d6937c45c0f88416"
       ],
-      "oriInst": "Division of Electrical Engineering Hanyang University Ansan 15588 South Korea"
+      "oriInst": "Institute of Artificial Intelligence and Change Management Shanghai University of International Business and Economics Shanghai 201620 China"
     }
   },
-  "namhaewoon_0": {
+  "qijiayin_0": {
     "fid": 0,
-    "keyId": 914,
-    "name": "Nam, Haewoon",
-    "pre_name": "namhaewoon",
-    "inst": "Hanyang Univ, Div Elect Engn, Ansan 15588, South Korea",
+    "keyId": 920,
+    "name": "Qi, Jia-Yin",
+    "pre_name": "qijiayin",
+    "inst": "Shanghai Univ Int Business & Econ, Sch Stat & Informat, Shanghai 201620, Peoples R China",
     "WOS": {
-      "inst": "Hanyang Univ, Div Elect Engn, Ansan 15588, South Korea",
+      "inst": "Shanghai Univ Int Business & Econ, Sch Stat & Informat, Shanghai 201620, Peoples R China",
       "A_id": [
-        "s6890627"
+        "ss9692546"
       ],
       "papers": [
-        "6294af751649752aa1874744"
+        "629f2f449e77905b32f8914a"
       ],
-      "oriInst": "Hanyang Univ, Div Elect Engn, Ansan 15588, South Korea"
+      "oriInst": "Shanghai Univ Int Business & Econ, Sch Stat & Informat, Shanghai 201620, Peoples R China"
     }
   },
-  "kimsangho_1": {
+  "qiaowen_1": {
     "fid": 0,
-    "keyId": 914,
-    "name": "Kim, Sang-ho",
-    "pre_name": "kimsangho",
-    "inst": "Department of Industrial Engineering Kumoh National Institute of Technology South Korea",
+    "keyId": 920,
+    "name": "Qiao, Wen",
+    "pre_name": "qiaowen",
+    "inst": "School of Optoelectronic Science and Engineering Collaborative Innovation Center Suzhou Nano Science and Technology Soochow University Suzhou 215006 China Key Lab of Advanced Optical Manufacturing Technologies Key Lab of Modern Optical Technologies Education Ministry of China Soochow University Suzhou 215006 China",
     "SCOPUS": {
-      "inst": "Department of Industrial Engineering Kumoh National Institute of Technology South Korea",
+      "inst": "School of Optoelectronic Science and Engineering Collaborative Innovation Center Suzhou Nano Science and Technology Soochow University Suzhou 215006 China Key Lab of Advanced Optical Manufacturing Technologies Key Lab of Modern Optical Technologies Education Ministry of China Soochow University Suzhou 215006 China",
       "A_id": [
-        "57189310155"
+        "22958589200"
       ],
       "papers": [
-        "6294af834c7cb9455f86d075"
+        "629f2f42d6937c45c0f88400"
       ],
-      "oriInst": "Department of Industrial Engineering Kumoh National Institute of Technology South Korea"
+      "oriInst": "School of Optoelectronic Science and Engineering Collaborative Innovation Center Suzhou Nano Science and Technology Soochow University Suzhou 215006 China Key Lab of Advanced Optical Manufacturing Technologies Key Lab of Modern Optical Technologies Education Ministry of China Soochow University Suzhou 215006 China"
     }
   },
-  "kimsangho_0": {
+  "qiaowen_0": {
     "fid": 0,
-    "keyId": 914,
-    "name": "Kim, Sang-Ho",
-    "pre_name": "kimsangho",
-    "inst": "Kumoh Natl Inst Technol, Dept Ind Engn, 61 Daehak Ro, Gumi 39177, Gyeongbuk, South Korea",
+    "keyId": 920,
+    "name": "Qiao, Wen",
+    "pre_name": "qiaowen",
+    "inst": "SVG Optron Co Ltd, Suzhou 215026, Peoples R China",
     "WOS": {
-      "inst": "Kumoh Natl Inst Technol, Dept Ind Engn, 61 Daehak Ro, Gumi 39177, Gyeongbuk, South Korea",
+      "inst": "SVG Optron Co Ltd, Suzhou 215026, Peoples R China",
       "A_id": [
-        "ss9683844"
+        "ss9463213"
       ],
       "papers": [
-        "6294af741649752aa1874717"
+        "629f2f449e77905b32f8913f"
       ],
-      "oriInst": "Kumoh Natl Inst Technol, Dept Ind Engn, 61 Daehak Ro, Gumi 39177, Gyeongbuk, South Korea"
+      "oriInst": "SVG Optron Co Ltd, Suzhou 215026, Peoples R China"
     }
   },
-  "lihao_1": {
+  "lambertilucio_1": {
     "fid": 0,
-    "keyId": 914,
-    "name": "Li, Hao",
-    "pre_name": "lihao",
-    "inst": "Science and Technology on Communication Networks Laboratory Shijiazhuang 050081 China",
+    "keyId": 920,
+    "name": "Lamberti, Lucio",
+    "pre_name": "lambertilucio",
+    "inst": "Department of Management Economics and Industrial Engineering Politecnico di Milano Via Lambruschini 4/B Milan Italy",
     "SCOPUS": {
-      "inst": "Science and Technology on Communication Networks Laboratory Shijiazhuang 050081 China",
+      "inst": "Department of Management Economics and Industrial Engineering Politecnico di Milano Via Lambruschini 4/B Milan Italy",
       "A_id": [
-        "57191614101"
+        "24733700300"
       ],
       "papers": [
-        "6294af834c7cb9455f86d055"
+        "629f2f43d6937c45c0f88454"
       ],
-      "oriInst": "Science and Technology on Communication Networks Laboratory Shijiazhuang 050081 China"
+      "oriInst": "Department of Management Economics and Industrial Engineering Politecnico di Milano Via Lambruschini 4/B Milan Italy"
     }
   },
-  "lihao_0": {
+  "lambertilucio_0": {
     "fid": 0,
-    "keyId": 914,
-    "name": "Li, Hao",
-    "pre_name": "lihao",
-    "inst": "Sci & Technol Commun Networks Lab, Shijiazhuang 050081, Hebei, Peoples R China",
+    "keyId": 920,
+    "name": "Lamberti, Lucio",
+    "pre_name": "lambertilucio",
+    "inst": "Politecn Milan, Dept Management Econ & Ind Engn, Via Lambruschini 4-B, I-20156 Milan, Italy",
     "WOS": {
-      "inst": "Sci & Technol Commun Networks Lab, Shijiazhuang 050081, Hebei, Peoples R China",
+      "inst": "Politecn Milan, Dept Management Econ & Ind Engn, Via Lambruschini 4-B, I-20156 Milan, Italy",
       "A_id": [
-        "ss9538388"
+        "ss9692549"
       ],
       "papers": [
-        "6294af751649752aa1874766"
+        "629f2f449e77905b32f8915a"
       ],
-      "oriInst": "Sci & Technol Commun Networks Lab, Shijiazhuang 050081, Hebei, Peoples R China"
+      "oriInst": "Politecn Milan, Dept Management Econ & Ind Engn, Via Lambruschini 4-B, I-20156 Milan, Italy"
     }
   },
-  "meekerwilliamq_1": {
+  "taoguangming_1": {
     "fid": 0,
-    "keyId": 914,
-    "name": "Meeker, William Q.",
-    "pre_name": "meekerwilliamq",
-    "inst": "Department of Statistics Iowa State University Ames IA United States",
+    "keyId": 920,
+    "name": "Tao, Guangming",
+    "pre_name": "taoguangming",
+    "inst": "Wuhan National Laboratory for Optoelectronics and Optics Valley Laboratory Sport and Health Initiative Huazhong University of Science and Technology Wuhan 430074 China State Key Laboratory of Material Processing and Die & Mould Technology School of Materials Science and Engineering Huazhong University of Science and Technology Wuhan 430074 China",
     "SCOPUS": {
-      "inst": "Department of Statistics Iowa State University Ames IA United States",
+      "inst": "Wuhan National Laboratory for Optoelectronics and Optics Valley Laboratory Sport and Health Initiative Huazhong University of Science and Technology Wuhan 430074 China State Key Laboratory of Material Processing and Die & Mould Technology School of Materials Science and Engineering Huazhong University of Science and Technology Wuhan 430074 China",
       "A_id": [
-        "7006982489"
+        "54405062600"
       ],
       "papers": [
-        "6294af834c7cb9455f86d06d"
+        "629f2f42d6937c45c0f88413"
       ],
-      "oriInst": "Department of Statistics Iowa State University Ames IA United States"
+      "oriInst": "Wuhan National Laboratory for Optoelectronics and Optics Valley Laboratory Sport and Health Initiative Huazhong University of Science and Technology Wuhan 430074 China State Key Laboratory of Material Processing and Die & Mould Technology School of Materials Science and Engineering Huazhong University of Science and Technology Wuhan 430074 China"
     }
   },
-  "meekerwilliamq_0": {
+  "taoguangming_0": {
     "fid": 0,
-    "keyId": 914,
-    "name": "Meeker, William Q.",
-    "pre_name": "meekerwilliamq",
-    "inst": "Iowa State Univ, Dept Stat, Ames, IA USA",
+    "keyId": 920,
+    "name": "Tao, Guangming",
+    "pre_name": "taoguangming",
+    "inst": "Hlth Commiss Hubei Prov, Wuhan 430079, Peoples R China",
     "WOS": {
-      "inst": "Iowa State Univ, Dept Stat, Ames, IA USA",
+      "inst": "Hlth Commiss Hubei Prov, Wuhan 430079, Peoples R China",
       "A_id": [
-        "s2590082"
+        "ss9692590"
       ],
       "papers": [
-        "6294af741649752aa1874705"
+        "629f2f459e77905b32f89174"
       ],
-      "oriInst": "Iowa State Univ, Dept Stat, Ames, IA USA"
+      "oriInst": "Hlth Commiss Hubei Prov, Wuhan 430079, Peoples R China"
     }
   },
-  "zeleznikowjohn_1": {
+  "wiechertkarsten_1": {
     "fid": 0,
-    "keyId": 914,
-    "name": "Zeleznikow, John",
-    "pre_name": "zeleznikowjohn",
-    "inst": "La Trobe University Melbourne Australia",
+    "keyId": 920,
+    "name": "Wiechert, Karsten",
+    "pre_name": "wiechertkarsten",
+    "inst": "Schön Klinik München Harlaching Munich Germany",
     "SCOPUS": {
-      "inst": "La Trobe University Melbourne Australia",
+      "inst": "Schön Klinik München Harlaching Munich Germany",
       "A_id": [
-        "6701828144"
+        "57194575548"
       ],
       "papers": [
-        "6294af834c7cb9455f86d06a"
+        "629f2f42d6937c45c0f88405"
       ],
-      "oriInst": "La Trobe University Melbourne Australia"
+      "oriInst": "Schön Klinik München Harlaching Munich Germany"
     }
   },
-  "zeleznikowjohn_0": {
+  "wiechertkarsten_0": {
     "fid": 0,
-    "keyId": 914,
-    "name": "Zeleznikow, John",
-    "pre_name": "zeleznikowjohn",
-    "inst": "La Trobe Univ, Melbourne, Vic, Australia",
+    "keyId": 920,
+    "name": "Wiechert, Karsten",
+    "pre_name": "wiechertkarsten",
+    "inst": "Schon Klin Munchen Harlaching, Munich, Germany",
     "WOS": {
-      "inst": "La Trobe Univ, Melbourne, Vic, Australia",
+      "inst": "Schon Klin Munchen Harlaching, Munich, Germany",
       "A_id": [
-        "ss9683833"
+        "ss9692501"
       ],
       "papers": [
-        "6294af741649752aa1874712"
+        "629f2f449e77905b32f8910c"
       ],
-      "oriInst": "La Trobe Univ, Melbourne, Vic, Australia"
+      "oriInst": "Schon Klin Munchen Harlaching, Munich, Germany"
     }
   },
-  "qureshimuhammadaasim_1": {
+  "barbareschigiulia_1": {
     "fid": 0,
-    "keyId": 914,
-    "name": "Qureshi, Muhammad Aasim",
-    "pre_name": "qureshimuhammadaasim",
-    "inst": "Department Of Computer Sciences Bahria University Lahore Campus Lahore 54000 Pakistan",
+    "keyId": 920,
+    "name": "Barbareschi, Giulia",
+    "pre_name": "barbareschigiulia",
+    "inst": "Global Disability Innovation Hub UCL London United Kingdom Keio Graduate School of Media Design Keio University Tokyo Japan",
     "SCOPUS": {
-      "inst": "Department Of Computer Sciences Bahria University Lahore Campus Lahore 54000 Pakistan",
+      "inst": "Global Disability Innovation Hub UCL London United Kingdom Keio Graduate School of Media Design Keio University Tokyo Japan",
       "A_id": [
-        "36053793400"
+        "57038765200"
       ],
       "papers": [
-        "6294af834c7cb9455f86d069"
+        "629f2f43d6937c45c0f88443",
+        "629f2f43d6937c45c0f88443"
       ],
-      "oriInst": "Department Of Computer Sciences Bahria University Lahore Campus Lahore 54000 Pakistan"
+      "oriInst": "Global Disability Innovation Hub UCL London United Kingdom Keio Graduate School of Media Design Keio University Tokyo Japan"
     }
   },
-  "qureshimuhammadaasim_0": {
+  "barbareschigiulia_0": {
     "fid": 0,
-    "keyId": 914,
-    "name": "Qureshi, Muhammad Aasim",
-    "pre_name": "qureshimuhammadaasim",
-    "inst": "Bahria Univ, Dept Comp Sci, Lahore Campus, Lahore 54000, Pakistan",
+    "keyId": 920,
+    "name": "Barbareschi, Giulia",
+    "pre_name": "barbareschigiulia",
+    "inst": "UCL, Global Disabil Innovat Hub, London, England",
     "WOS": {
-      "inst": "Bahria Univ, Dept Comp Sci, Lahore Campus, Lahore 54000, Pakistan",
+      "inst": "UCL, Global Disabil Innovat Hub, London, England",
       "A_id": [
-        "s9308848"
+        "ss9692554"
       ],
       "papers": [
-        "6294af741649752aa18746ee"
+        "629f2f449e77905b32f89161"
       ],
-      "oriInst": "Bahria Univ, Dept Comp Sci, Lahore Campus, Lahore 54000, Pakistan"
+      "oriInst": "UCL, Global Disabil Innovat Hub, London, England"
     }
   }
 }
