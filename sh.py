@@ -137,18 +137,20 @@ for i in range(len(key_querys)):
                 dbpia_paper_year = key_query['issue_year'][:4]
                 dbpia_paper_journal = key_query['journal']
                 dbpia_paper_lang = key_query['issue_lang']
-                dbpia_mng_name = key_query['author'].split(';')[-2]
+                dbpia_mng_name = key_query['author'].split(";")[0]
+                # dbpia_mng_name = key_query['author'].split(';')[-2]
                 dbpia_paper = key_query['_id']
                 dbpia_mng_ids[mng_id] = {'year': dbpia_paper_year, 'journal': dbpia_paper_journal, 'lang': dbpia_paper_lang, 'name': dbpia_mng_name, 'paper' : dbpia_paper}
-                
+
         else:
             if key_query['author_inst'] not in "":
-                paper_year =  key_query['issue_year'][:4]
+                paper_year = key_query['issue_year'][:4]
                 paper_journal = key_query['journal']
                 ori_inst = key_query['originalName'].split(';')[-2]
                 paper_lang = key_query['issue_lang']
                 exi_inst = key_query['author_inst'].split(';')[-2]
-                mng_name = key_query['author'].split(';')[-2]
+                mng_name = key_query['author'].split(";")[0]
+                # mng_name = key_query['author'].split(';')[-2]
                 mng_id = key_query['mngId']
                 paper = key_query['_id']
 
