@@ -1,0 +1,9 @@
+﻿name,n_pubs,n_clusters,precision,recall,f1, pred_label, base_label
+mawatarimasaaki,4,1,1.00000,1.00000,1.00000, [0 0 0 0], [0 0 0 0]
+fungfunman,3,1,1.00000,1.00000,1.00000, [0 0 0], [0 0 0]
+filippousisgiorgos,3,2,0.33333,1.00000,0.50000, [0 0 0], [0 0 1]
+campbellabrahamg,5,2,0.60000,1.00000,0.75000, [0 0 0 0 0], [0 0 0 0 1]
+munteangabrielmiro,3,1,1.00000,1.00000,1.00000, [0 0 0], [0 0 0]
+rezaeihachesupeyman,3,1,1.00000,1.00000,1.00000, [0 0 0], [0 0 0]
+schwabjosephh,3,1,1.00000,1.00000,1.00000, [0 0 0], [0 0 0]
+average,,,0.84762,1.00000,0.91753

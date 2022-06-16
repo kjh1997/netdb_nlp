@@ -1,0 +1,5 @@
+﻿name,n_pubs,n_clusters,precision,recall,f1, pred_label, base_label,acc
+otaeguioihana,4,2,0.50000,1.00000,0.66667, [0 0 0 0], [0 0 0 1],0.5
+tonellapaolo,3,2,0.33333,1.00000,0.50000, [0 0 0], [0 0 1],0.3333333333333333
+kimyoungseop,4,1,1.00000,1.00000,1.00000, [0 0 0 0], [0 0 0 0],1.0
+average,,,0.61111,1.00000,0.75862,0.611111111111111
