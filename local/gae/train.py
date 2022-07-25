@@ -1,11 +1,12 @@
 from __future__ import division
 from __future__ import print_function
+from email.mime import base
 import sys
 sys.path.append("/home/kjh/netdb_nlp")
 import os
 import time
 from os.path import join
-
+import numpy as np
 # Train on CPU (hide GPU) due to memory constraints
 os.environ['CUDA_VISIBLE_DEVICES'] = ""
 
@@ -28,7 +29,7 @@ from utils import settings
 flags = tf.app.flags
 FLAGS = flags.FLAGS
 flags.DEFINE_float('learning_rate', 0.01, 'Initial learning rate.')
-flags.DEFINE_integer('epochs', 200, 'Number of epochs to train.')
+flags.DEFINE_integer('epochs', 300, 'Number of epochs to train.')
 flags.DEFINE_integer('hidden1', 128, 'Number of units in hidden layer 1.')  # 32
 flags.DEFINE_integer('hidden2', 64, 'Number of units in hidden layer 2.')  # 16
 flags.DEFINE_float('weight_decay', 0., 'Weight for L2 loss on embedding matrix.')
@@ -50,11 +51,8 @@ def gae_for_na(name):
     :param name:  author name
     :return: evaluation results
     """
-    try:
-        adj, features, labels = load_local_data(name=name)
-    except Exception as e:
-        print("없음")
-        return 0
+    adj, features, labels = load_local_data(name=name)
+    
     # Store original adjacency matrix (without diagonal entries) for later
     adj_orig = adj
     adj_orig = adj_orig - sp.dia_matrix((adj_orig.diagonal()[np.newaxis, :], [0]), shape=adj_orig.shape)
@@ -129,7 +127,7 @@ def gae_for_na(name):
         feed_dict = construct_feed_dict(adj_norm, adj_label, features, placeholders)
         feed_dict.update({placeholders['dropout']: FLAGS.dropout})
         # Run single weight update
-         = sess.run([opt.opt_op, opt.cost, opt.accuracy],
+        outs = sess.run([opt.opt_op, opt.cost, opt.accuracy],
                         feed_dict=feed_dict)
 
         # Compute average loss
@@ -143,14 +141,14 @@ def gae_for_na(name):
     emb = get_embs()
     n_clusters = len(set(labels))
     emb_norm = normalize_vectors(emb)
-    clusters_pred = clustering(emb_norm, num_clusters=n_clusters)
+    clusters_pred = clustering(emb, num_clusters=n_clusters)
     print(clusters_pred)
     print("-------------------------------------------2")
     prec, rec, f1 =  pairwise_precision_recall_f1(clusters_pred, labels)
     print('pairwise precision', '{:.5f}'.format(prec),
           'recall', '{:.5f}'.format(rec),
           'f1', '{:.5f}'.format(f1))
-    return [prec, rec, f1], num_nodes, n_clusters
+    return [prec, rec, f1], num_nodes, n_clusters, clusters_pred, labels
 
 
 def load_test_names():
@@ -161,30 +159,31 @@ def main():
     cnt=0
     names = load_test_names()
     wf = codecs.open(join(settings.OUT_DIR, 'local_clustering_results.csv'), 'w', encoding='utf-8-sig')
-    wf.write('name,n_pubs,n_clusters,precision,recall,f1\n')
+    wf.write('name,n_pubs,n_clusters,precision,recall,f1, pred_label, base_label\n')
     metrics = np.zeros(3)
     cnt = 0
     print(len(names))
     for name in names:
         cnt +=1
-        cur_metric, num_nodes, n_clusters = gae_for_na(name)
-        wf.write('{0},{1},{2},{3:.5f},{4:.5f},{5:.5f}\n'.format(
-            name, num_nodes, n_clusters, cur_metric[0], cur_metric[1], cur_metric[2]))
+        cur_metric, num_nodes, n_clusters, clusters_pred, base_label = gae_for_na(name)
+        
+        wf.write('{0},{1},{2},{3:.5f},{4:.5f},{5:.5f}, {6}, {7}\n'.format(
+            name, num_nodes, n_clusters, cur_metric[0], cur_metric[1], cur_metric[2], clusters_pred,np.array(base_label)))
         wf.flush()
         for i, m in enumerate(cur_metric):
             metrics[i] += m
-        print(cnt)
+       # print(cnt)
         macro_prec = metrics[0] / cnt
         macro_rec = metrics[1] / cnt
         macro_f1 = cal_f1(macro_prec, macro_rec)
-        print('average until now', [macro_prec, macro_rec, macro_f1])
+      #  print('average until now', [macro_prec, macro_rec, macro_f1])
         time_acc = time.time()-start_time
-        print(cnt, 'names', time_acc, 'avg time', time_acc/cnt)
+      #  print(cnt, 'names', time_acc, 'avg time', time_acc/cnt)
     macro_prec = metrics[0] / cnt
     macro_rec = metrics[1] / cnt
     macro_f1 = cal_f1(macro_prec, macro_rec)
     wf.write('average,,,{0:.5f},{1:.5f},{2:.5f}\n'.format(
-        macro_prec, macro_rec, macro_f1))
+        macro_prec, macro_rec, macro_f1, ))
     wf.close()
 
 
